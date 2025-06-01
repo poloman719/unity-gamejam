@@ -378,7 +378,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 829091640}
   projectileObject: {fileID: 0}
-  bulletSpeed: 0
+  bulletSpeed: 15
 --- !u!50 &829091640
 Rigidbody2D:
   serializedVersion: 5
@@ -470,8 +470,8 @@ Transform:
   m_GameObject: {fileID: 829091638}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 3.5, z: 0}
-  m_LocalScale: {x: 0.25, y: 0.25, z: 1}
+  m_LocalPosition: {x: 0.03, y: 4.07, z: 0}
+  m_LocalScale: {x: 0.1456, y: 0.1456, z: 0.5824}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -518,8 +518,8 @@ Transform:
   m_GameObject: {fileID: 1726092001}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.25, y: 0.25, z: 0.25}
+  m_LocalPosition: {x: 0.02, y: -3.83, z: 0}
+  m_LocalScale: {x: 0.1633, y: 0.1633, z: 0.1633}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 299479169}
@@ -569,12 +569,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 5750791891128804439, guid: ccef904f51d5e4d36bba32a029959d55, type: 3}
+  m_Sprite: {fileID: 7114914274904832564, guid: a949706c6c219fa44adb5d2c9b352898, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.22, y: 0.24}
+  m_Size: {x: 4.0203924, y: 10.82}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -671,11 +671,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3537129652713047178, guid: 9f7c7932c5bf5419aab58ba93623001e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -29.49
       objectReference: {fileID: 0}
     - target: {fileID: 3537129652713047178, guid: 9f7c7932c5bf5419aab58ba93623001e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7
+      value: 2.72
       objectReference: {fileID: 0}
     - target: {fileID: 3537129652713047178, guid: 9f7c7932c5bf5419aab58ba93623001e, type: 3}
       propertyPath: m_LocalPosition.z
