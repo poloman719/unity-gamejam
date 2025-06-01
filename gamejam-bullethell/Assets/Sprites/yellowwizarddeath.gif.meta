@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      yellowwizarddeath_0: -8723535580821875087
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
