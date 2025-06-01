@@ -1,13 +1,25 @@
 fileFormatVersion: 2
-guid: 5cbeda1cadcaf4f35add203a7805c8b5
+guid: 6b8c0980355289d47ac74b897913b98f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4323829753409748129
-    second: bomb_explosion_0
+      213: -5295273656078078922
+    second: archmageCastGeneral_0
   - first:
-      213: 4436693064181886209
-    second: bomb_explosion_1
+      213: 6210259531277184026
+    second: archmageCastGeneral_1
+  - first:
+      213: 8585301072367451067
+    second: archmageCastGeneral_2
+  - first:
+      213: -8701121629695723908
+    second: archmageCastGeneral_3
+  - first:
+      213: -7448354775836767040
+    second: archmageCastGeneral_4
+  - first:
+      213: 7263091214264294950
+    second: archmageCastGeneral_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -99,30 +111,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bomb_explosion_0
+      name: archmageCastGeneral_0
       rect:
         serializedVersion: 2
-        x: 1567
-        y: 1631
-        width: 322
-        height: 514
+        x: 59
+        y: 791
+        width: 210
+        height: 182
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1acb0498044510c30800000000000000
-      internalID: 4323829753409748129
+      spriteID: 63c6bf45aa86386b0800000000000000
+      internalID: -5295273656078078922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb_explosion_1
+      name: archmageCastGeneral_1
       rect:
         serializedVersion: 2
-        x: 1759
-        y: 2143
-        width: 34
-        height: 34
+        x: 351
+        y: 815
+        width: 258
+        height: 162
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +152,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 10d2004d5dc429d30800000000000000
-      internalID: 4436693064181886209
+      spriteID: a1ca2cce3264f2650800000000000000
+      internalID: 6210259531277184026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageCastGeneral_2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 827
+        width: 321
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbfd34a6dd152770800000000000000
+      internalID: 8585301072367451067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageCastGeneral_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 960
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76b4827af76f3780800000000000000
+      internalID: -8701121629695723908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageCastGeneral_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 960
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc4a216bc022a890800000000000000
+      internalID: -7448354775836767040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageCastGeneral_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 55
+        width: 294
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62edb755afeabc460800000000000000
+      internalID: 7263091214264294950
       vertices: []
       indices: 
       edges: []
@@ -172,9 +259,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      bomb_explosion_0: 4323829753409748129
-      bomb_explosion_1: 4436693064181886209
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

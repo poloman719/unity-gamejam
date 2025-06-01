@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c8c2f192ef94549e39c32e51baf9d932
+guid: 7e5dcf3e0ad5af647b8711f0c3e535b8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8723535580821875087
-    second: yellowwizarddeath_0
+      213: 2728503696097063448
+    second: loopingbg_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: yellowwizarddeath_0
+      name: loopingbg_0
       rect:
         serializedVersion: 2
-        x: 287
-        y: 191
-        width: 482
-        height: 738
+        x: 0
+        y: 0
+        width: 5376
+        height: 6048
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17691a7cb96cfe680800000000000000
-      internalID: -8723535580821875087
+      spriteID: 812b436c7a79dd520800000000000000
+      internalID: 2728503696097063448
       vertices: []
       indices: 
       edges: []
@@ -147,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      yellowwizarddeath_0: -8723535580821875087
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

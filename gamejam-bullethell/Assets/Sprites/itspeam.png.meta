@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3bd58f03786f8488f9b30c82fff2e13a
+guid: 79a61bbcadeb8b746a9df4d3ce6583e8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -765429896532786144
-    second: archmageIdle_0
+      213: 3844797839857565929
+    second: itspeam_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: archmageIdle_0
+      name: itspeam_0
       rect:
         serializedVersion: 2
-        x: 27
-        y: 23
-        width: 210
-        height: 182
+        x: 0
+        y: 0
+        width: 217
+        height: 232
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 02403b48095a065f0800000000000000
-      internalID: -765429896532786144
+      spriteID: 9e046e5c3477b5530800000000000000
+      internalID: 3844797839857565929
       vertices: []
       indices: 
       edges: []
@@ -147,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      archmageIdle_0: -765429896532786144
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

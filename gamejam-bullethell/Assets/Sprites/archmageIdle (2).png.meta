@@ -1,13 +1,25 @@
 fileFormatVersion: 2
-guid: 41d3d945afbdf400583a98b49f11c2db
+guid: 14d9a210ee2a57b498a9ca8cc53f12bf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3201510369988122546
-    second: bomb_sprite_0
+      213: 6936813579663963011
+    second: archmageIdle (2)_0
   - first:
-      213: -8821216720955846779
-    second: bomb_sprite_1
+      213: -283181455648989296
+    second: archmageIdle (2)_1
+  - first:
+      213: 3099650589081464141
+    second: archmageIdle (2)_2
+  - first:
+      213: -7447562686913689227
+    second: archmageIdle (2)_3
+  - first:
+      213: 7771487212162948773
+    second: archmageIdle (2)_4
+  - first:
+      213: 3499295171117516845
+    second: archmageIdle (2)_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -99,30 +111,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bomb_sprite_0
+      name: archmageIdle (2)_0
       rect:
         serializedVersion: 2
-        x: 587
-        y: 611
-        width: 122
-        height: 194
+        x: 27
+        y: 535
+        width: 210
+        height: 182
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b71fdb18bc0e6c20800000000000000
-      internalID: 3201510369988122546
+      spriteID: 383f9f8a233844060800000000000000
+      internalID: 6936813579663963011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb_sprite_1
+      name: archmageIdle (2)_1
       rect:
         serializedVersion: 2
-        x: 659
-        y: 803
-        width: 14
-        height: 14
+        x: 283
+        y: 539
+        width: 222
+        height: 182
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +152,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 58fc0bc012eb49580800000000000000
-      internalID: -8821216720955846779
+      spriteID: 09f501967ffe11cf0800000000000000
+      internalID: -283181455648989296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageIdle (2)_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 291
+        width: 222
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4de702c9cb240b20800000000000000
+      internalID: 3099650589081464141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageIdle (2)_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 291
+        width: 226
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5794e04f131f4a890800000000000000
+      internalID: -7447562686913689227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageIdle (2)_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 31
+        width: 222
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae9671c17ed9db60800000000000000
+      internalID: 7771487212162948773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageIdle (2)_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 27
+        width: 214
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2803b60b6eff8030800000000000000
+      internalID: 3499295171117516845
       vertices: []
       indices: 
       edges: []
@@ -172,9 +259,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      bomb_sprite_0: 3201510369988122546
-      bomb_sprite_1: -8821216720955846779
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

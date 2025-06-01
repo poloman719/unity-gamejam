@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 937b34ec188e05741aabe900fae74082
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5088303778223847489
+    second: yellowwizarddeath_3_0
+  - first:
+      213: 9217116769489757517
+    second: yellowwizarddeath_3_1
+  - first:
+      213: -6152445185311907505
+    second: yellowwizarddeath_3_2
+  - first:
+      213: 1659582212998350996
+    second: yellowwizarddeath_3_3
+  - first:
+      213: 1697452558371295639
+    second: yellowwizarddeath_3_4
+  - first:
+      213: 217046885315414589
+    second: yellowwizarddeath_3_5
+  - first:
+      213: 2137287330273150794
+    second: yellowwizarddeath_3_6
+  - first:
+      213: -3855757719420785656
+    second: yellowwizarddeath_3_7
+  - first:
+      213: 7114353259960958946
+    second: yellowwizarddeath_3_8
+  - first:
+      213: 6116205579884352408
+    second: yellowwizarddeath_3_9
+  - first:
+      213: -3756999057698219261
+    second: yellowwizarddeath_3_10
+  - first:
+      213: -1441448241356665740
+    second: yellowwizarddeath_3_11
+  - first:
+      213: -8557152339349257237
+    second: yellowwizarddeath_3_12
+  - first:
+      213: -906891139477119193
+    second: yellowwizarddeath_3_13
+  - first:
+      213: 8867578745328920253
+    second: yellowwizarddeath_3_14
+  - first:
+      213: -6006985791933660175
+    second: yellowwizarddeath_3_15
+  - first:
+      213: 7869111392821370166
+    second: yellowwizarddeath_3_16
+  - first:
+      213: -7382951894241059547
+    second: yellowwizarddeath_3_17
+  - first:
+      213: -3971432595790844032
+    second: yellowwizarddeath_3_18
+  - first:
+      213: 2290770141686309468
+    second: yellowwizarddeath_3_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_0
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3263
+        width: 482
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1487f4ac3594d9640800000000000000
+      internalID: 5088303778223847489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_1
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 3231
+        width: 482
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45abb21ed6c9ef70800000000000000
+      internalID: 9217116769489757517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_2
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 3263
+        width: 610
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41eb6573bf1e9aa0800000000000000
+      internalID: -6152445185311907505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_3
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 3263
+        width: 802
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498c259da35080710800000000000000
+      internalID: 1659582212998350996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2239
+        width: 802
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7919cccbb109e8710800000000000000
+      internalID: 1697452558371295639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_5
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2239
+        width: 802
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a84d20efa130300800000000000000
+      internalID: 217046885315414589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_6
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 2239
+        width: 802
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47cfd7c08b29ad10800000000000000
+      internalID: 2137287330273150794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_7
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 2239
+        width: 802
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c24f968c89d7ac0800000000000000
+      internalID: -3855757719420785656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1215
+        width: 802
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef7d92b8924bb260800000000000000
+      internalID: 7114353259960958946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_9
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1215
+        width: 802
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893d442e19021e450800000000000000
+      internalID: 6116205579884352408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_10
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1215
+        width: 802
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b9b6033457cdbc0800000000000000
+      internalID: -3756999057698219261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_11
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 1215
+        width: 802
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c03db2672fefbe0800000000000000
+      internalID: -1441448241356665740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 642
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be34f2cf843ee3980800000000000000
+      internalID: -8557152339349257237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_13
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 671
+        width: 482
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f548540531a63f0800000000000000
+      internalID: -906891139477119193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_14
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 895
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6622de2e7ff0b70800000000000000
+      internalID: 8867578745328920253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 479
+        width: 226
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3c9f4af36e2aca0800000000000000
+      internalID: -6006985791933660175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_16
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 511
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dd8139e13b43d60800000000000000
+      internalID: 7869111392821370166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_17
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 447
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd6f56e5c7a8990800000000000000
+      internalID: -7382951894241059547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_18
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 479
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08faa7e7813a2e8c0800000000000000
+      internalID: -3971432595790844032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_3_19
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 287
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52a84d8e437acf10800000000000000
+      internalID: 2290770141686309468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

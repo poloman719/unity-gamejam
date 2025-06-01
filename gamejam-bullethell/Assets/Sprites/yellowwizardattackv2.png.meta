@@ -1,0 +1,1142 @@
+fileFormatVersion: 2
+guid: a7281b12592878b4197f28af65c02d82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3036821099916833478
+    second: yellowwizardattackv2_0
+  - first:
+      213: 3179749241808825762
+    second: yellowwizardattackv2_1
+  - first:
+      213: -4450486582806954889
+    second: yellowwizardattackv2_2
+  - first:
+      213: 7952458474391049946
+    second: yellowwizardattackv2_3
+  - first:
+      213: -595685559655020564
+    second: yellowwizardattackv2_4
+  - first:
+      213: -7622838740157487898
+    second: yellowwizardattackv2_5
+  - first:
+      213: 8401856370225980453
+    second: yellowwizardattackv2_6
+  - first:
+      213: -1243382999139745710
+    second: yellowwizardattackv2_7
+  - first:
+      213: 5833836543461916500
+    second: yellowwizardattackv2_8
+  - first:
+      213: -1514307261250743377
+    second: yellowwizardattackv2_9
+  - first:
+      213: 4607096285845885912
+    second: yellowwizardattackv2_10
+  - first:
+      213: 4915703487486138556
+    second: yellowwizardattackv2_11
+  - first:
+      213: -8321054323275644471
+    second: yellowwizardattackv2_12
+  - first:
+      213: -99923871348068197
+    second: yellowwizardattackv2_13
+  - first:
+      213: -1739152927452782602
+    second: yellowwizardattackv2_14
+  - first:
+      213: 5962671631779477637
+    second: yellowwizardattackv2_15
+  - first:
+      213: -1802764668627868071
+    second: yellowwizardattackv2_16
+  - first:
+      213: 2906914594755761934
+    second: yellowwizardattackv2_17
+  - first:
+      213: -1626912553499785387
+    second: yellowwizardattackv2_18
+  - first:
+      213: -8259711281535421337
+    second: yellowwizardattackv2_19
+  - first:
+      213: -1872802419230814509
+    second: yellowwizardattackv2_20
+  - first:
+      213: 2093402574252423896
+    second: yellowwizardattackv2_21
+  - first:
+      213: -3802981695546260726
+    second: yellowwizardattackv2_22
+  - first:
+      213: 8455812331731193331
+    second: yellowwizardattackv2_23
+  - first:
+      213: 5733453354791463109
+    second: yellowwizardattackv2_24
+  - first:
+      213: -6448817962596524256
+    second: yellowwizardattackv2_25
+  - first:
+      213: 2917999700455670530
+    second: yellowwizardattackv2_26
+  - first:
+      213: 5673925857166439274
+    second: yellowwizardattackv2_27
+  - first:
+      213: -593330291350246134
+    second: yellowwizardattackv2_28
+  - first:
+      213: -4542388170131669030
+    second: yellowwizardattackv2_29
+  - first:
+      213: -9077554395206143306
+    second: yellowwizardattackv2_30
+  - first:
+      213: -1901326314921664868
+    second: yellowwizardattackv2_31
+  - first:
+      213: -266117603371996764
+    second: yellowwizardattackv2_32
+  - first:
+      213: -1640594832101205614
+    second: yellowwizardattackv2_33
+  - first:
+      213: 2964864447369286577
+    second: yellowwizardattackv2_34
+  - first:
+      213: -260130331569629308
+    second: yellowwizardattackv2_35
+  - first:
+      213: 6843790273803921088
+    second: yellowwizardattackv2_36
+  - first:
+      213: 295448554022885065
+    second: yellowwizardattackv2_37
+  - first:
+      213: -4177634979133727606
+    second: yellowwizardattackv2_38
+  - first:
+      213: 6376033388638194967
+    second: yellowwizardattackv2_39
+  - first:
+      213: 1616648365123309587
+    second: yellowwizardattackv2_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yellowwizardattackv2_0
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 4751
+        width: 362
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3dcb05ac4b0bd5d0800000000000000
+      internalID: -3036821099916833478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_1
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 4727
+        width: 362
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad25d0a61db02c20800000000000000
+      internalID: 3179749241808825762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_2
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 4727
+        width: 362
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c362a5802bc32c0800000000000000
+      internalID: -4450486582806954889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_3
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 4727
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad69f1939decc5e60800000000000000
+      internalID: 7952458474391049946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_4
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 4727
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7ceeab323bbb7f0800000000000000
+      internalID: -595685559655020564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_5
+      rect:
+        serializedVersion: 2
+        x: 4031
+        y: 4727
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4a3d8ad8c363690800000000000000
+      internalID: -7622838740157487898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3959
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5242c219ad3699470800000000000000
+      internalID: 8401856370225980453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_7
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 3959
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250048000cd9ebee0800000000000000
+      internalID: -1243382999139745710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_8
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 3959
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f7db26d63f5f050800000000000000
+      internalID: 5833836543461916500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_9
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 3959
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3da5ca1991cfae0800000000000000
+      internalID: -1514307261250743377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_10
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 3959
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d39ddb99a1bfef30800000000000000
+      internalID: 4607096285845885912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_11
+      rect:
+        serializedVersion: 2
+        x: 4031
+        y: 3959
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb892c00746183440800000000000000
+      internalID: 4915703487486138556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3191
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c14d680e2da58c80800000000000000
+      internalID: -8321054323275644471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_13
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 3191
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9077b7b4cffc9ef0800000000000000
+      internalID: -99923871348068197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_14
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 3191
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff981d70a94dd7e0800000000000000
+      internalID: -1739152927452782602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_15
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 3191
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588b38ce14aafb250800000000000000
+      internalID: 5962671631779477637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_16
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 3191
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956afc8d51b4bf6e0800000000000000
+      internalID: -1802764668627868071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_17
+      rect:
+        serializedVersion: 2
+        x: 4031
+        y: 3191
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07d0d42c6f675820800000000000000
+      internalID: 2906914594755761934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_18
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2423
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557850007ab0c69e0800000000000000
+      internalID: -1626912553499785387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_19
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2423
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7647bcce95c9f5d80800000000000000
+      internalID: -8259711281535421337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_20
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 2423
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de414b4f187206e0800000000000000
+      internalID: -1872802419230814509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_21
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 2423
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da343acc824d0d10800000000000000
+      internalID: 2093402574252423896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_22
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 2423
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0307a50c48193bc0800000000000000
+      internalID: -3802981695546260726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_23
+      rect:
+        serializedVersion: 2
+        x: 4031
+        y: 2423
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd8430d384195570800000000000000
+      internalID: 8455812331731193331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1655
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8ed94f271519f40800000000000000
+      internalID: 5733453354791463109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_25
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1655
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f9646fa323186a0800000000000000
+      internalID: -6448817962596524256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_26
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1655
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2034b507441de7820800000000000000
+      internalID: 2917999700455670530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_27
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 1655
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a633f4e5185ddbe40800000000000000
+      internalID: 5673925857166439274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_28
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 1655
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0de69d5e3114c7f0800000000000000
+      internalID: -593330291350246134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_29
+      rect:
+        serializedVersion: 2
+        x: 4031
+        y: 1655
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf7d5f960236f0c0800000000000000
+      internalID: -4542388170131669030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 887
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2b37c5f5c060280800000000000000
+      internalID: -9077554395206143306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_31
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 887
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eddfc4ac12d95e0800000000000000
+      internalID: -1901326314921664868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_32
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 887
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9a88e137f8e4cf0800000000000000
+      internalID: -266117603371996764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_33
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 887
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299144441bf6b39e0800000000000000
+      internalID: -1640594832101205614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_34
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 887
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b391a0a180552920800000000000000
+      internalID: 2964864447369286577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_35
+      rect:
+        serializedVersion: 2
+        x: 4031
+        y: 887
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487dc7777d4d36cf0800000000000000
+      internalID: -260130331569629308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 119
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c62b5b7ef60afe50800000000000000
+      internalID: 6843790273803921088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_37
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 119
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6dfeff4e4a91400800000000000000
+      internalID: 295448554022885065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_38
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 119
+        width: 410
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cdc7bde1f0606c0800000000000000
+      internalID: -4177634979133727606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_39
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 119
+        width: 362
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d4fc5d5983c7850800000000000000
+      internalID: 6376033388638194967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizardattackv2_40
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 143
+        width: 362
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31014e96f1d7f6610800000000000000
+      internalID: 1616648365123309587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
