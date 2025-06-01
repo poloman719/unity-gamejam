@@ -67,7 +67,7 @@ public class PlayerController : MonoBehaviour
         moving = false;
         dashing = true;
         preDashVelocity = velocity;
-        velocity *= dashFactor;
+        velocity = velocity.normalized * dashFactor;
     }
 
     // Update is called once per frame
