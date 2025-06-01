@@ -37,5 +37,6 @@ public class WizardScript : MonoBehaviour
         // projectileVelocity = new Vector2((float)Math.Cos(angle * Math.PI / 180), (float)Math.Sin(angle * Math.PI / 180)) * 15;
         GameObject newObject = GameObject.Instantiate(projectileObject, rb.position, Quaternion.identity);
         newObject.GetComponent<Rigidbody2D>().linearVelocity = new Vector2((float)Math.Cos(angle * Math.PI / 180), (float)Math.Sin(angle * Math.PI / 180)) * 15;
+        newObject.transform.Rotate(new Vector3(0,0, (float) angle + 90));
     }
 }

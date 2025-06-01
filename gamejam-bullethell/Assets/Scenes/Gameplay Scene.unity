@@ -531,7 +531,7 @@ Transform:
   m_GameObject: {fileID: 995826925}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.56809, y: -1.74109, z: 0}
+  m_LocalPosition: {x: 15.89, y: 0.67, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -723,6 +723,14 @@ PrefabInstance:
       value: Projectile
       objectReference: {fileID: 0}
     - target: {fileID: 3537129652713047178, guid: 9f7c7932c5bf5419aab58ba93623001e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3537129652713047178, guid: 9f7c7932c5bf5419aab58ba93623001e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3537129652713047178, guid: 9f7c7932c5bf5419aab58ba93623001e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -762,6 +770,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6926688049300164750, guid: 9f7c7932c5bf5419aab58ba93623001e, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6926688049300164750, guid: 9f7c7932c5bf5419aab58ba93623001e, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 7646888079016449511, guid: 9f7c7932c5bf5419aab58ba93623001e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -8626833954641355962, guid: ec47e813b617c75459735e2b94f9dbe1, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
