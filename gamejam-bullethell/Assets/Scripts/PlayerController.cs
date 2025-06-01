@@ -75,7 +75,7 @@ public class PlayerController : MonoBehaviour
     {
         transform.position += velocity * Time.deltaTime * speed;
         if (moving) return;
-        if (velocity.magnitude > friction)
+        if (dashing ? velocity.magnitude > preDashVelocity.magnitude : velocity.magnitude > friction)
         {
             Debug.Log("applying friction");
             velocity -= velocity.normalized * friction;
