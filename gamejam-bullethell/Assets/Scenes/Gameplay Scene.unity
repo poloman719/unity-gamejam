@@ -409,6 +409,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 829091640}
   projectileObject: {fileID: 0}
+  bulletSpeed: 0
 --- !u!50 &829091640
 Rigidbody2D:
   serializedVersion: 5
@@ -568,7 +569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
-  dashFactor: 5
+  dashFactor: 4
   friction: 0.01
 --- !u!4 &1726092003
 Transform:
@@ -580,7 +581,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3, y: 3, z: 3}
+  m_LocalScale: {x: 0.25, y: 0.25, z: 0.25}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 299479169}
@@ -630,7 +631,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7097537589469563291, guid: 6221eefe29c0142bda1cc4fb1fa10274, type: 3}
+  m_Sprite: {fileID: 5750791891128804439, guid: ccef904f51d5e4d36bba32a029959d55, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
