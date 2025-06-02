@@ -27,6 +27,15 @@ public class YellowWizardScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // Set movement direction
+        if (rb.position.x > -3.75)
+        {
+            moveDirection = -1;
+        }
+        if (rb.position.x < -9.5)
+        {
+            moveDirection = 1;
+        }
         timer += Time.deltaTime;
         moveTimer += Time.deltaTime;
         moveWave();
