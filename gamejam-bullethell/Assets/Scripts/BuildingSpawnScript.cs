@@ -20,8 +20,8 @@ public class BuildingSpawnScript : MonoBehaviour
         timer += Time.deltaTime;
         if (timer > generationRate)
         {
-            Instantiate(house, new Vector2((float)-8.7, (float)6.4), transform.rotation);
-            Instantiate(house, new Vector2((float)-1.25, (float)6.4), transform.rotation);
+            Instantiate(house, new Vector2((float)-11.5, (float)6.4), transform.rotation);
+            Instantiate(house, new Vector2((float)-2, (float)6.4), transform.rotation);
             timer = 0;
         }
     }
