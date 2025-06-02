@@ -7,6 +7,11 @@ public class PlayerController : MonoBehaviour
     public float dashFactor = 5F;
     public float friction = 0.01F;
 
+    public float xLowerBound = -10f;
+    public float xUpperBound = 0f;
+    public float yLowerBound = -4f;
+    public float yUpperBound = 5f;
+
     InputAction move;
     InputAction dash;
     Vector3 velocity;
@@ -73,7 +78,20 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position += velocity * Time.deltaTime * speed;
+        Debug.Log("x: " + transform.position.x);
+        Debug.Log(transform.position.x > 0);
+        Debug.Log(transform.position.x < -10);
+        Debug.Log("y: " + transform.position.y);
+        Debug.Log(transform.position.y > 5);
+        Debug.Log(transform.position.y < -4);
+        Vector3 newPosition = transform.position + velocity * Time.deltaTime * speed;
+
+        if (newPosition.x < xLowerBound || newPosition.x > xUpperBound || newPosition.y < yLowerBound || newPosition.y > yUpperBound)
+        {
+            velocity = new Vector3();
+            return;
+        }
+        transform.position = newPosition;
         if (moving) return;
         if (dashing ? velocity.magnitude > preDashVelocity.magnitude : velocity.magnitude > friction)
         {
