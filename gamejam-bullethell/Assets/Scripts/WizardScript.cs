@@ -6,11 +6,19 @@ public class WizardScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public Rigidbody2D rb;
     public GameObject projectileObject;
+    public Animator animator;
     double timer = 0;
+    public double attackSpeed = 5;
 
+    public double attackTimer = 0;
+
+    Boolean isAttacking = false;
+    Boolean attackComplete = false;
     public float bulletSpeed;
 
     public int moveDirection = 0; // 0 -> not moving, -1 -> left, 1 -> right
+    int prevMove = 0;
+
     double moveTimer = 0;
 
     // public Vector2 projectileVelocity = Vector2.zero;
@@ -23,36 +31,58 @@ public class WizardScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        // Increment Timers
         timer += Time.deltaTime;
         moveTimer += Time.deltaTime * 0.5;
-        
-        if (rb.position.x > 4)
-        {
-            moveDirection = -1;
-        }
-        if (rb.position.x < -4)
-        {
-            moveDirection = 1;
-        }
-        
+
         moveWave();
-        if (timer > 1)
+
+        // Attack Timer
+        if (timer > attackSpeed && !isAttacking)
+        {
+            isAttacking = true;
+            prevMove = moveDirection;
+            moveDirection = 0;
+        }
+
+        if (isAttacking)
+        {
+            attackTimer += Time.deltaTime;
+        }
+        else
+        {
+            // Set movement direction
+            if (rb.position.x > 4)
+            {
+                moveDirection = -1;
+            }
+            if (rb.position.x < -4)
+            {
+                moveDirection = 1;
+            }
+        }
+
+        if (attackTimer > 1.5 && !attackComplete)
+        {
+            sprayAttack();
+            moveDirection = prevMove;
+            attackComplete = true;
+        }
+
+        if (attackTimer > 2.5)
         {
             timer = 0;
-            sprayAttack();
+            attackTimer = 0;
+            isAttacking = false;
+            attackComplete = false;
         }
-        
     }
 
     void shootProjectile(double angle)
     {
-        int prevMove = moveDirection;
-        moveDirection = 0;
         GameObject newObject = GameObject.Instantiate(projectileObject, rb.position, Quaternion.identity);
         newObject.GetComponent<Rigidbody2D>().linearVelocity = new Vector2((float)Math.Cos(angle * Math.PI / 180), (float)Math.Sin(angle * Math.PI / 180)) * bulletSpeed;
         newObject.transform.Rotate(new Vector3(0, 0, (float)angle + 90));
-        moveDirection = prevMove;
     }
 
     [ContextMenu("Attack 1 - Spray")]
@@ -70,6 +100,6 @@ public class WizardScript : MonoBehaviour
 
     void moveWave()
     {
-        rb.linearVelocity = new Vector2((float) (moveDirection), (float) (Math.Sin(moveTimer * 10) * 2.5));
+        rb.linearVelocity = new Vector2((float) (moveDirection), (float) (Math.Sin(moveTimer * 4) * 1.5));
     }
 }
