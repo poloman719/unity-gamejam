@@ -2485,7 +2485,7 @@ MonoBehaviour:
   dashFactor: 4
   friction: 0.01
   xLowerBound: -9.5
-  xUpperBound: -0.5
+  xUpperBound: -4
   yLowerBound: -3.5
   yUpperBound: 4.5
 --- !u!4 &1726092003
