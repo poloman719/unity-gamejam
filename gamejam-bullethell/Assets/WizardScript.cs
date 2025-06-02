@@ -26,18 +26,21 @@ public class WizardScript : MonoBehaviour
         
         timer += Time.deltaTime;
         moveTimer += Time.deltaTime;
+        
+        if (rb.position.x > 4)
+        {
+            moveDirection = -1;
+        }
+        if (rb.position.x < -4)
+        {
+            moveDirection = 1;
+        }
+        
         moveWave();
         if (timer > 1)
         {
             timer = 0;
-            double angleDelta = 20;
-            shootProjectile(270);
-            shootProjectile(270 + angleDelta);
-            shootProjectile(270 + -angleDelta);
-            shootProjectile(270 + 2 * angleDelta);
-            shootProjectile(270 + -2 * angleDelta);
-            shootProjectile(270 + 3 * angleDelta);
-            shootProjectile(270 + -3 * angleDelta);
+            sprayAttack();
         }
         
     }
@@ -67,6 +70,6 @@ public class WizardScript : MonoBehaviour
 
     void moveWave()
     {
-        rb.linearVelocity = new Vector2((float) (moveDirection), (float) (Math.Sin(moveTimer) * 0.25));
+        rb.linearVelocity = new Vector2((float) (moveDirection), (float) (Math.Sin(moveTimer * 10)));
     }
 }

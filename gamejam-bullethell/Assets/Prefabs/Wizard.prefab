@@ -130,5 +130,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 7928785539911568712}
   projectileObject: {fileID: 0}
-  bulletSpeed: 15
-  moveDirection: 0
+  bulletSpeed: 10
+  moveDirection: 1

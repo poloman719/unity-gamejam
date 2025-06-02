@@ -118,10 +118,10 @@ TextureImporter:
       name: archmageBasicProj_0
       rect:
         serializedVersion: 2
-        x: 51
-        y: 163
-        width: 30
-        height: 89
+        x: 52
+        y: 164
+        width: 28
+        height: 88
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,10 +140,10 @@ TextureImporter:
       name: archmageBasicProj_2
       rect:
         serializedVersion: 2
-        x: 183
-        y: 163
-        width: 22
-        height: 86
+        x: 184
+        y: 164
+        width: 20
+        height: 84
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,10 +162,10 @@ TextureImporter:
       name: archmageBasicProj_3
       rect:
         serializedVersion: 2
-        x: 51
-        y: 35
-        width: 30
-        height: 89
+        x: 52
+        y: 36
+        width: 28
+        height: 88
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,10 +184,10 @@ TextureImporter:
       name: archmageBasicProj_5
       rect:
         serializedVersion: 2
-        x: 183
-        y: 35
-        width: 22
-        height: 86
+        x: 184
+        y: 36
+        width: 20
+        height: 84
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
