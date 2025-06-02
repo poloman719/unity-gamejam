@@ -390,19 +390,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2597,106 +2584,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      bombExplosion_0: -2073416475850739897
-      bombExplosion_1: 4633394437821313236
-      bombExplosion_10: -1110879015797793992
-      bombExplosion_11: -2509958797519372008
-      bombExplosion_12: -432973764060520023
-      bombExplosion_13: 4425882741749513579
-      bombExplosion_14: -8185678463633027952
-      bombExplosion_15: -5729158285293513346
-      bombExplosion_16: -8223057332299933544
-      bombExplosion_17: -4976870841405953810
-      bombExplosion_18: 6847720072841533641
-      bombExplosion_19: 7252088351816829933
-      bombExplosion_2: -6303014653786669546
-      bombExplosion_20: 9014341753472650117
-      bombExplosion_21: 7564622170757146512
-      bombExplosion_22: -7145807681838048778
-      bombExplosion_23: 4202866093762111959
-      bombExplosion_24: 32586481684165457
-      bombExplosion_25: -1608730269158717250
-      bombExplosion_26: 5669852012105166702
-      bombExplosion_27: 8871049021821541347
-      bombExplosion_28: 7854068480167935680
-      bombExplosion_29: 5995406089360883119
-      bombExplosion_3: 4062010428783614673
-      bombExplosion_30: 2579534478108964283
-      bombExplosion_31: 4301790811892590646
-      bombExplosion_32: -1680884604109232412
-      bombExplosion_33: -1805222063715654607
-      bombExplosion_34: 5405434057375219427
-      bombExplosion_35: 776196751461550650
-      bombExplosion_36: 7152042598992210334
-      bombExplosion_37: -5316351155745765284
-      bombExplosion_38: -9215190297706346328
-      bombExplosion_39: 8604440760408380075
-      bombExplosion_4: 509080261990487441
-      bombExplosion_40: -2649725674930921271
-      bombExplosion_41: 7254884928127309445
-      bombExplosion_42: 2588618852194306981
-      bombExplosion_43: -6422373132374028356
-      bombExplosion_44: 6163575648338374936
-      bombExplosion_45: -4395091408040904018
-      bombExplosion_46: -1433842433939789093
-      bombExplosion_47: -5436003252197432891
-      bombExplosion_48: 5946847807822433124
-      bombExplosion_49: 9045786130529053872
-      bombExplosion_5: 6211380978155557654
-      bombExplosion_50: -110698290448145003
-      bombExplosion_51: -2563389193715025046
-      bombExplosion_52: -670920446621303662
-      bombExplosion_53: -5896268528083723763
-      bombExplosion_54: 6649578486473366841
-      bombExplosion_55: -1243731094308506070
-      bombExplosion_56: -3642866073524416348
-      bombExplosion_57: 8172863972313421775
-      bombExplosion_58: -7378389332236073467
-      bombExplosion_59: -7188267730585497024
-      bombExplosion_6: -3981619309816749139
-      bombExplosion_60: -6019626296824456227
-      bombExplosion_61: 3062205897173839859
-      bombExplosion_62: -1832712747512457818
-      bombExplosion_63: 3729159522783287093
-      bombExplosion_64: 5042576042195954548
-      bombExplosion_65: -3695258345331437157
-      bombExplosion_66: -6221490639864290433
-      bombExplosion_67: -5190320040138962641
-      bombExplosion_68: 6654039943723362447
-      bombExplosion_69: -5096613424541639371
-      bombExplosion_7: 8242789986107683928
-      bombExplosion_70: -8251959702351935760
-      bombExplosion_71: -1471473647855166283
-      bombExplosion_72: -9160114799477009630
-      bombExplosion_73: -300307872849408435
-      bombExplosion_74: -3687365645550971412
-      bombExplosion_75: 2532960255820960419
-      bombExplosion_76: 2991895191602659779
-      bombExplosion_77: 6511787677609234069
-      bombExplosion_78: 5049363506074964222
-      bombExplosion_79: 9195134292808275007
-      bombExplosion_8: -1975456462620092584
-      bombExplosion_80: -7251577860946554414
-      bombExplosion_81: 6382640279154773899
-      bombExplosion_82: -5198193089681043290
-      bombExplosion_83: 7024523829240234342
-      bombExplosion_84: -3314045953597664177
-      bombExplosion_85: -7249407378437348516
-      bombExplosion_86: 4974798151094091763
-      bombExplosion_87: -5975592953022628909
-      bombExplosion_88: -8195197382646687635
-      bombExplosion_89: -517335508821762894
-      bombExplosion_9: 8791098410140356800
-      bombExplosion_90: -4034130762678044683
-      bombExplosion_91: 5069952402867143947
-      bombExplosion_92: 4579734260252154056
-      bombExplosion_93: -7654057105564720142
-      bombExplosion_94: -6179289360695915199
-      bombExplosion_95: -4195873003229329410
-      bombExplosion_96: 4529552073763283783
-      bombExplosion_97: 2849421743208845387
-      bombExplosion_98: 5136488205931264000
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

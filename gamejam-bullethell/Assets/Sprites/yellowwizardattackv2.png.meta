@@ -216,19 +216,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1147,48 +1134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      yellowwizardattackv2_0: -3036821099916833478
-      yellowwizardattackv2_1: 3179749241808825762
-      yellowwizardattackv2_10: 4607096285845885912
-      yellowwizardattackv2_11: 4915703487486138556
-      yellowwizardattackv2_12: -8321054323275644471
-      yellowwizardattackv2_13: -99923871348068197
-      yellowwizardattackv2_14: -1739152927452782602
-      yellowwizardattackv2_15: 5962671631779477637
-      yellowwizardattackv2_16: -1802764668627868071
-      yellowwizardattackv2_17: 2906914594755761934
-      yellowwizardattackv2_18: -1626912553499785387
-      yellowwizardattackv2_19: -8259711281535421337
-      yellowwizardattackv2_2: -4450486582806954889
-      yellowwizardattackv2_20: -1872802419230814509
-      yellowwizardattackv2_21: 2093402574252423896
-      yellowwizardattackv2_22: -3802981695546260726
-      yellowwizardattackv2_23: 8455812331731193331
-      yellowwizardattackv2_24: 5733453354791463109
-      yellowwizardattackv2_25: -6448817962596524256
-      yellowwizardattackv2_26: 2917999700455670530
-      yellowwizardattackv2_27: 5673925857166439274
-      yellowwizardattackv2_28: -593330291350246134
-      yellowwizardattackv2_29: -4542388170131669030
-      yellowwizardattackv2_3: 7952458474391049946
-      yellowwizardattackv2_30: -9077554395206143306
-      yellowwizardattackv2_31: -1901326314921664868
-      yellowwizardattackv2_32: -266117603371996764
-      yellowwizardattackv2_33: -1640594832101205614
-      yellowwizardattackv2_34: 2964864447369286577
-      yellowwizardattackv2_35: -260130331569629308
-      yellowwizardattackv2_36: 6843790273803921088
-      yellowwizardattackv2_37: 295448554022885065
-      yellowwizardattackv2_38: -4177634979133727606
-      yellowwizardattackv2_39: 6376033388638194967
-      yellowwizardattackv2_4: -595685559655020564
-      yellowwizardattackv2_40: 1616648365123309587
-      yellowwizardattackv2_5: -7622838740157487898
-      yellowwizardattackv2_6: 8401856370225980453
-      yellowwizardattackv2_7: -1243382999139745710
-      yellowwizardattackv2_8: 5833836543461916500
-      yellowwizardattackv2_9: -1514307261250743377
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

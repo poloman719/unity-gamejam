@@ -153,19 +153,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -622,27 +609,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      yellowwizarddeath_3_0: 5088303778223847489
-      yellowwizarddeath_3_1: 9217116769489757517
-      yellowwizarddeath_3_10: -3756999057698219261
-      yellowwizarddeath_3_11: -1441448241356665740
-      yellowwizarddeath_3_12: -8557152339349257237
-      yellowwizarddeath_3_13: -906891139477119193
-      yellowwizarddeath_3_14: 8867578745328920253
-      yellowwizarddeath_3_15: -6006985791933660175
-      yellowwizarddeath_3_16: 7869111392821370166
-      yellowwizarddeath_3_17: -7382951894241059547
-      yellowwizarddeath_3_18: -3971432595790844032
-      yellowwizarddeath_3_19: 2290770141686309468
-      yellowwizarddeath_3_2: -6152445185311907505
-      yellowwizarddeath_3_3: 1659582212998350996
-      yellowwizarddeath_3_4: 1697452558371295639
-      yellowwizarddeath_3_5: 217046885315414589
-      yellowwizarddeath_3_6: 2137287330273150794
-      yellowwizarddeath_3_7: -3855757719420785656
-      yellowwizarddeath_3_8: 7114353259960958946
-      yellowwizarddeath_3_9: 6116205579884352408
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

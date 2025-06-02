@@ -333,19 +333,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2122,87 +2109,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      bombSprite_0: -2890489327030669570
-      bombSprite_1: 7981309605856760453
-      bombSprite_10: 4148957357337683093
-      bombSprite_11: -4131190283517532639
-      bombSprite_12: -7010062969815331510
-      bombSprite_13: -6076626050413238964
-      bombSprite_14: 8608235255087289992
-      bombSprite_15: -5352334223953950452
-      bombSprite_16: 8182792126244045922
-      bombSprite_17: 8754139715135563627
-      bombSprite_18: 3606812509959891216
-      bombSprite_19: 7822377796486119332
-      bombSprite_2: -2055804345489018339
-      bombSprite_20: 4116012713220588439
-      bombSprite_21: 2483384775010719195
-      bombSprite_22: 8415174583140391549
-      bombSprite_23: 3231391866644345889
-      bombSprite_24: 5125720061836402398
-      bombSprite_25: 1386998679929678891
-      bombSprite_26: 7199614135348358174
-      bombSprite_27: -8812791805343712052
-      bombSprite_28: -170291567277475171
-      bombSprite_29: 8430655874577613356
-      bombSprite_3: -6428275637277356094
-      bombSprite_30: -4885895087212222962
-      bombSprite_31: -2557696228441105968
-      bombSprite_32: -7429057308569761011
-      bombSprite_33: 9065042064943147258
-      bombSprite_34: 1464079415596050472
-      bombSprite_35: -2662528271503443337
-      bombSprite_36: -9208245790901236343
-      bombSprite_37: -4451093572504183478
-      bombSprite_38: -8568299570250988418
-      bombSprite_39: 65664352916408839
-      bombSprite_4: -5816064780621258202
-      bombSprite_40: 8827325800085412382
-      bombSprite_41: 8449384286991266969
-      bombSprite_42: -1973615706374805013
-      bombSprite_43: -5921862769625149608
-      bombSprite_44: 7452479634381486489
-      bombSprite_45: 3632150481035746896
-      bombSprite_46: -1690242077490839565
-      bombSprite_47: -1157266199389168412
-      bombSprite_48: -7127124989290522395
-      bombSprite_49: 8995257736460657340
-      bombSprite_5: -278666034751373342
-      bombSprite_50: 3539467190450559617
-      bombSprite_51: 7755468140831199701
-      bombSprite_52: -1773501341729084300
-      bombSprite_53: -5262598819675806703
-      bombSprite_54: -2914093868356382071
-      bombSprite_55: -439038131149211310
-      bombSprite_56: 8342990783100948090
-      bombSprite_57: -2642208449133286610
-      bombSprite_58: -450659453790459117
-      bombSprite_59: 8096322182987690721
-      bombSprite_6: 904465556705713439
-      bombSprite_60: 2812158849441146612
-      bombSprite_61: 7216146081693457595
-      bombSprite_62: -7842569722559939891
-      bombSprite_63: 9038314694189101073
-      bombSprite_64: 9130102087176025889
-      bombSprite_65: 5908398953450253749
-      bombSprite_66: -7769432557373488753
-      bombSprite_67: -5837983497070002611
-      bombSprite_68: 4457898482138744799
-      bombSprite_69: -7364408421231029364
-      bombSprite_7: -2747888501509572648
-      bombSprite_70: 822721788043566143
-      bombSprite_71: 5119305543591950525
-      bombSprite_72: -3814180375699659329
-      bombSprite_73: 627815084923948653
-      bombSprite_74: 7028446944319121104
-      bombSprite_75: -4494862093940954634
-      bombSprite_76: -7113608605719649669
-      bombSprite_77: -7304224656916016684
-      bombSprite_78: 3784289148555309892
-      bombSprite_79: 4311937042090659013
-      bombSprite_8: -783529928823604300
-      bombSprite_9: -703595703216621081
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
