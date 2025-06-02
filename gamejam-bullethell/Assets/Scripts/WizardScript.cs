@@ -53,11 +53,11 @@ public class WizardScript : MonoBehaviour
         else
         {
             // Set movement direction
-            if (rb.position.x > -3)
+            if (rb.position.x > -3.75)
             {
                 moveDirection = -1;
             }
-            if (rb.position.x < -7)
+            if (rb.position.x < -9.5)
             {
                 moveDirection = 1;
             }

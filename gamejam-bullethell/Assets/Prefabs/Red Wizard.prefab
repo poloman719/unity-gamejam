@@ -134,9 +134,9 @@ MonoBehaviour:
   rb: {fileID: 7928785539911568712}
   projectileObject: {fileID: 1479579999508034207, guid: 9f7c7932c5bf5419aab58ba93623001e, type: 3}
   animator: {fileID: 7834353808493770916}
-  attackSpeed: 5
+  attackSpeed: 4
   attackTimer: 0
-  bulletSpeed: 10
+  bulletSpeed: 6
   moveDirection: 1
 --- !u!61 &4358937136918953149
 BoxCollider2D:
@@ -145,7 +145,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3086895145429654878}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}

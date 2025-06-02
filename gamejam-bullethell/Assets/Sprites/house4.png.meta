@@ -103,10 +103,10 @@ TextureImporter:
       name: house4_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 19
-        width: 43
-        height: 34
+        x: 224
+        y: 499
+        width: 1027
+        height: 802
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
