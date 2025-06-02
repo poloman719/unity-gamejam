@@ -17,7 +17,7 @@ public class WizardScript : MonoBehaviour
 
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -25,7 +25,7 @@ public class WizardScript : MonoBehaviour
     {
         
         timer += Time.deltaTime;
-        moveTimer += Time.deltaTime;
+        moveTimer += Time.deltaTime * 0.5;
         
         if (rb.position.x > 4)
         {
@@ -70,6 +70,6 @@ public class WizardScript : MonoBehaviour
 
     void moveWave()
     {
-        rb.linearVelocity = new Vector2((float) (moveDirection), (float) (Math.Sin(moveTimer * 10)));
+        rb.linearVelocity = new Vector2((float) (moveDirection), (float) (Math.Sin(moveTimer * 10) * 2.5));
     }
 }
