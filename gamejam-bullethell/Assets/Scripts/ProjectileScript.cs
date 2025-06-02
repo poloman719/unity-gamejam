@@ -14,6 +14,6 @@ public class ProjectileScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (rb.position.y < -13) Destroy(gameObject);
+        if (rb.position.y < -7) Destroy(gameObject);
     }
 }
