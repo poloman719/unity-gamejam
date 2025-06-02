@@ -236,10 +236,10 @@ TextureImporter:
       name: yellowwizardattackv2_0
       rect:
         serializedVersion: 2
-        x: 215
-        y: 4751
-        width: 362
-        height: 554
+        x: 0
+        y: 4608
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,10 +258,10 @@ TextureImporter:
       name: yellowwizardattackv2_1
       rect:
         serializedVersion: 2
-        x: 983
-        y: 4727
-        width: 362
-        height: 578
+        x: 768
+        y: 4608
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -280,10 +280,10 @@ TextureImporter:
       name: yellowwizardattackv2_2
       rect:
         serializedVersion: 2
-        x: 1751
-        y: 4727
-        width: 362
-        height: 578
+        x: 1536
+        y: 4608
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +302,10 @@ TextureImporter:
       name: yellowwizardattackv2_3
       rect:
         serializedVersion: 2
-        x: 2495
-        y: 4727
-        width: 410
-        height: 578
+        x: 2304
+        y: 4608
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,10 +324,10 @@ TextureImporter:
       name: yellowwizardattackv2_4
       rect:
         serializedVersion: 2
-        x: 3263
-        y: 4727
-        width: 410
-        height: 578
+        x: 3072
+        y: 4608
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,10 +346,10 @@ TextureImporter:
       name: yellowwizardattackv2_5
       rect:
         serializedVersion: 2
-        x: 4031
-        y: 4727
-        width: 410
-        height: 578
+        x: 3840
+        y: 4608
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,10 +368,10 @@ TextureImporter:
       name: yellowwizardattackv2_6
       rect:
         serializedVersion: 2
-        x: 191
-        y: 3959
-        width: 410
-        height: 578
+        x: 0
+        y: 3840
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,10 +390,10 @@ TextureImporter:
       name: yellowwizardattackv2_7
       rect:
         serializedVersion: 2
-        x: 959
-        y: 3959
-        width: 410
-        height: 578
+        x: 768
+        y: 3840
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,10 +412,10 @@ TextureImporter:
       name: yellowwizardattackv2_8
       rect:
         serializedVersion: 2
-        x: 1727
-        y: 3959
-        width: 410
-        height: 578
+        x: 1536
+        y: 3840
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,10 +434,10 @@ TextureImporter:
       name: yellowwizardattackv2_9
       rect:
         serializedVersion: 2
-        x: 2495
-        y: 3959
-        width: 410
-        height: 578
+        x: 2304
+        y: 3840
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,10 +456,10 @@ TextureImporter:
       name: yellowwizardattackv2_10
       rect:
         serializedVersion: 2
-        x: 3263
-        y: 3959
-        width: 410
-        height: 578
+        x: 3072
+        y: 3840
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,10 +478,10 @@ TextureImporter:
       name: yellowwizardattackv2_11
       rect:
         serializedVersion: 2
-        x: 4031
-        y: 3959
-        width: 410
-        height: 578
+        x: 3840
+        y: 3840
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,10 +500,10 @@ TextureImporter:
       name: yellowwizardattackv2_12
       rect:
         serializedVersion: 2
-        x: 191
-        y: 3191
-        width: 410
-        height: 578
+        x: 0
+        y: 3072
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -522,10 +522,10 @@ TextureImporter:
       name: yellowwizardattackv2_13
       rect:
         serializedVersion: 2
-        x: 959
-        y: 3191
-        width: 410
-        height: 578
+        x: 768
+        y: 3072
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,10 +544,10 @@ TextureImporter:
       name: yellowwizardattackv2_14
       rect:
         serializedVersion: 2
-        x: 1727
-        y: 3191
-        width: 410
-        height: 578
+        x: 1536
+        y: 3072
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,10 +566,10 @@ TextureImporter:
       name: yellowwizardattackv2_15
       rect:
         serializedVersion: 2
-        x: 2495
-        y: 3191
-        width: 410
-        height: 578
+        x: 2304
+        y: 3072
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -588,10 +588,10 @@ TextureImporter:
       name: yellowwizardattackv2_16
       rect:
         serializedVersion: 2
-        x: 3263
-        y: 3191
-        width: 410
-        height: 578
+        x: 3072
+        y: 3072
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -610,10 +610,10 @@ TextureImporter:
       name: yellowwizardattackv2_17
       rect:
         serializedVersion: 2
-        x: 4031
-        y: 3191
-        width: 410
-        height: 578
+        x: 3840
+        y: 3072
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -632,10 +632,10 @@ TextureImporter:
       name: yellowwizardattackv2_18
       rect:
         serializedVersion: 2
-        x: 191
-        y: 2423
-        width: 410
-        height: 578
+        x: 0
+        y: 2304
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -654,10 +654,10 @@ TextureImporter:
       name: yellowwizardattackv2_19
       rect:
         serializedVersion: 2
-        x: 959
-        y: 2423
-        width: 410
-        height: 578
+        x: 768
+        y: 2304
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -676,10 +676,10 @@ TextureImporter:
       name: yellowwizardattackv2_20
       rect:
         serializedVersion: 2
-        x: 1727
-        y: 2423
-        width: 410
-        height: 578
+        x: 1536
+        y: 2304
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -698,10 +698,10 @@ TextureImporter:
       name: yellowwizardattackv2_21
       rect:
         serializedVersion: 2
-        x: 2495
-        y: 2423
-        width: 410
-        height: 578
+        x: 2304
+        y: 2304
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -720,10 +720,10 @@ TextureImporter:
       name: yellowwizardattackv2_22
       rect:
         serializedVersion: 2
-        x: 3263
-        y: 2423
-        width: 410
-        height: 578
+        x: 3072
+        y: 2304
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -742,10 +742,10 @@ TextureImporter:
       name: yellowwizardattackv2_23
       rect:
         serializedVersion: 2
-        x: 4031
-        y: 2423
-        width: 410
-        height: 578
+        x: 3840
+        y: 2304
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -764,10 +764,10 @@ TextureImporter:
       name: yellowwizardattackv2_24
       rect:
         serializedVersion: 2
-        x: 191
-        y: 1655
-        width: 410
-        height: 578
+        x: 0
+        y: 1536
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -786,10 +786,10 @@ TextureImporter:
       name: yellowwizardattackv2_25
       rect:
         serializedVersion: 2
-        x: 959
-        y: 1655
-        width: 410
-        height: 578
+        x: 768
+        y: 1536
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -808,10 +808,10 @@ TextureImporter:
       name: yellowwizardattackv2_26
       rect:
         serializedVersion: 2
-        x: 1727
-        y: 1655
-        width: 410
-        height: 578
+        x: 1536
+        y: 1536
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -830,10 +830,10 @@ TextureImporter:
       name: yellowwizardattackv2_27
       rect:
         serializedVersion: 2
-        x: 2495
-        y: 1655
-        width: 410
-        height: 578
+        x: 2304
+        y: 1536
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -852,10 +852,10 @@ TextureImporter:
       name: yellowwizardattackv2_28
       rect:
         serializedVersion: 2
-        x: 3263
-        y: 1655
-        width: 410
-        height: 578
+        x: 3072
+        y: 1536
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -874,10 +874,10 @@ TextureImporter:
       name: yellowwizardattackv2_29
       rect:
         serializedVersion: 2
-        x: 4031
-        y: 1655
-        width: 410
-        height: 578
+        x: 3840
+        y: 1536
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -896,10 +896,10 @@ TextureImporter:
       name: yellowwizardattackv2_30
       rect:
         serializedVersion: 2
-        x: 191
-        y: 887
-        width: 410
-        height: 578
+        x: 0
+        y: 768
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -918,10 +918,10 @@ TextureImporter:
       name: yellowwizardattackv2_31
       rect:
         serializedVersion: 2
-        x: 959
-        y: 887
-        width: 410
-        height: 578
+        x: 768
+        y: 768
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -940,10 +940,10 @@ TextureImporter:
       name: yellowwizardattackv2_32
       rect:
         serializedVersion: 2
-        x: 1727
-        y: 887
-        width: 410
-        height: 578
+        x: 1536
+        y: 768
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -962,10 +962,10 @@ TextureImporter:
       name: yellowwizardattackv2_33
       rect:
         serializedVersion: 2
-        x: 2495
-        y: 887
-        width: 410
-        height: 578
+        x: 2304
+        y: 768
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -984,10 +984,10 @@ TextureImporter:
       name: yellowwizardattackv2_34
       rect:
         serializedVersion: 2
-        x: 3263
-        y: 887
-        width: 410
-        height: 578
+        x: 3072
+        y: 768
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1006,10 +1006,10 @@ TextureImporter:
       name: yellowwizardattackv2_35
       rect:
         serializedVersion: 2
-        x: 4031
-        y: 887
-        width: 410
-        height: 578
+        x: 3840
+        y: 768
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1028,10 +1028,10 @@ TextureImporter:
       name: yellowwizardattackv2_36
       rect:
         serializedVersion: 2
-        x: 191
-        y: 119
-        width: 410
-        height: 578
+        x: 0
+        y: 0
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1050,10 +1050,10 @@ TextureImporter:
       name: yellowwizardattackv2_37
       rect:
         serializedVersion: 2
-        x: 959
-        y: 119
-        width: 410
-        height: 578
+        x: 768
+        y: 0
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1072,10 +1072,10 @@ TextureImporter:
       name: yellowwizardattackv2_38
       rect:
         serializedVersion: 2
-        x: 1727
-        y: 119
-        width: 410
-        height: 578
+        x: 1536
+        y: 0
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1094,10 +1094,10 @@ TextureImporter:
       name: yellowwizardattackv2_39
       rect:
         serializedVersion: 2
-        x: 2519
-        y: 119
-        width: 362
-        height: 578
+        x: 2304
+        y: 0
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1116,10 +1116,10 @@ TextureImporter:
       name: yellowwizardattackv2_40
       rect:
         serializedVersion: 2
-        x: 3287
-        y: 143
-        width: 362
-        height: 554
+        x: 3072
+        y: 0
+        width: 768
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1138,7 +1138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f38cd1cff9e75b54f889d60b51a32dbb
     internalID: 0
     vertices: []
     indices: 
@@ -1146,7 +1146,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":7.0},"gridSpriteSize":{"x":768.0,"y":768.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       yellowwizardattackv2_0: -3036821099916833478
       yellowwizardattackv2_1: 3179749241808825762

@@ -173,10 +173,10 @@ TextureImporter:
       name: yellowwizarddeath_3_0
       rect:
         serializedVersion: 2
-        x: 287
-        y: 3263
-        width: 482
-        height: 738
+        x: 0
+        y: 3072
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,10 +195,10 @@ TextureImporter:
       name: yellowwizarddeath_3_1
       rect:
         serializedVersion: 2
-        x: 1311
-        y: 3231
-        width: 482
-        height: 770
+        x: 1024
+        y: 3072
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,10 +217,10 @@ TextureImporter:
       name: yellowwizarddeath_3_2
       rect:
         serializedVersion: 2
-        x: 2271
-        y: 3263
-        width: 610
-        height: 738
+        x: 2048
+        y: 3072
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,10 +239,10 @@ TextureImporter:
       name: yellowwizarddeath_3_3
       rect:
         serializedVersion: 2
-        x: 3199
-        y: 3263
-        width: 802
-        height: 738
+        x: 3072
+        y: 3072
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -261,10 +261,10 @@ TextureImporter:
       name: yellowwizarddeath_3_4
       rect:
         serializedVersion: 2
-        x: 127
-        y: 2239
-        width: 802
-        height: 738
+        x: 0
+        y: 2048
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,10 +283,10 @@ TextureImporter:
       name: yellowwizarddeath_3_5
       rect:
         serializedVersion: 2
-        x: 1151
-        y: 2239
-        width: 802
-        height: 738
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,10 +305,10 @@ TextureImporter:
       name: yellowwizarddeath_3_6
       rect:
         serializedVersion: 2
-        x: 2175
-        y: 2239
-        width: 802
-        height: 738
+        x: 2048
+        y: 2048
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -327,10 +327,10 @@ TextureImporter:
       name: yellowwizarddeath_3_7
       rect:
         serializedVersion: 2
-        x: 3199
-        y: 2239
-        width: 802
-        height: 738
+        x: 3072
+        y: 2048
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,10 +349,10 @@ TextureImporter:
       name: yellowwizarddeath_3_8
       rect:
         serializedVersion: 2
-        x: 127
-        y: 1215
-        width: 802
-        height: 738
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,10 +371,10 @@ TextureImporter:
       name: yellowwizarddeath_3_9
       rect:
         serializedVersion: 2
-        x: 1151
-        y: 1215
-        width: 802
-        height: 738
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -393,10 +393,10 @@ TextureImporter:
       name: yellowwizarddeath_3_10
       rect:
         serializedVersion: 2
-        x: 2175
-        y: 1215
-        width: 802
-        height: 738
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -415,10 +415,10 @@ TextureImporter:
       name: yellowwizarddeath_3_11
       rect:
         serializedVersion: 2
-        x: 3199
-        y: 1215
-        width: 802
-        height: 738
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,10 +437,10 @@ TextureImporter:
       name: yellowwizarddeath_3_12
       rect:
         serializedVersion: 2
-        x: 287
-        y: 287
-        width: 642
-        height: 642
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -459,10 +459,10 @@ TextureImporter:
       name: yellowwizarddeath_3_13
       rect:
         serializedVersion: 2
-        x: 1311
-        y: 671
-        width: 482
-        height: 258
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -481,10 +481,10 @@ TextureImporter:
       name: yellowwizarddeath_3_14
       rect:
         serializedVersion: 2
-        x: 2559
-        y: 895
-        width: 66
-        height: 34
+        x: 2048
+        y: 0
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,121 +499,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: yellowwizarddeath_3_15
-      rect:
-        serializedVersion: 2
-        x: 127
-        y: 479
-        width: 226
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f3c9f4af36e2aca0800000000000000
-      internalID: -6006985791933660175
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: yellowwizarddeath_3_16
-      rect:
-        serializedVersion: 2
-        x: 1183
-        y: 511
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 63dd8139e13b43d60800000000000000
-      internalID: 7869111392821370166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: yellowwizarddeath_3_17
-      rect:
-        serializedVersion: 2
-        x: 1855
-        y: 447
-        width: 98
-        height: 130
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 52dd6f56e5c7a8990800000000000000
-      internalID: -7382951894241059547
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: yellowwizarddeath_3_18
-      rect:
-        serializedVersion: 2
-        x: 2943
-        y: 479
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08faa7e7813a2e8c0800000000000000
-      internalID: -3971432595790844032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: yellowwizarddeath_3_19
-      rect:
-        serializedVersion: 2
-        x: 1823
-        y: 287
-        width: 98
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c52a84d8e437acf10800000000000000
-      internalID: 2290770141686309468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 64ec6a3c8a217274591178aba2732f84
     internalID: 0
     vertices: []
     indices: 
@@ -621,7 +511,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":1024.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       yellowwizarddeath_3_0: 5088303778223847489
       yellowwizarddeath_3_1: 9217116769489757517
@@ -630,11 +522,6 @@ TextureImporter:
       yellowwizarddeath_3_12: -8557152339349257237
       yellowwizarddeath_3_13: -906891139477119193
       yellowwizarddeath_3_14: 8867578745328920253
-      yellowwizarddeath_3_15: -6006985791933660175
-      yellowwizarddeath_3_16: 7869111392821370166
-      yellowwizarddeath_3_17: -7382951894241059547
-      yellowwizarddeath_3_18: -3971432595790844032
-      yellowwizarddeath_3_19: 2290770141686309468
       yellowwizarddeath_3_2: -6152445185311907505
       yellowwizarddeath_3_3: 1659582212998350996
       yellowwizarddeath_3_4: 1697452558371295639

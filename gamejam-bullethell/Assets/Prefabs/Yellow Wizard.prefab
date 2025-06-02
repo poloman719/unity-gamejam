@@ -11,11 +11,11 @@ GameObject:
   - component: {fileID: 2890848852363510499}
   - component: {fileID: 2046288760484762294}
   - component: {fileID: 7928785539911568712}
-  - component: {fileID: 1584724993181361879}
   - component: {fileID: 4358937136918953149}
   - component: {fileID: 7834353808493770916}
+  - component: {fileID: 3598274930215283581}
   m_Layer: 0
-  m_Name: Red Wizard
+  m_Name: Yellow Wizard
   m_TagString: Wizard
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31,7 +31,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1456, y: 0.1456, z: 0.5824}
+  m_LocalScale: {x: 0.17236128, y: 0.17236128, z: 0.68944514}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8077406436733629427}
@@ -81,7 +81,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 2383106839043887718, guid: 4f723b1718795401ab9f0264a92de983, type: 3}
+  m_Sprite: {fileID: -3036821099916833478, guid: a7281b12592878b4197f28af65c02d82, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -119,25 +119,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &1584724993181361879
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3086895145429654878}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d37ef8b2f87242dd9139a5676e4da68, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rb: {fileID: 7928785539911568712}
-  projectileObject: {fileID: 1479579999508034207, guid: 9f7c7932c5bf5419aab58ba93623001e, type: 3}
-  animator: {fileID: 7834353808493770916}
-  attackSpeed: 4
-  attackTimer: 0
-  bulletSpeed: 6
-  moveDirection: 1
 --- !u!61 &4358937136918953149
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -176,7 +157,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 4.82, y: 7.38}
+    oldSize: {x: 7.68, y: 7.6818757}
     newSize: {x: 4.82, y: 7.38}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -194,7 +175,7 @@ Animator:
   m_GameObject: {fileID: 3086895145429654878}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 9322825383394cc498f0f52e88ac86f2, type: 2}
+  m_Controller: {fileID: 9100000, guid: baf2a26a71e932342a4cb1bb0ec2607b, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -206,6 +187,24 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &3598274930215283581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3086895145429654878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de553d60586df0e4485eb7d6aabb5298, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 7928785539911568712}
+  beam: {fileID: 0}
+  animator: {fileID: 7834353808493770916}
+  attackSpeed: 5
+  attackTimer: 0
+  moveDirection: 1
 --- !u!1001 &1712650778142321171
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -244,19 +243,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7483918892051339744, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
       propertyPath: m_LocalScale.x
-      value: 30
+      value: 24.920403
       objectReference: {fileID: 0}
     - target: {fileID: 7483918892051339744, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
       propertyPath: m_LocalScale.y
-      value: 30
+      value: 24.920403
+      objectReference: {fileID: 0}
+    - target: {fileID: 7483918892051339744, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4.153401
       objectReference: {fileID: 0}
     - target: {fileID: 7483918892051339744, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.11
       objectReference: {fileID: 0}
     - target: {fileID: 7483918892051339744, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.71
+      value: 4.12
       objectReference: {fileID: 0}
     - target: {fileID: 7483918892051339744, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
       propertyPath: m_LocalPosition.z
