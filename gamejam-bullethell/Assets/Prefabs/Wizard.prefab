@@ -129,6 +129,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 7928785539911568712}
-  projectileObject: {fileID: 0}
+  projectileObject: {fileID: 1479579999508034207, guid: 9f7c7932c5bf5419aab58ba93623001e, type: 3}
   bulletSpeed: 10
   moveDirection: 1

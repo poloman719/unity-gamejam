@@ -4,8 +4,8 @@ public class HealthBar : MonoBehaviour
 {
     public Sprite[] healthBarSprites;
     public SpriteRenderer spriteRenderer;
-    private float maxHealth = 100;
-    private float currentHealth;
+    public float maxHealth = 100;
+    public float currentHealth;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

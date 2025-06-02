@@ -17,7 +17,7 @@ public class WizardScript : MonoBehaviour
 
     void Start()
     {
-        projectileObject = GameObject.FindWithTag("Projectile");
+        
     }
 
     // Update is called once per frame
