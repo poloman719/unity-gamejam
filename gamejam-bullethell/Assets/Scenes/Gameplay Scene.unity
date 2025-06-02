@@ -2338,6 +2338,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1601944868}
+  - component: {fileID: 1601944869}
   m_Layer: 0
   m_Name: Building Spawner
   m_TagString: Untagged
@@ -2360,6 +2361,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1601944869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1601944867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7169c9f008bac004091b578711aeb886, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  generationRate: 5
+  house: {fileID: 249192657209513385, guid: 3d0502624b1eb764d88f055865ee1fb9, type: 3}
 --- !u!1 &1627057367
 GameObject:
   m_ObjectHideFlags: 0
