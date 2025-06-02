@@ -67,6 +67,6 @@ public class WizardScript : MonoBehaviour
 
     void moveWave()
     {
-        rb.linearVelocity = new Vector2(moveDirection, (float) Math.Sin(moveTimer));
+        rb.linearVelocity = new Vector2((float) (moveDirection), (float) (Math.Sin(moveTimer) * 0.25));
     }
 }
