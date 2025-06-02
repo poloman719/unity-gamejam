@@ -173,10 +173,10 @@ TextureImporter:
       name: redwizarddeath_0
       rect:
         serializedVersion: 2
-        x: 206
-        y: 2345
-        width: 347
-        height: 531
+        x: 0
+        y: 2208
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,10 +195,10 @@ TextureImporter:
       name: redwizarddeath_1
       rect:
         serializedVersion: 2
-        x: 942
-        y: 2322
-        width: 347
-        height: 554
+        x: 736
+        y: 2208
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,10 +217,10 @@ TextureImporter:
       name: redwizarddeath_2
       rect:
         serializedVersion: 2
-        x: 1632
-        y: 2345
-        width: 439
-        height: 531
+        x: 1472
+        y: 2208
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,10 +239,10 @@ TextureImporter:
       name: redwizarddeath_3
       rect:
         serializedVersion: 2
-        x: 2299
-        y: 2345
-        width: 577
-        height: 531
+        x: 2208
+        y: 2208
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -261,10 +261,10 @@ TextureImporter:
       name: redwizarddeath_4
       rect:
         serializedVersion: 2
-        x: 91
-        y: 1609
-        width: 577
-        height: 531
+        x: 0
+        y: 1472
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,10 +283,10 @@ TextureImporter:
       name: redwizarddeath_5
       rect:
         serializedVersion: 2
-        x: 827
-        y: 1609
-        width: 577
-        height: 531
+        x: 736
+        y: 1472
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,10 +305,10 @@ TextureImporter:
       name: redwizarddeath_6
       rect:
         serializedVersion: 2
-        x: 1563
-        y: 1609
-        width: 577
-        height: 531
+        x: 1472
+        y: 1472
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -327,10 +327,10 @@ TextureImporter:
       name: redwizarddeath_7
       rect:
         serializedVersion: 2
-        x: 2299
-        y: 1609
-        width: 577
-        height: 531
+        x: 2208
+        y: 1472
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,10 +349,10 @@ TextureImporter:
       name: redwizarddeath_8
       rect:
         serializedVersion: 2
-        x: 91
-        y: 873
-        width: 577
-        height: 531
+        x: 0
+        y: 736
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,10 +371,10 @@ TextureImporter:
       name: redwizarddeath_9
       rect:
         serializedVersion: 2
-        x: 827
-        y: 873
-        width: 577
-        height: 531
+        x: 736
+        y: 736
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -393,10 +393,10 @@ TextureImporter:
       name: redwizarddeath_10
       rect:
         serializedVersion: 2
-        x: 1563
-        y: 873
-        width: 577
-        height: 531
+        x: 1472
+        y: 736
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -415,10 +415,10 @@ TextureImporter:
       name: redwizarddeath_11
       rect:
         serializedVersion: 2
-        x: 2299
-        y: 873
-        width: 577
-        height: 531
+        x: 2208
+        y: 736
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,10 +437,10 @@ TextureImporter:
       name: redwizarddeath_12
       rect:
         serializedVersion: 2
-        x: 206
-        y: 206
-        width: 462
-        height: 462
+        x: 0
+        y: 0
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -459,10 +459,10 @@ TextureImporter:
       name: redwizarddeath_13
       rect:
         serializedVersion: 2
-        x: 942
-        y: 482
-        width: 347
-        height: 186
+        x: 736
+        y: 0
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -481,10 +481,10 @@ TextureImporter:
       name: redwizarddeath_14
       rect:
         serializedVersion: 2
-        x: 1839
-        y: 643
-        width: 48
-        height: 25
+        x: 1472
+        y: 0
+        width: 736
+        height: 736
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,121 +499,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: redwizarddeath_15
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 344
-        width: 163
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e10bb939145e0e130800000000000000
-      internalID: 3594124572453744670
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: redwizarddeath_16
-      rect:
-        serializedVersion: 2
-        x: 850
-        y: 367
-        width: 25
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 285e413864fb8e840800000000000000
-      internalID: 5253659274895484290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: redwizarddeath_17
-      rect:
-        serializedVersion: 2
-        x: 1333
-        y: 321
-        width: 71
-        height: 94
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 883ed9067b565ef30800000000000000
-      internalID: 4604198032330580872
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: redwizarddeath_18
-      rect:
-        serializedVersion: 2
-        x: 2115
-        y: 344
-        width: 25
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 69346dd6b74b31d20800000000000000
-      internalID: 3248138198480995222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: redwizarddeath_19
-      rect:
-        serializedVersion: 2
-        x: 1310
-        y: 206
-        width: 71
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e7f54169fad25e1f0800000000000000
-      internalID: -1016355908741734530
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 19b048ca1117ad84d980ecb832f52b98
     internalID: 0
     vertices: []
     indices: 
@@ -621,7 +511,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":736.0,"y":736.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       redwizarddeath_0: 2596143257189937854
       redwizarddeath_1: -8308539964410841470
@@ -630,11 +522,6 @@ TextureImporter:
       redwizarddeath_12: 7900292397364741717
       redwizarddeath_13: 745570559703962800
       redwizarddeath_14: 2923864565809892045
-      redwizarddeath_15: 3594124572453744670
-      redwizarddeath_16: 5253659274895484290
-      redwizarddeath_17: 4604198032330580872
-      redwizarddeath_18: 3248138198480995222
-      redwizarddeath_19: -1016355908741734530
       redwizarddeath_2: 6851653512064313096
       redwizarddeath_3: -1871051379845453213
       redwizarddeath_4: 4821103679524345660

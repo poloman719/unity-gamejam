@@ -25,7 +25,7 @@ public class WizardScript : MonoBehaviour
 
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
@@ -43,6 +43,7 @@ public class WizardScript : MonoBehaviour
             isAttacking = true;
             prevMove = moveDirection;
             moveDirection = 0;
+            animator.SetBool("Attacking", true);
         }
 
         if (isAttacking)
@@ -52,11 +53,11 @@ public class WizardScript : MonoBehaviour
         else
         {
             // Set movement direction
-            if (rb.position.x > 4)
+            if (rb.position.x > -3)
             {
                 moveDirection = -1;
             }
-            if (rb.position.x < -4)
+            if (rb.position.x < -7)
             {
                 moveDirection = 1;
             }
@@ -75,6 +76,7 @@ public class WizardScript : MonoBehaviour
             attackTimer = 0;
             isAttacking = false;
             attackComplete = false;
+            animator.SetBool("Attacking", false);
         }
     }
 
