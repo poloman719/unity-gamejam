@@ -47,8 +47,9 @@ public class EnemySpawnScript : MonoBehaviour
         {
             direction = -1;
         }
-        Vector2 spawnPos = new Vector2((float)(-6.5 + (7.5 * direction)), Random.Range((float)3.25, (float)3.75));
+        Vector2 spawnPos = new Vector2((float)(-6.5 + (7.5 * direction)), Random.Range((float)2.5, (float)3));
         Instantiate(possibleEnemies[0], spawnPos, transform.rotation);
+        currentWeight += enemyWeights[0];
     }
     
     [ContextMenu("Spawn Yellow Wizard")]
@@ -58,7 +59,8 @@ public class EnemySpawnScript : MonoBehaviour
         if (direction == 0) {
             direction = -1;
         }
-        Vector2 spawnPos = new Vector2((float) (-6.5 + (7.5 * direction)), Random.Range((float)3.25, (float)3.75));
+        Vector2 spawnPos = new Vector2((float) (-6.5 + (7.5 * direction)), Random.Range((float)3, (float)3.25));
         Instantiate(possibleEnemies[1], spawnPos, transform.rotation);
+        currentWeight += enemyWeights[1];
     }
 }

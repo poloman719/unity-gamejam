@@ -7,7 +7,7 @@ public class WizardScript : MonoBehaviour
     public Rigidbody2D rb;
     public GameObject projectileObject;
     public Animator animator;
-    double timer = 0;
+    double timer = -2;
     public double attackSpeed = 5;
 
     public double attackTimer = 0;

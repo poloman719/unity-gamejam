@@ -6,7 +6,7 @@ public class YellowWizardScript : MonoBehaviour
     public Rigidbody2D rb;
     public GameObject beam;
     public Animator animator;
-    double timer = 0;
+    double timer = -2;
     public double attackSpeed = 5;
 
     public double attackTimer = 0;
