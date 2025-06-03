@@ -60,10 +60,10 @@ public class YellowWizardScript : MonoBehaviour
                     Instantiate(beam, new Vector2(-5, UnityEngine.Random.Range(-4, (float)2.51)), Quaternion.Euler(new Vector3(0,0,90)));
                     break;
                 case 1: // Right
-                    Instantiate(beam, new Vector2(-5, UnityEngine.Random.Range(-4, (float)2.51)), Quaternion.Euler(new Vector3(0,0,-90)));
+                    Instantiate(beam, new Vector2(-8, UnityEngine.Random.Range(-4, (float)2.51)), Quaternion.Euler(new Vector3(0,0,-90)));
                     break;
                 case 2: // Up
-                    Instantiate(beam, new Vector2(-5, UnityEngine.Random.Range(-4, (float)2.51)), Quaternion.Euler(new Vector3(0,0,0)));
+                    Instantiate(beam, new Vector2(UnityEngine.Random.Range(-8, -4), 0), Quaternion.Euler(new Vector3(0,0,0)));
                     break;
                 default:
                     Debug.Log("Error");
