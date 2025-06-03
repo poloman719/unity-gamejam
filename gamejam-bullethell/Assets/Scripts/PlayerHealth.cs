@@ -19,7 +19,7 @@ public class PlayerHealth : MonoBehaviour
             Vector3 spawnPos = heartStartPos;
             spawnPos.x += i * heartSpacing;
             GameObject newHeart = Instantiate(HeartPrefab, spawnPos, Quaternion.identity);
-            newHeart.transform.parent = gameObject.transform;
+            newHeart.transform.SetParent(gameObject.transform);
             // heartObjects.Add(newHeart);
         }
     }

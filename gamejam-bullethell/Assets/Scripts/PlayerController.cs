@@ -40,6 +40,7 @@ public class PlayerController : MonoBehaviour
 
     void onMove(InputAction.CallbackContext context)
     {
+        Debug.Log("moving");
         Vector2 input = context.ReadValue<Vector2>();
         if (dashing)
         {
@@ -77,13 +78,14 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         Vector3 newPosition = transform.position + velocity * Time.deltaTime * speed;
-
-        if (newPosition.x < xLowerBound || newPosition.x > xUpperBound || newPosition.y < yLowerBound || newPosition.y > yUpperBound)
-        {
-            velocity = new Vector3();
-            return;
+        if (newPosition.x < xLowerBound || newPosition.x > xUpperBound) {
+            velocity.x = 0;
         }
-        transform.position = newPosition;
+        if (newPosition.y < yLowerBound || newPosition.y > yUpperBound)
+        {
+            velocity.y = 0;
+        }
+        transform.position = transform.position + velocity * Time.deltaTime * speed;
         if (moving) return;
         if (dashing ? velocity.magnitude > preDashVelocity.magnitude : velocity.magnitude > friction)
         {
