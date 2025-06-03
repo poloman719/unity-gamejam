@@ -1,0 +1,2976 @@
+fileFormatVersion: 2
+guid: e7203ea1bffeb244c8e200cd404a5c52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8842005812794665459
+    second: yellowBeam4_0
+  - first:
+      213: 1380610850830171400
+    second: yellowBeam4_1
+  - first:
+      213: -285278322470826709
+    second: yellowBeam4_2
+  - first:
+      213: -502761894025899780
+    second: yellowBeam4_3
+  - first:
+      213: -6233749451600528365
+    second: yellowBeam4_4
+  - first:
+      213: -52234260924353140
+    second: yellowBeam4_5
+  - first:
+      213: -7581756927896673641
+    second: yellowBeam4_6
+  - first:
+      213: -2208470955893653839
+    second: yellowBeam4_7
+  - first:
+      213: 936936761386770867
+    second: yellowBeam4_8
+  - first:
+      213: 1181941960098000856
+    second: yellowBeam4_9
+  - first:
+      213: -1365597613507458145
+    second: yellowBeam4_10
+  - first:
+      213: 1294627383940135047
+    second: yellowBeam4_11
+  - first:
+      213: -7090776032141000050
+    second: yellowBeam4_12
+  - first:
+      213: 6219955258180899736
+    second: yellowBeam4_13
+  - first:
+      213: -2998252541571633446
+    second: yellowBeam4_14
+  - first:
+      213: -76491212763286684
+    second: yellowBeam4_15
+  - first:
+      213: 2371484040059108517
+    second: yellowBeam4_16
+  - first:
+      213: -8917796110061622805
+    second: yellowBeam4_17
+  - first:
+      213: -361033677257280838
+    second: yellowBeam4_18
+  - first:
+      213: 53734993161674667
+    second: yellowBeam4_19
+  - first:
+      213: -6320938384000024888
+    second: yellowBeam4_20
+  - first:
+      213: -1451696213490131168
+    second: yellowBeam4_21
+  - first:
+      213: -3749328882593813177
+    second: yellowBeam4_22
+  - first:
+      213: -7857625479003878375
+    second: yellowBeam4_23
+  - first:
+      213: 7597010478898030229
+    second: yellowBeam4_24
+  - first:
+      213: -1443176431081187088
+    second: yellowBeam4_25
+  - first:
+      213: 7319698537223830045
+    second: yellowBeam4_26
+  - first:
+      213: -3394802067243338476
+    second: yellowBeam4_27
+  - first:
+      213: 2598305253186144645
+    second: yellowBeam4_28
+  - first:
+      213: -7402964485676507322
+    second: yellowBeam4_29
+  - first:
+      213: 6371620227376670905
+    second: yellowBeam4_30
+  - first:
+      213: 3729740016159561742
+    second: yellowBeam4_31
+  - first:
+      213: 943605548244778897
+    second: yellowBeam4_32
+  - first:
+      213: -468432637107938165
+    second: yellowBeam4_33
+  - first:
+      213: 2579844757790163851
+    second: yellowBeam4_34
+  - first:
+      213: 2013371343595673268
+    second: yellowBeam4_35
+  - first:
+      213: -1656517006328971503
+    second: yellowBeam4_36
+  - first:
+      213: 1935739196280592108
+    second: yellowBeam4_37
+  - first:
+      213: 6477049703779976533
+    second: yellowBeam4_38
+  - first:
+      213: -2748617333813119169
+    second: yellowBeam4_39
+  - first:
+      213: 7101360769878099675
+    second: yellowBeam4_40
+  - first:
+      213: -4267716340848704415
+    second: yellowBeam4_41
+  - first:
+      213: -1775731398524894620
+    second: yellowBeam4_42
+  - first:
+      213: -1597848327838869529
+    second: yellowBeam4_43
+  - first:
+      213: 7290655725415920183
+    second: yellowBeam4_44
+  - first:
+      213: 2571876665318822313
+    second: yellowBeam4_45
+  - first:
+      213: -8310034035555855298
+    second: yellowBeam4_46
+  - first:
+      213: -3537079676981189372
+    second: yellowBeam4_47
+  - first:
+      213: -3915462479284974295
+    second: yellowBeam4_48
+  - first:
+      213: -1729213378617946733
+    second: yellowBeam4_49
+  - first:
+      213: 7535652983765953596
+    second: yellowBeam4_50
+  - first:
+      213: -5249717010318088355
+    second: yellowBeam4_51
+  - first:
+      213: -3050028720552995421
+    second: yellowBeam4_52
+  - first:
+      213: 379214530678276737
+    second: yellowBeam4_53
+  - first:
+      213: 8069902185975191322
+    second: yellowBeam4_54
+  - first:
+      213: -2142160922327586477
+    second: yellowBeam4_55
+  - first:
+      213: -4638918792633985056
+    second: yellowBeam4_56
+  - first:
+      213: 2779188092805692397
+    second: yellowBeam4_57
+  - first:
+      213: -4384132230624297124
+    second: yellowBeam4_58
+  - first:
+      213: -8793893419234867665
+    second: yellowBeam4_59
+  - first:
+      213: 6599153147002829923
+    second: yellowBeam4_60
+  - first:
+      213: 5584986112329187234
+    second: yellowBeam4_61
+  - first:
+      213: -1160268879482978427
+    second: yellowBeam4_62
+  - first:
+      213: 267695441823322207
+    second: yellowBeam4_63
+  - first:
+      213: 6200657947257670250
+    second: yellowBeam4_64
+  - first:
+      213: -4317996364550442780
+    second: yellowBeam4_65
+  - first:
+      213: -421835707835143355
+    second: yellowBeam4_66
+  - first:
+      213: 2922763481021791437
+    second: yellowBeam4_67
+  - first:
+      213: -1681400789807137561
+    second: yellowBeam4_68
+  - first:
+      213: -555263744939546056
+    second: yellowBeam4_69
+  - first:
+      213: 5588020234519187869
+    second: yellowBeam4_70
+  - first:
+      213: 2723117675083858760
+    second: yellowBeam4_71
+  - first:
+      213: 3644945709024302736
+    second: yellowBeam4_72
+  - first:
+      213: -893357242479304638
+    second: yellowBeam4_73
+  - first:
+      213: 7976627603487797289
+    second: yellowBeam4_74
+  - first:
+      213: -6175766929310585719
+    second: yellowBeam4_75
+  - first:
+      213: 2331592560830518337
+    second: yellowBeam4_76
+  - first:
+      213: 5247333455801309746
+    second: yellowBeam4_77
+  - first:
+      213: -4334624708603087112
+    second: yellowBeam4_78
+  - first:
+      213: -3087489139499834768
+    second: yellowBeam4_79
+  - first:
+      213: -51065218706323941
+    second: yellowBeam4_80
+  - first:
+      213: -7196607609496033502
+    second: yellowBeam4_81
+  - first:
+      213: 4410755298202422838
+    second: yellowBeam4_82
+  - first:
+      213: -7174766948627871337
+    second: yellowBeam4_83
+  - first:
+      213: 6995491682663204806
+    second: yellowBeam4_84
+  - first:
+      213: 2456357109472766733
+    second: yellowBeam4_85
+  - first:
+      213: 1539338091940589074
+    second: yellowBeam4_86
+  - first:
+      213: -8791803513305105348
+    second: yellowBeam4_87
+  - first:
+      213: 3326032424807474914
+    second: yellowBeam4_88
+  - first:
+      213: -3944432338295005234
+    second: yellowBeam4_89
+  - first:
+      213: 2661767043823281720
+    second: yellowBeam4_90
+  - first:
+      213: 4796407793102646168
+    second: yellowBeam4_91
+  - first:
+      213: -2379974586565181716
+    second: yellowBeam4_92
+  - first:
+      213: -116260784369355063
+    second: yellowBeam4_93
+  - first:
+      213: 6597397775620065712
+    second: yellowBeam4_94
+  - first:
+      213: -4148108413689463627
+    second: yellowBeam4_95
+  - first:
+      213: 5166062638933319109
+    second: yellowBeam4_96
+  - first:
+      213: -2560129821310523383
+    second: yellowBeam4_97
+  - first:
+      213: -6284104279997224191
+    second: yellowBeam4_98
+  - first:
+      213: -9077973836049005037
+    second: yellowBeam4_99
+  - first:
+      213: 3870185588706913069
+    second: yellowBeam4_100
+  - first:
+      213: -8681421126869873817
+    second: yellowBeam4_101
+  - first:
+      213: 3001656795343637494
+    second: yellowBeam4_102
+  - first:
+      213: -6938888237162510011
+    second: yellowBeam4_103
+  - first:
+      213: 342297543051712377
+    second: yellowBeam4_104
+  - first:
+      213: -6655066472426463237
+    second: yellowBeam4_105
+  - first:
+      213: -6078723029057980678
+    second: yellowBeam4_106
+  - first:
+      213: -2048593918125974152
+    second: yellowBeam4_107
+  - first:
+      213: 1261997771150520835
+    second: yellowBeam4_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yellowBeam4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9725
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aa230844539494bb6fbd6eaabe2df3
+      internalID: -1382582228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 9725
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4dea09257ab5e4ca426d52bbbbf3cf
+      internalID: 1972048908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 9725
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a16a90693527a348819d605fd0c2b0b
+      internalID: -1785361597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_3
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 9725
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0255236480f624241928dfe3cd1145e6
+      internalID: 2009659417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_4
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 9725
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd78ce94de380d4d95b7781b131af32
+      internalID: 1287305651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_5
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 9725
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69ef94beb66e33449044bf99f715c09
+      internalID: 633669903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_6
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 9725
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a30b1bdcc23b7443ac6b63f74e558b5
+      internalID: -1776781012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_7
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 9725
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eb33806ec89594db8b65627c051f4f
+      internalID: -906986861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_8
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 9725
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e4ef531199c9d40bf1497e153b8321
+      internalID: -363613713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_9
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 9725
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d175b050f06fc64f92f5f0a62c55117
+      internalID: -648567790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_10
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 9725
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7ad3a879d4b3c48869545607541e6c
+      internalID: -64943016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8753
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3587a997ca064c84ca69a98fb50ac65b
+      internalID: 16596236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 8753
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af30d558c79687d4f87d0c29d52c4bc7
+      internalID: -295699080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_13
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 8753
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10d4d72ce766ad4b884e7fa6d8710a5
+      internalID: -657224114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_14
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 8753
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d81daf204b5cb499d0d46135a2901b
+      internalID: -172702903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_15
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 8753
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28363adecf1c11246b7e0452f76c00e3
+      internalID: -1643179577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_16
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 8753
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd222565bf2d0441b9e41c03306c5a3
+      internalID: -2096300145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_17
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 8753
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2820f9a27e14f0347ae73e0cbd5a827d
+      internalID: 834576829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_18
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 8753
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dec67ee886ed7049ad8f87b36d22a8c
+      internalID: -1296030298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_19
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 8753
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4788aa1d857d4b1488c3e5192a0c3d0c
+      internalID: 175418774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_20
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 8753
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9b218aa3d332b488853b73f8d1f5c1
+      internalID: -1985830250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_21
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 8753
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b196c6dca7cdc47b4ce319b6445b54
+      internalID: 56429774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7781
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b291c07eff028b48831ef8c4a9cc9f3
+      internalID: 2102451978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_23
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 7781
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72612328ec8ac91489b53f68f4bab36e
+      internalID: 990646234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_24
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 7781
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dbddd0e3dab1e408c6c6668a747d42
+      internalID: 1538800940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_25
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 7781
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cc7c38dc565d74194df9b3147b466f
+      internalID: 533223760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_26
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 7781
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fd84fb2528f2e479c775466cddc13c
+      internalID: 537614199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_27
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 7781
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec0ea7bdd24dc845974ce37dfbb60f1
+      internalID: -1622401261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_28
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 7781
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eabb04f94737524b89a68b8b69d6937
+      internalID: -407272776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_29
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 7781
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66afea502a47fe7409e61fd9fb254511
+      internalID: 2100499107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_30
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 7781
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e09b37cfe29d5c458a320b3a9eb05df
+      internalID: 299632946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_31
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 7781
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f25cedcd1e69e4ba98d2221373eae5
+      internalID: 1813090699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_32
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 7781
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7575eed853e908649a61c2f2c297d85c
+      internalID: -1875017073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6809
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62310b270fbf61142bdeabf94aa86b03
+      internalID: -1020607744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_34
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 6809
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3011f6074a6920d4db28eae6c30a2a1b
+      internalID: 2036625774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_35
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 6809
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e62b181a812164d93c05b40278e2f1
+      internalID: -998271147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_36
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 6809
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2401ec0aa56fa674faed03106f8163ad
+      internalID: -329806443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_37
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 6809
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246e719e493b8234e8b7d27f68c8cce3
+      internalID: -68173538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_38
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 6809
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527de06335bc38d48acb5f651bf04e3b
+      internalID: 1428528907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_39
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 6809
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f864f97e0c3a63f418f2f79e28f656ca
+      internalID: 1744211564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_40
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 6809
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4548e9b0fa7cda6459e448f70653356d
+      internalID: 569707474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_41
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 6809
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c14cec06b50d943947689dedc3b0f9
+      internalID: 1813591498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_42
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 6809
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8371650baf08b43b8c363d4b3f3fe9
+      internalID: 206695841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_43
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 6809
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05218bf7f50b2d3478b020248fcf2799
+      internalID: -978697780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5837
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08628344877a7344f9079a9b44dcb518
+      internalID: -173299553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_45
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 5837
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed4b8c62fd1bb745bf4cb92ba67826a
+      internalID: 487935069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_46
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 5837
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4101de5ddd3a4cf44b226205d7d2020a
+      internalID: 1880894592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_47
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 5837
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142923d78690282469b0798056c47ca3
+      internalID: 264952302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_48
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 5837
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c1b84ce31806c42860c84d7dce9069
+      internalID: -1481020518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_49
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 5837
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2649311692cd7418e82e70437a703d
+      internalID: 667624028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_50
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 5837
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bcef62a0eedc74c9de585b0a51ce75
+      internalID: -542524791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_51
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 5837
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b4b23c3a2ad514ab68bbeaa287471b
+      internalID: -754080061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_52
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 5837
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524153524e84666429f2d5bfced1e2cc
+      internalID: 696322779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_53
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 5837
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2090506a8b53e8468cb921ab6128768
+      internalID: 947776307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_54
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 5837
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358f6671d442bd438826932b6e0f782
+      internalID: 1910752033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4865
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c0c0b950ccdd24e80b9793e6ba813e
+      internalID: -457486027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 4865
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52ec9f231fac1d4da1e4ab1573c90b1
+      internalID: -910837063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_57
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 4865
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b943fb1dcc2934d94913a7305cb49c
+      internalID: -713784649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_58
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 4865
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a09ffb081741340b1f99e7a184eab1
+      internalID: 2037412267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_59
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 4865
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8100e2875532e4db6e753b1386afd9
+      internalID: -148887491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_60
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 4865
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9a1f636231bc94abfe17b73b994d9f
+      internalID: 902618107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_61
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 4865
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caec9a82ff54a414b9db02f149adac3e
+      internalID: -1873654824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_62
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 4865
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c4e25fa01d8364986896855b27691d
+      internalID: 1688819659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_63
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 4865
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e4f403c95b39e4eab5fdf6583c6d99
+      internalID: 353664199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_64
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 4865
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6983b608da5033f42a307493947e31c2
+      internalID: 1115334904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_65
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 4865
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843d9dcff2ec3654a847ae882ead7019
+      internalID: -498427905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3893
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d70f79b94392e4c8f74bd70ec30af4
+      internalID: 57338028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_67
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3893
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c49fa19bb167e4c8999bc42bd4f6d3
+      internalID: -1161662976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_68
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 3893
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d7556b464c953418b9d083aa41a2a6
+      internalID: -1706574696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_69
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 3893
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7f195991d37fb478da3b9643701c7c
+      internalID: -1703487648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_70
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 3893
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170c55d70926ebf43b31f1a46cccd7d4
+      internalID: 1816968564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_71
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 3893
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a2d8699d6c9514e924af2527297fb3
+      internalID: 406731676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_72
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 3893
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45021586247d1545b7b6206ebbc1d97
+      internalID: -986601627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_73
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 3893
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0452621e93e104a9424a9a20c734fe
+      internalID: -319339159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_74
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 3893
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05286b064525ffb43b50e167ee08476d
+      internalID: -1127830411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_75
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 3893
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22eba0f118af84094c0eb0b3c2ff09
+      internalID: -1268876765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_76
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 3893
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077dcfd9a1f58fa4790fe2433b6dadc8
+      internalID: -163960190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2921
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa761247fc97f44d9f27c78424d3360
+      internalID: -1012823623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_78
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2921
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85f6d1b0f3e619468beadf5691d2d02
+      internalID: 992906698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_79
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2921
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcf831095d5b274f986ef29d6e11f52
+      internalID: -220047441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_80
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2921
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd6fa3412718bd478ba21c3cc3c0c41
+      internalID: -1940500889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_81
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2921
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0860b77e70eff84599d838400ff04dd
+      internalID: -1956539768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_82
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2921
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1603bf0b761294c4ab102f3e2aaa2bd2
+      internalID: 63328122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_83
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 2921
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0218dcec5e14c4a89c0c0f794329a1
+      internalID: 1601896595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_84
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 2921
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9e25c765a88724ea5c2244ba099eac
+      internalID: -685339082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_85
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 2921
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5222fa163938f954095324ba2573f61f
+      internalID: -108983488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_86
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 2921
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45639a9c6ad6b8a43b5c8a4fc6beb156
+      internalID: 573528793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_87
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 2921
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60397d9a09ca48478686f052eaecaf7
+      internalID: -1989867705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1949
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8f039bf90039d489b981259ef131a5
+      internalID: -838683714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_89
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1949
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305b36c59da6f12458cbe4c9e88ccc8a
+      internalID: 134892169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_90
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1949
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df350899e3c6bb4c82873d1d87163cb
+      internalID: -1588374128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_91
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1949
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64df8945d44e4b146b18b27a087bb295
+      internalID: -423501411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_92
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1949
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658ec7549bbff6a4d8509017b6d2ff68
+      internalID: -110171563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_93
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1949
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b7f2abd49dcb842aae475c829166dd
+      internalID: 1688079995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_94
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1949
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0349076c7f2b9a046bd85095a1c81f83
+      internalID: -537316461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_95
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1949
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ea150749d51794ebaabbb99041ad34
+      internalID: 487538040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_96
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1949
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133dcb1bf863fe34986e94ad6418ed46
+      internalID: -630099807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_97
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 1949
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eddb0a45d4115b44b62410a17a02816
+      internalID: -166910032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_98
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1949
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3130858dcb2460249b51216a4efe4636
+      internalID: 602816538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 977
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaf957cf473b0e4faa399742f8fd4ed
+      internalID: -1483034545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_100
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 977
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779bf29c96067e64d8f97c1126b71be3
+      internalID: 536476777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_101
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 977
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490681b9a9df3e740887571b52fa69bf
+      internalID: -1725054869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_102
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 977
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eb9c3cb8f70fb4f986485647a8af28
+      internalID: -276733499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_103
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 977
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3c896c6f13cc145bfdd701d04ada12
+      internalID: -1468687585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_104
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 977
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e37e95d9d6f2f641a854cc8366b5060
+      internalID: 1056480890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_105
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 977
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4ad3bf440f0c44faf749098b962b26
+      internalID: 657280380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_106
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 977
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8841ab846fbc040994e749b94eb015
+      internalID: -1069759409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_107
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 977
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e135f1015de4349a7d5b9612d65abf
+      internalID: 29451796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_108
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 977
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e7989869f18184498ff070534d11a0
+      internalID: 556936405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowBeam4_109
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 977
+        width: 267
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd48af270c1e0984798b87e5644711e4
+      internalID: 1840855721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 98edea17dc7d8af4dbd95918d21a6c79
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":11.0,"y":11.0},"gridSpriteSize":{"x":267.0,"y":972.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      yellowBeam4_0: -1382582228
+      yellowBeam4_1: 1972048908
+      yellowBeam4_10: -64943016
+      yellowBeam4_100: 536476777
+      yellowBeam4_101: -1725054869
+      yellowBeam4_102: -276733499
+      yellowBeam4_103: -1468687585
+      yellowBeam4_104: 1056480890
+      yellowBeam4_105: 657280380
+      yellowBeam4_106: -1069759409
+      yellowBeam4_107: 29451796
+      yellowBeam4_108: 556936405
+      yellowBeam4_109: 1840855721
+      yellowBeam4_11: 16596236
+      yellowBeam4_12: -295699080
+      yellowBeam4_13: -657224114
+      yellowBeam4_14: -172702903
+      yellowBeam4_15: -1643179577
+      yellowBeam4_16: -2096300145
+      yellowBeam4_17: 834576829
+      yellowBeam4_18: -1296030298
+      yellowBeam4_19: 175418774
+      yellowBeam4_2: -1785361597
+      yellowBeam4_20: -1985830250
+      yellowBeam4_21: 56429774
+      yellowBeam4_22: 2102451978
+      yellowBeam4_23: 990646234
+      yellowBeam4_24: 1538800940
+      yellowBeam4_25: 533223760
+      yellowBeam4_26: 537614199
+      yellowBeam4_27: -1622401261
+      yellowBeam4_28: -407272776
+      yellowBeam4_29: 2100499107
+      yellowBeam4_3: 2009659417
+      yellowBeam4_30: 299632946
+      yellowBeam4_31: 1813090699
+      yellowBeam4_32: -1875017073
+      yellowBeam4_33: -1020607744
+      yellowBeam4_34: 2036625774
+      yellowBeam4_35: -998271147
+      yellowBeam4_36: -329806443
+      yellowBeam4_37: -68173538
+      yellowBeam4_38: 1428528907
+      yellowBeam4_39: 1744211564
+      yellowBeam4_4: 1287305651
+      yellowBeam4_40: 569707474
+      yellowBeam4_41: 1813591498
+      yellowBeam4_42: 206695841
+      yellowBeam4_43: -978697780
+      yellowBeam4_44: -173299553
+      yellowBeam4_45: 487935069
+      yellowBeam4_46: 1880894592
+      yellowBeam4_47: 264952302
+      yellowBeam4_48: -1481020518
+      yellowBeam4_49: 667624028
+      yellowBeam4_5: 633669903
+      yellowBeam4_50: -542524791
+      yellowBeam4_51: -754080061
+      yellowBeam4_52: 696322779
+      yellowBeam4_53: 947776307
+      yellowBeam4_54: 1910752033
+      yellowBeam4_55: -457486027
+      yellowBeam4_56: -910837063
+      yellowBeam4_57: -713784649
+      yellowBeam4_58: 2037412267
+      yellowBeam4_59: -148887491
+      yellowBeam4_6: -1776781012
+      yellowBeam4_60: 902618107
+      yellowBeam4_61: -1873654824
+      yellowBeam4_62: 1688819659
+      yellowBeam4_63: 353664199
+      yellowBeam4_64: 1115334904
+      yellowBeam4_65: -498427905
+      yellowBeam4_66: 57338028
+      yellowBeam4_67: -1161662976
+      yellowBeam4_68: -1706574696
+      yellowBeam4_69: -1703487648
+      yellowBeam4_7: -906986861
+      yellowBeam4_70: 1816968564
+      yellowBeam4_71: 406731676
+      yellowBeam4_72: -986601627
+      yellowBeam4_73: -319339159
+      yellowBeam4_74: -1127830411
+      yellowBeam4_75: -1268876765
+      yellowBeam4_76: -163960190
+      yellowBeam4_77: -1012823623
+      yellowBeam4_78: 992906698
+      yellowBeam4_79: -220047441
+      yellowBeam4_8: -363613713
+      yellowBeam4_80: -1940500889
+      yellowBeam4_81: -1956539768
+      yellowBeam4_82: 63328122
+      yellowBeam4_83: 1601896595
+      yellowBeam4_84: -685339082
+      yellowBeam4_85: -108983488
+      yellowBeam4_86: 573528793
+      yellowBeam4_87: -1989867705
+      yellowBeam4_88: -838683714
+      yellowBeam4_89: 134892169
+      yellowBeam4_9: -648567790
+      yellowBeam4_90: -1588374128
+      yellowBeam4_91: -423501411
+      yellowBeam4_92: -110171563
+      yellowBeam4_93: 1688079995
+      yellowBeam4_94: -537316461
+      yellowBeam4_95: 487538040
+      yellowBeam4_96: -630099807
+      yellowBeam4_97: -166910032
+      yellowBeam4_98: 602816538
+      yellowBeam4_99: -1483034545
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
