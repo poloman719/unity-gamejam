@@ -131,10 +131,10 @@ TextureImporter:
       name: teleport_0
       rect:
         serializedVersion: 2
-        x: 149
-        y: 1389
-        width: 202
-        height: 522
+        x: 0
+        y: 1000
+        width: 500
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +153,10 @@ TextureImporter:
       name: teleport_1
       rect:
         serializedVersion: 2
-        x: 629
-        y: 1379
-        width: 222
-        height: 542
+        x: 500
+        y: 1000
+        width: 500
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,10 +175,10 @@ TextureImporter:
       name: teleport_2
       rect:
         serializedVersion: 2
-        x: 1159
-        y: 1389
-        width: 202
-        height: 522
+        x: 1000
+        y: 1000
+        width: 500
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,10 +197,10 @@ TextureImporter:
       name: teleport_3
       rect:
         serializedVersion: 2
-        x: 139
-        y: 389
-        width: 202
-        height: 522
+        x: 0
+        y: 0
+        width: 500
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,10 +219,10 @@ TextureImporter:
       name: teleport_4
       rect:
         serializedVersion: 2
-        x: 659
-        y: 389
-        width: 202
-        height: 522
+        x: 500
+        y: 0
+        width: 500
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,10 +241,10 @@ TextureImporter:
       name: teleport_5
       rect:
         serializedVersion: 2
-        x: 1149
-        y: 389
-        width: 202
-        height: 522
+        x: 1000
+        y: 0
+        width: 500
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d0960cbecebe1ad45b8d6205640648b1
     internalID: 0
     vertices: []
     indices: 
@@ -271,7 +271,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":2.0},"gridSpriteSize":{"x":500.0,"y":1000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       teleport_0: -8753283788699527778
       teleport_1: 3475970444626420675

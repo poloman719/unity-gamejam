@@ -1,67 +1,67 @@
 fileFormatVersion: 2
-guid: cc4927d4df4e74b24bcff896e3cefa30
+guid: 5f5303b0de139cf44acb16e014802284
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2596143257189937854
-    second: redwizarddeath_0
+      213: -7879244786552694133
+    second: redwizarddeath_2_0
   - first:
-      213: -8308539964410841470
-    second: redwizarddeath_1
+      213: 3951460085924933619
+    second: redwizarddeath_2_1
   - first:
-      213: 6851653512064313096
-    second: redwizarddeath_2
+      213: -7957453130230216063
+    second: redwizarddeath_2_2
   - first:
-      213: -1871051379845453213
-    second: redwizarddeath_3
+      213: 2531347163768582730
+    second: redwizarddeath_2_3
   - first:
-      213: 4821103679524345660
-    second: redwizarddeath_4
+      213: -5182568011665893673
+    second: redwizarddeath_2_4
   - first:
-      213: -5725458283456420271
-    second: redwizarddeath_5
+      213: 4812127683420773362
+    second: redwizarddeath_2_5
   - first:
-      213: 6931698718724722643
-    second: redwizarddeath_6
+      213: 4831102626584294283
+    second: redwizarddeath_2_6
   - first:
-      213: 6274230393851894152
-    second: redwizarddeath_7
+      213: -772025127881052545
+    second: redwizarddeath_2_7
   - first:
-      213: -4391773886595471797
-    second: redwizarddeath_8
+      213: 2285759000361716967
+    second: redwizarddeath_2_8
   - first:
-      213: 6217177154674099854
-    second: redwizarddeath_9
+      213: -8005598900923589877
+    second: redwizarddeath_2_9
   - first:
-      213: 9140997163199766796
-    second: redwizarddeath_10
+      213: -3858965053374703206
+    second: redwizarddeath_2_10
   - first:
-      213: -2033059082080508259
-    second: redwizarddeath_11
+      213: 1065046367354923543
+    second: redwizarddeath_2_11
   - first:
-      213: 7900292397364741717
-    second: redwizarddeath_12
+      213: -2961253347213495951
+    second: redwizarddeath_2_12
   - first:
-      213: 745570559703962800
-    second: redwizarddeath_13
+      213: 5107636647625677670
+    second: redwizarddeath_2_13
   - first:
-      213: 2923864565809892045
-    second: redwizarddeath_14
+      213: -3943949285158227171
+    second: redwizarddeath_2_14
   - first:
-      213: 3594124572453744670
-    second: redwizarddeath_15
+      213: -1403426131303757768
+    second: redwizarddeath_2_15
   - first:
-      213: 5253659274895484290
-    second: redwizarddeath_16
+      213: -2802116722889216164
+    second: redwizarddeath_2_16
   - first:
-      213: 4604198032330580872
-    second: redwizarddeath_17
+      213: 5886124677644915663
+    second: redwizarddeath_2_17
   - first:
-      213: 3248138198480995222
-    second: redwizarddeath_18
+      213: -3240947777176486334
+    second: redwizarddeath_2_18
   - first:
-      213: -1016355908741734530
-    second: redwizarddeath_19
+      213: 4134157818867096752
+    second: redwizarddeath_2_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -153,348 +153,335 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: redwizarddeath_0
+      name: redwizarddeath_2_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 2208
-        width: 736
-        height: 736
+        y: 1344
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eb2f4d6998a570420800000000000000
-      internalID: 2596143257189937854
+      spriteID: 94fad2206320a1c4d9b9147576031c18
+      internalID: -1257320811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizarddeath_1
+      name: redwizarddeath_2_1
       rect:
         serializedVersion: 2
-        x: 736
-        y: 2208
-        width: 736
-        height: 736
+        x: 448
+        y: 1344
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 286b7234ce222bc80800000000000000
-      internalID: -8308539964410841470
+      spriteID: e78b04c63536a64408649a2c2cceba00
+      internalID: 989569727
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizarddeath_2
+      name: redwizarddeath_2_2
       rect:
         serializedVersion: 2
-        x: 1472
-        y: 2208
-        width: 736
-        height: 736
+        x: 896
+        y: 1344
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 807a6ae4196f51f50800000000000000
-      internalID: 6851653512064313096
+      spriteID: 6c461b4d2b5ff8140b44abdd69c383f5
+      internalID: -6287718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizarddeath_3
+      name: redwizarddeath_2_3
       rect:
         serializedVersion: 2
-        x: 2208
-        y: 2208
-        width: 736
-        height: 736
+        x: 1344
+        y: 1344
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 36aaecbeea0b806e0800000000000000
-      internalID: -1871051379845453213
+      spriteID: fe1e136dfc280c74190218859f63726a
+      internalID: 545823088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizarddeath_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1472
-        width: 736
-        height: 736
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c379063d04008e240800000000000000
-      internalID: 4821103679524345660
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: redwizarddeath_5
-      rect:
-        serializedVersion: 2
-        x: 736
-        y: 1472
-        width: 736
-        height: 736
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1562346a6061b80b0800000000000000
-      internalID: -5725458283456420271
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: redwizarddeath_6
-      rect:
-        serializedVersion: 2
-        x: 1472
-        y: 1472
-        width: 736
-        height: 736
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3df0e9b4247523060800000000000000
-      internalID: 6931698718724722643
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: redwizarddeath_7
-      rect:
-        serializedVersion: 2
-        x: 2208
-        y: 1472
-        width: 736
-        height: 736
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 88950880d4b821750800000000000000
-      internalID: 6274230393851894152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: redwizarddeath_8
+      name: redwizarddeath_2_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 736
-        width: 736
-        height: 736
+        y: 896
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b46e3a33be84d03c0800000000000000
-      internalID: -4391773886595471797
+      spriteID: badedf70d92e257469889b87ccf3e191
+      internalID: 1317335584
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizarddeath_9
+      name: redwizarddeath_2_5
       rect:
         serializedVersion: 2
-        x: 736
-        y: 736
-        width: 736
-        height: 736
+        x: 448
+        y: 896
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e860602aea9d74650800000000000000
-      internalID: 6217177154674099854
+      spriteID: c713f0cf2daf7284a859d34f7bda980c
+      internalID: 362330027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizarddeath_10
+      name: redwizarddeath_2_6
       rect:
         serializedVersion: 2
-        x: 1472
-        y: 736
-        width: 736
-        height: 736
+        x: 896
+        y: 896
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c0120652d785bde70800000000000000
-      internalID: 9140997163199766796
+      spriteID: 5694eb5295a4b084bade755bf06e574f
+      internalID: -524665064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizarddeath_11
+      name: redwizarddeath_2_7
       rect:
         serializedVersion: 2
-        x: 2208
-        y: 736
-        width: 736
-        height: 736
+        x: 1344
+        y: 896
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d96a535598f19c3e0800000000000000
-      internalID: -2033059082080508259
+      spriteID: fa60786bceaf8454ca08a917557afc48
+      internalID: -1373076618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizarddeath_12
+      name: redwizarddeath_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0721a35cb39648f448ca6f353c96fbf6
+      internalID: 1257441228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwizarddeath_2_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0df98f5b8ff2c04ab7dfa19c87ba6bb
+      internalID: 1678020582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwizarddeath_2_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88e8721f51a4854eb2aee94f7270c1b
+      internalID: -2021361286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwizarddeath_2_11
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 448
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e902fc29e6056494d9a2d46e045a7d47
+      internalID: -1948903663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwizarddeath_2_12
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 736
-        height: 736
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 55605aee31a73ad60800000000000000
-      internalID: 7900292397364741717
+      spriteID: 0e3e9c27252ce3e42a21ff626a263bbf
+      internalID: 965432238
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizarddeath_13
+      name: redwizarddeath_2_13
       rect:
         serializedVersion: 2
-        x: 736
+        x: 448
         y: 0
-        width: 736
-        height: 736
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0b4d42e497cc85a00800000000000000
-      internalID: 745570559703962800
+      spriteID: 829651d839409bd41900b802fd9def19
+      internalID: 1870743465
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizarddeath_14
+      name: redwizarddeath_2_14
       rect:
         serializedVersion: 2
-        x: 1472
+        x: 896
         y: 0
-        width: 736
-        height: 736
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dca4370d457a39820800000000000000
-      internalID: 2923864565809892045
+      spriteID: 04e355e6ac634cd498e651e6c4bda82a
+      internalID: -949401149
       vertices: []
       indices: 
       edges: []
@@ -503,7 +490,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 19b048ca1117ad84d980ecb832f52b98
+    spriteID: 76d037bc89f76a64b97603342a1ecdec
     internalID: 0
     vertices: []
     indices: 
@@ -513,23 +500,23 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":736.0,"y":736.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":448.0,"y":448.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      redwizarddeath_0: 2596143257189937854
-      redwizarddeath_1: -8308539964410841470
-      redwizarddeath_10: 9140997163199766796
-      redwizarddeath_11: -2033059082080508259
-      redwizarddeath_12: 7900292397364741717
-      redwizarddeath_13: 745570559703962800
-      redwizarddeath_14: 2923864565809892045
-      redwizarddeath_2: 6851653512064313096
-      redwizarddeath_3: -1871051379845453213
-      redwizarddeath_4: 4821103679524345660
-      redwizarddeath_5: -5725458283456420271
-      redwizarddeath_6: 6931698718724722643
-      redwizarddeath_7: 6274230393851894152
-      redwizarddeath_8: -4391773886595471797
-      redwizarddeath_9: 6217177154674099854
+      redwizarddeath_2_0: -1257320811
+      redwizarddeath_2_1: 989569727
+      redwizarddeath_2_10: -2021361286
+      redwizarddeath_2_11: -1948903663
+      redwizarddeath_2_12: 965432238
+      redwizarddeath_2_13: 1870743465
+      redwizarddeath_2_14: -949401149
+      redwizarddeath_2_2: -6287718
+      redwizarddeath_2_3: 545823088
+      redwizarddeath_2_4: 1317335584
+      redwizarddeath_2_5: 362330027
+      redwizarddeath_2_6: -524665064
+      redwizarddeath_2_7: -1373076618
+      redwizarddeath_2_8: 1257441228
+      redwizarddeath_2_9: 1678020582
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

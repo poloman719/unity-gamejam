@@ -1,61 +1,67 @@
 fileFormatVersion: 2
-guid: 15e16022158f741c59c2e6d2c2d9c9dd
+guid: 3110ee194f9d1214f91322e26a9beca0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7119272832214319197
-    second: redwizardattack_0
+      213: -8723535580821875087
+    second: yellowwizarddeath_0
   - first:
-      213: -3934164458434884886
-    second: redwizardattack_1
+      213: 2025348230683452359
+    second: yellowwizarddeath_1
   - first:
-      213: -8322254593924973771
-    second: redwizardattack_2
+      213: -8035497028022836150
+    second: yellowwizarddeath_2
   - first:
-      213: -1808656797532364615
-    second: redwizardattack_3
+      213: 7333044101047300715
+    second: yellowwizarddeath_3
   - first:
-      213: 264678405911459535
-    second: redwizardattack_4
+      213: 2054012997872991280
+    second: yellowwizarddeath_4
   - first:
-      213: 1774247830617349151
-    second: redwizardattack_5
+      213: 8491940814546529176
+    second: yellowwizarddeath_5
   - first:
-      213: -3977920381097747691
-    second: redwizardattack_6
+      213: -6647068582526052220
+    second: yellowwizarddeath_6
   - first:
-      213: -4247561975616121653
-    second: redwizardattack_7
+      213: 3451954126541551802
+    second: yellowwizarddeath_7
   - first:
-      213: -3391140466846427604
-    second: redwizardattack_8
+      213: -7186763770944404288
+    second: yellowwizarddeath_8
   - first:
-      213: -7067819125734430269
-    second: redwizardattack_9
+      213: 8980942714759516054
+    second: yellowwizarddeath_9
   - first:
-      213: 7622529487483131782
-    second: redwizardattack_10
+      213: 1098132538021141176
+    second: yellowwizarddeath_10
   - first:
-      213: -714524678905337106
-    second: redwizardattack_11
+      213: -8698483161740051095
+    second: yellowwizarddeath_11
   - first:
-      213: -5800840468963153323
-    second: redwizardattack_12
+      213: -6366897486109524309
+    second: yellowwizarddeath_12
   - first:
-      213: -1742732332967908741
-    second: redwizardattack_13
+      213: -751060701934293830
+    second: yellowwizarddeath_13
   - first:
-      213: 4284125081261872925
-    second: redwizardattack_14
+      213: -5563593216645728423
+    second: yellowwizarddeath_14
   - first:
-      213: 52271331359109781
-    second: redwizardattack_15
+      213: -4470666559155658438
+    second: yellowwizarddeath_15
   - first:
-      213: 7385145258209665422
-    second: redwizardattack_16
+      213: -505140942865521235
+    second: yellowwizarddeath_16
   - first:
-      213: 6464338150190147470
-    second: redwizardattack_17
+      213: 4791221913150313963
+    second: yellowwizarddeath_17
+  - first:
+      213: 6894124781391165248
+    second: yellowwizarddeath_18
+  - first:
+      213: -2274772907581347025
+    second: yellowwizarddeath_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -147,30 +153,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: redwizardattack_0
+      name: yellowwizarddeath_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 10752
-        width: 768
-        height: 768
+        y: 1344
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da70f99b195d44fd0ac42372a851df46
-      internalID: 1240275442
+      spriteID: a0cf82ec1f13d484698a2cff13a04e7b
+      internalID: 332021116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizardattack_1
+      name: yellowwizarddeath_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 9984
-        width: 768
-        height: 768
+        x: 448
+        y: 1344
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3086928024e854bc690444f3398c0ab6
-      internalID: -2035336104
+      spriteID: bf67a73d5d05e8a4695dbe9e4e4ae547
+      internalID: 1059140352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizardattack_2
+      name: yellowwizarddeath_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 9216
-        width: 768
-        height: 768
+        x: 896
+        y: 1344
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +216,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be08a1bb0ae12454b99e19f77f7712b7
-      internalID: -1429761457
+      spriteID: 1ff4e3e1e64ef4a40a418ec41d00274e
+      internalID: -1848121862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizardattack_3
+      name: yellowwizarddeath_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 8448
-        width: 768
-        height: 768
+        x: 1344
+        y: 1344
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,20 +238,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29c22ef72ea7349cb898b2a7b61868c4
-      internalID: 990789100
+      spriteID: 1c5fbd892c74bd6419b1213924658832
+      internalID: 634449000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizardattack_4
+      name: yellowwizarddeath_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 7680
-        width: 768
-        height: 768
+        y: 896
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,20 +260,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a221bba156434932b6c15a8727ec908
-      internalID: 171841321
+      spriteID: 8a58b4afd5ce06d43a9d6b73dfab2de9
+      internalID: 799211447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizardattack_5
+      name: yellowwizarddeath_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 6912
-        width: 768
-        height: 768
+        x: 448
+        y: 896
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,20 +282,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe076c75fd233490ba4d07db327a1701
-      internalID: 1130134808
+      spriteID: ab42eff4884b89547875d636f7afc45a
+      internalID: -697029554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizardattack_6
+      name: yellowwizarddeath_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 6144
-        width: 768
-        height: 768
+        x: 896
+        y: 896
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,20 +304,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18995f936c0084f0ea7d0ccdc42faa69
-      internalID: 1698514977
+      spriteID: a64218496498d4b468bd63ca47b03d79
+      internalID: 2003528030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizardattack_7
+      name: yellowwizarddeath_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 5376
-        width: 768
-        height: 768
+        x: 1344
+        y: 896
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,20 +326,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef97134bdbc0940d284faf050b8f4709
-      internalID: -1545571639
+      spriteID: e4883d6ad9b2f164faf6d99f350feac8
+      internalID: -133811693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizardattack_8
+      name: yellowwizarddeath_8
       rect:
         serializedVersion: 2
         x: 0
-        y: 4608
-        width: 768
-        height: 768
+        y: 448
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,20 +348,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e8241ac5a35d43a58bbbe0a2676da74
-      internalID: -687609730
+      spriteID: 40ef349f5b4f7ac40b993155801f4812
+      internalID: -1257465071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizardattack_9
+      name: yellowwizarddeath_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3840
-        width: 768
-        height: 768
+        x: 448
+        y: 448
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -377,20 +370,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a0f0fe99e9b1401a952107431ebc6c5
-      internalID: -1099922892
+      spriteID: db918bd06b607a842b92fe857de194e9
+      internalID: 123003082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizardattack_10
+      name: yellowwizarddeath_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3072
-        width: 768
-        height: 768
+        x: 896
+        y: 448
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,20 +392,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e5d0f89991a64d72ad5c21b53f1e0cf
-      internalID: 1091978631
+      spriteID: e55cbcf9687833b47843cda86f483dba
+      internalID: 1602154605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizardattack_11
+      name: yellowwizarddeath_11
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2304
-        width: 768
-        height: 768
+        x: 1344
+        y: 448
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -421,64 +414,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd17610681bae4873b430af0028438e8
-      internalID: 1164653544
+      spriteID: 902fb657e5b94584eb93f933763fdc8a
+      internalID: 986349498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redwizardattack_12
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1536
-        width: 768
-        height: 768
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68b13e54c18e0461084b41f47ac50f95
-      internalID: -1045061499
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: redwizardattack_13
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 768
-        width: 768
-        height: 768
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a09839ee3a241420d8d0a235cca7152f
-      internalID: -824660244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: redwizardattack_14
+      name: yellowwizarddeath_12
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 768
-        height: 768
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -487,8 +436,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1a454f594135435ab9537f19fe3ebd3
-      internalID: -633487315
+      spriteID: 9cbf592a8a1ab7049849b8186a217d77
+      internalID: -2096609770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4ac5ea809783243aabdc2cf492ee4c
+      internalID: -521408708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowwizarddeath_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9444b84a8ba6d446825245b5a72e090
+      internalID: 1060025154
       vertices: []
       indices: 
       edges: []
@@ -497,7 +490,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 74ebd71d14719478aace16e32793f371
+    spriteID: fa487bb16dbacb7468c2162b3ed0e733
     internalID: 0
     vertices: []
     indices: 
@@ -507,23 +500,23 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":15.0},"gridSpriteSize":{"x":768.0,"y":768.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":448.0,"y":448.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      redwizardattack_0: 1240275442
-      redwizardattack_1: -2035336104
-      redwizardattack_10: 1091978631
-      redwizardattack_11: 1164653544
-      redwizardattack_12: -1045061499
-      redwizardattack_13: -824660244
-      redwizardattack_14: -633487315
-      redwizardattack_2: -1429761457
-      redwizardattack_3: 990789100
-      redwizardattack_4: 171841321
-      redwizardattack_5: 1130134808
-      redwizardattack_6: 1698514977
-      redwizardattack_7: -1545571639
-      redwizardattack_8: -687609730
-      redwizardattack_9: -1099922892
+      yellowwizarddeath_0: 332021116
+      yellowwizarddeath_1: 1059140352
+      yellowwizarddeath_10: 1602154605
+      yellowwizarddeath_11: 986349498
+      yellowwizarddeath_12: -2096609770
+      yellowwizarddeath_13: -521408708
+      yellowwizarddeath_14: 1060025154
+      yellowwizarddeath_2: -1848121862
+      yellowwizarddeath_3: 634449000
+      yellowwizarddeath_4: 799211447
+      yellowwizarddeath_5: -697029554
+      yellowwizarddeath_6: 2003528030
+      yellowwizarddeath_7: -133811693
+      yellowwizarddeath_8: -1257465071
+      yellowwizarddeath_9: 123003082
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

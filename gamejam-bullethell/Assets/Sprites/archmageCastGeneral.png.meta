@@ -131,10 +131,10 @@ TextureImporter:
       name: archmageCastGeneral_0
       rect:
         serializedVersion: 2
-        x: 59
-        y: 791
-        width: 210
-        height: 182
+        x: 0
+        y: 768
+        width: 320
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +153,10 @@ TextureImporter:
       name: archmageCastGeneral_1
       rect:
         serializedVersion: 2
-        x: 351
-        y: 815
-        width: 258
-        height: 162
+        x: 320
+        y: 768
+        width: 320
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,10 +175,10 @@ TextureImporter:
       name: archmageCastGeneral_2
       rect:
         serializedVersion: 2
-        x: 639
-        y: 827
-        width: 321
-        height: 154
+        x: 640
+        y: 768
+        width: 320
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,9 +198,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 567
-        width: 960
-        height: 158
+        y: 512
+        width: 320
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,10 +219,10 @@ TextureImporter:
       name: archmageCastGeneral_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 315
-        width: 960
-        height: 154
+        x: 320
+        y: 512
+        width: 320
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,10 +241,10 @@ TextureImporter:
       name: archmageCastGeneral_5
       rect:
         serializedVersion: 2
-        x: 7
-        y: 55
-        width: 294
-        height: 154
+        x: 640
+        y: 512
+        width: 320
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,11 +259,99 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: archmageCastGeneral_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3794b946ee6e5b439f37b6802cbca71
+      internalID: -2099517248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageCastGeneral_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a11bba1e27238e4797724cbab45b8a5
+      internalID: 2078724192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageCastGeneral_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8974ff0f9a3ebd458b6e6486230c2f1
+      internalID: -937083876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageCastGeneral_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bf8537add40184f8a87e752b531908
+      internalID: -674809446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5121dd515ffa2ad4586d7a9251d6d155
     internalID: 0
     vertices: []
     indices: 
@@ -271,7 +359,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":4.0},"gridSpriteSize":{"x":320.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       archmageCastGeneral_0: -5295273656078078922
       archmageCastGeneral_1: 6210259531277184026
@@ -279,6 +369,10 @@ TextureImporter:
       archmageCastGeneral_3: -8701121629695723908
       archmageCastGeneral_4: -7448354775836767040
       archmageCastGeneral_5: 7263091214264294950
+      archmageCastGeneral_6: -2099517248
+      archmageCastGeneral_7: 2078724192
+      archmageCastGeneral_8: -937083876
+      archmageCastGeneral_9: -674809446
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

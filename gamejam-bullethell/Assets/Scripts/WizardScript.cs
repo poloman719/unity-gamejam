@@ -21,6 +21,7 @@ public class WizardScript : MonoBehaviour
 
     double moveTimer = 0;
 
+    public AudioSource wizardAttackSound;
     // public Vector2 projectileVelocity = Vector2.zero;
 
     void Start()
@@ -98,6 +99,7 @@ public class WizardScript : MonoBehaviour
         shootProjectile(270 + -2 * angleDelta);
         shootProjectile(270 + 3 * angleDelta);
         shootProjectile(270 + -3 * angleDelta);
+        wizardAttackSound.Play();
     }
 
     void moveWave()

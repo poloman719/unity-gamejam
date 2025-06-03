@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Yellow Wizard Idle
+  m_Name: RedWizardIdle
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,7 +21,7 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: -3036821099916833478, guid: a7281b12592878b4197f28af65c02d82, type: 3}
+      value: {fileID: -942192829, guid: 3a9f090340c21f4449eea91e9b1bb208, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -44,7 +44,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: -3036821099916833478, guid: a7281b12592878b4197f28af65c02d82, type: 3}
+    - {fileID: -942192829, guid: 3a9f090340c21f4449eea91e9b1bb208, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

@@ -216,19 +216,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -237,19 +224,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 4608
-        width: 768
-        height: 768
+        y: 2688
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a3dcb05ac4b0bd5d0800000000000000
-      internalID: -3036821099916833478
+      spriteID: a07f3d497e7e4634fb5a51f57f02865c
+      internalID: -929096079
       vertices: []
       indices: 
       edges: []
@@ -258,20 +245,20 @@ TextureImporter:
       name: yellowwizardattackv2_1
       rect:
         serializedVersion: 2
-        x: 768
-        y: 4608
-        width: 768
-        height: 768
+        x: 448
+        y: 2688
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2ad25d0a61db02c20800000000000000
-      internalID: 3179749241808825762
+      spriteID: fda633af5bca5ef46950c81805a462b3
+      internalID: -1234062584
       vertices: []
       indices: 
       edges: []
@@ -280,20 +267,20 @@ TextureImporter:
       name: yellowwizardattackv2_2
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 4608
-        width: 768
-        height: 768
+        x: 896
+        y: 2688
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 77c362a5802bc32c0800000000000000
-      internalID: -4450486582806954889
+      spriteID: c7a5639d4c7384c45912e413c30222d1
+      internalID: -24720411
       vertices: []
       indices: 
       edges: []
@@ -302,20 +289,20 @@ TextureImporter:
       name: yellowwizardattackv2_3
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 4608
-        width: 768
-        height: 768
+        x: 1344
+        y: 2688
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ad69f1939decc5e60800000000000000
-      internalID: 7952458474391049946
+      spriteID: ebaa4fa41cc23f54bab9927b2a841766
+      internalID: -935204750
       vertices: []
       indices: 
       edges: []
@@ -324,20 +311,20 @@ TextureImporter:
       name: yellowwizardattackv2_4
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 4608
-        width: 768
-        height: 768
+        x: 1792
+        y: 2688
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ce7ceeab323bbb7f0800000000000000
-      internalID: -595685559655020564
+      spriteID: 6a7eab421bf3f4f46ac1d9847eb5d48d
+      internalID: -1696826730
       vertices: []
       indices: 
       edges: []
@@ -346,20 +333,20 @@ TextureImporter:
       name: yellowwizardattackv2_5
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 4608
-        width: 768
-        height: 768
+        x: 2240
+        y: 2688
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6e4a3d8ad8c363690800000000000000
-      internalID: -7622838740157487898
+      spriteID: 77c13ecee110e924faded64e43e2d2db
+      internalID: -851826286
       vertices: []
       indices: 
       edges: []
@@ -369,19 +356,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3840
-        width: 768
-        height: 768
+        y: 2240
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5242c219ad3699470800000000000000
-      internalID: 8401856370225980453
+      spriteID: 0097c8a2d88f80b42884b8a0b9ac7f75
+      internalID: -456676556
       vertices: []
       indices: 
       edges: []
@@ -390,20 +377,20 @@ TextureImporter:
       name: yellowwizardattackv2_7
       rect:
         serializedVersion: 2
-        x: 768
-        y: 3840
-        width: 768
-        height: 768
+        x: 448
+        y: 2240
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 250048000cd9ebee0800000000000000
-      internalID: -1243382999139745710
+      spriteID: 493facf837d778c4596eadd9b526461e
+      internalID: 232289629
       vertices: []
       indices: 
       edges: []
@@ -412,20 +399,20 @@ TextureImporter:
       name: yellowwizardattackv2_8
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 3840
-        width: 768
-        height: 768
+        x: 896
+        y: 2240
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 45f7db26d63f5f050800000000000000
-      internalID: 5833836543461916500
+      spriteID: 89f8afd95db572848b0bd9a904644850
+      internalID: -1815055811
       vertices: []
       indices: 
       edges: []
@@ -434,20 +421,20 @@ TextureImporter:
       name: yellowwizardattackv2_9
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 3840
-        width: 768
-        height: 768
+        x: 1344
+        y: 2240
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fa3da5ca1991cfae0800000000000000
-      internalID: -1514307261250743377
+      spriteID: 05a3a05aee6b77f4e96193fccea7bd9a
+      internalID: 514039796
       vertices: []
       indices: 
       edges: []
@@ -456,20 +443,20 @@ TextureImporter:
       name: yellowwizardattackv2_10
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 3840
-        width: 768
-        height: 768
+        x: 1792
+        y: 2240
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8d39ddb99a1bfef30800000000000000
-      internalID: 4607096285845885912
+      spriteID: 6398902d6e6bacf41a517e2ac604f7c0
+      internalID: -363802647
       vertices: []
       indices: 
       edges: []
@@ -478,20 +465,20 @@ TextureImporter:
       name: yellowwizardattackv2_11
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 3840
-        width: 768
-        height: 768
+        x: 2240
+        y: 2240
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cb892c00746183440800000000000000
-      internalID: 4915703487486138556
+      spriteID: 424978f0c23322740b7ecf33b9db2f80
+      internalID: 60472467
       vertices: []
       indices: 
       edges: []
@@ -501,19 +488,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3072
-        width: 768
-        height: 768
+        y: 1792
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9c14d680e2da58c80800000000000000
-      internalID: -8321054323275644471
+      spriteID: 5e2a4818464909d49afa32b04ba49ae5
+      internalID: -1740485316
       vertices: []
       indices: 
       edges: []
@@ -522,20 +509,20 @@ TextureImporter:
       name: yellowwizardattackv2_13
       rect:
         serializedVersion: 2
-        x: 768
-        y: 3072
-        width: 768
-        height: 768
+        x: 448
+        y: 1792
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b9077b7b4cffc9ef0800000000000000
-      internalID: -99923871348068197
+      spriteID: 16b9d0ed8fdcddf4d990611cb7f6ab2f
+      internalID: 1894676583
       vertices: []
       indices: 
       edges: []
@@ -544,20 +531,20 @@ TextureImporter:
       name: yellowwizardattackv2_14
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 3072
-        width: 768
-        height: 768
+        x: 896
+        y: 1792
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6ff981d70a94dd7e0800000000000000
-      internalID: -1739152927452782602
+      spriteID: 0c5d0e75eedd5114c9052822a8aa1edb
+      internalID: -1876063800
       vertices: []
       indices: 
       edges: []
@@ -566,20 +553,20 @@ TextureImporter:
       name: yellowwizardattackv2_15
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 3072
-        width: 768
-        height: 768
+        x: 1344
+        y: 1792
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 588b38ce14aafb250800000000000000
-      internalID: 5962671631779477637
+      spriteID: 63754adaf593add4dba4acf1ae95f12c
+      internalID: -1352266502
       vertices: []
       indices: 
       edges: []
@@ -588,20 +575,20 @@ TextureImporter:
       name: yellowwizardattackv2_16
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 3072
-        width: 768
-        height: 768
+        x: 1792
+        y: 1792
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 956afc8d51b4bf6e0800000000000000
-      internalID: -1802764668627868071
+      spriteID: 2d82c06990e14cd4c9af17bcbac413c3
+      internalID: -2119987532
       vertices: []
       indices: 
       edges: []
@@ -610,20 +597,20 @@ TextureImporter:
       name: yellowwizardattackv2_17
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 3072
-        width: 768
-        height: 768
+        x: 2240
+        y: 1792
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e07d0d42c6f675820800000000000000
-      internalID: 2906914594755761934
+      spriteID: 836c76376073ed142b5d951bf3a71e8d
+      internalID: -1218185637
       vertices: []
       indices: 
       edges: []
@@ -633,19 +620,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 2304
-        width: 768
-        height: 768
+        y: 1344
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 557850007ab0c69e0800000000000000
-      internalID: -1626912553499785387
+      spriteID: 30f61997c8994854ca35bbc43ab39e3e
+      internalID: 141506564
       vertices: []
       indices: 
       edges: []
@@ -654,20 +641,20 @@ TextureImporter:
       name: yellowwizardattackv2_19
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2304
-        width: 768
-        height: 768
+        x: 448
+        y: 1344
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7647bcce95c9f5d80800000000000000
-      internalID: -8259711281535421337
+      spriteID: 2b64737eb4125d442ab97372eb1aab19
+      internalID: -1281696355
       vertices: []
       indices: 
       edges: []
@@ -676,20 +663,20 @@ TextureImporter:
       name: yellowwizardattackv2_20
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2304
-        width: 768
-        height: 768
+        x: 896
+        y: 1344
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3de414b4f187206e0800000000000000
-      internalID: -1872802419230814509
+      spriteID: 1f23389d7dcfc9e4eb24b893f9a8a2f1
+      internalID: 1023852723
       vertices: []
       indices: 
       edges: []
@@ -698,20 +685,20 @@ TextureImporter:
       name: yellowwizardattackv2_21
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2304
-        width: 768
-        height: 768
+        x: 1344
+        y: 1344
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8da343acc824d0d10800000000000000
-      internalID: 2093402574252423896
+      spriteID: ec4efac9d360c9a43aecfff9dbe5fb64
+      internalID: 700260929
       vertices: []
       indices: 
       edges: []
@@ -720,20 +707,20 @@ TextureImporter:
       name: yellowwizardattackv2_22
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 2304
-        width: 768
-        height: 768
+        x: 1792
+        y: 1344
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a0307a50c48193bc0800000000000000
-      internalID: -3802981695546260726
+      spriteID: d67e8b1116e0bb9459369f9c5f854095
+      internalID: -2069238196
       vertices: []
       indices: 
       edges: []
@@ -742,20 +729,20 @@ TextureImporter:
       name: yellowwizardattackv2_23
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 2304
-        width: 768
-        height: 768
+        x: 2240
+        y: 1344
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3fd8430d384195570800000000000000
-      internalID: 8455812331731193331
+      spriteID: 4a4b8632f128cae4ebf1a54c2de09a0c
+      internalID: 572918383
       vertices: []
       indices: 
       edges: []
@@ -765,19 +752,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1536
-        width: 768
-        height: 768
+        y: 896
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5c8ed94f271519f40800000000000000
-      internalID: 5733453354791463109
+      spriteID: 0d33b73c876af1d4690ac2e975256862
+      internalID: -1338991
       vertices: []
       indices: 
       edges: []
@@ -786,20 +773,20 @@ TextureImporter:
       name: yellowwizardattackv2_25
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1536
-        width: 768
-        height: 768
+        x: 448
+        y: 896
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 02f9646fa323186a0800000000000000
-      internalID: -6448817962596524256
+      spriteID: 12be9b4c3d6094143b8e8d881c0b72cd
+      internalID: -1177418736
       vertices: []
       indices: 
       edges: []
@@ -808,20 +795,20 @@ TextureImporter:
       name: yellowwizardattackv2_26
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1536
-        width: 768
-        height: 768
+        x: 896
+        y: 896
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2034b507441de7820800000000000000
-      internalID: 2917999700455670530
+      spriteID: 8126434733eaf204dbc6b7409d2d99a4
+      internalID: 1295015123
       vertices: []
       indices: 
       edges: []
@@ -830,20 +817,20 @@ TextureImporter:
       name: yellowwizardattackv2_27
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1536
-        width: 768
-        height: 768
+        x: 1344
+        y: 896
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a633f4e5185ddbe40800000000000000
-      internalID: 5673925857166439274
+      spriteID: c0d64aeadd64d1d43ba93a26998df4c0
+      internalID: 1452099327
       vertices: []
       indices: 
       edges: []
@@ -852,20 +839,20 @@ TextureImporter:
       name: yellowwizardattackv2_28
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 1536
-        width: 768
-        height: 768
+        x: 1792
+        y: 896
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a0de69d5e3114c7f0800000000000000
-      internalID: -593330291350246134
+      spriteID: 68c0515dec4e29f4089b3a16fb3b8f8f
+      internalID: -831698113
       vertices: []
       indices: 
       edges: []
@@ -874,20 +861,20 @@ TextureImporter:
       name: yellowwizardattackv2_29
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 1536
-        width: 768
-        height: 768
+        x: 2240
+        y: 896
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: adf7d5f960236f0c0800000000000000
-      internalID: -4542388170131669030
+      spriteID: 6dd26926f29751a4a8efbaf1489aa7ec
+      internalID: 2038004943
       vertices: []
       indices: 
       edges: []
@@ -897,19 +884,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 768
-        width: 768
-        height: 768
+        y: 448
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6b2b37c5f5c060280800000000000000
-      internalID: -9077554395206143306
+      spriteID: a00afc2dfa44fef40be224061363badf
+      internalID: 593116052
       vertices: []
       indices: 
       edges: []
@@ -918,20 +905,20 @@ TextureImporter:
       name: yellowwizardattackv2_31
       rect:
         serializedVersion: 2
-        x: 768
-        y: 768
-        width: 768
-        height: 768
+        x: 448
+        y: 448
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c9eddfc4ac12d95e0800000000000000
-      internalID: -1901326314921664868
+      spriteID: 5f4d0d30f6cb516429d6499fba57a5df
+      internalID: 1016420143
       vertices: []
       indices: 
       edges: []
@@ -940,20 +927,20 @@ TextureImporter:
       name: yellowwizardattackv2_32
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 768
-        width: 768
-        height: 768
+        x: 896
+        y: 448
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4a9a88e137f8e4cf0800000000000000
-      internalID: -266117603371996764
+      spriteID: ccbc8b9cacc7fc1479a7dbccc6c137a2
+      internalID: 836509337
       vertices: []
       indices: 
       edges: []
@@ -962,20 +949,20 @@ TextureImporter:
       name: yellowwizardattackv2_33
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 768
-        width: 768
-        height: 768
+        x: 1344
+        y: 448
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 299144441bf6b39e0800000000000000
-      internalID: -1640594832101205614
+      spriteID: 948960eae3ecc3a499ba6f79f28e535a
+      internalID: 1140116401
       vertices: []
       indices: 
       edges: []
@@ -984,20 +971,20 @@ TextureImporter:
       name: yellowwizardattackv2_34
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 768
-        width: 768
-        height: 768
+        x: 1792
+        y: 448
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1b391a0a180552920800000000000000
-      internalID: 2964864447369286577
+      spriteID: 5265d899bd23e1e40a1dcfc6bd7126bd
+      internalID: 1603191409
       vertices: []
       indices: 
       edges: []
@@ -1006,20 +993,20 @@ TextureImporter:
       name: yellowwizardattackv2_35
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 768
-        width: 768
-        height: 768
+        x: 2240
+        y: 448
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 487dc7777d4d36cf0800000000000000
-      internalID: -260130331569629308
+      spriteID: a7197cadbda0dc94782aafbdfbb3ee66
+      internalID: -1949819115
       vertices: []
       indices: 
       edges: []
@@ -1030,18 +1017,18 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 768
-        height: 768
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0c62b5b7ef60afe50800000000000000
-      internalID: 6843790273803921088
+      spriteID: 86685fa26a1bf6e428f651623a96e8b4
+      internalID: 198161447
       vertices: []
       indices: 
       edges: []
@@ -1050,20 +1037,20 @@ TextureImporter:
       name: yellowwizardattackv2_37
       rect:
         serializedVersion: 2
-        x: 768
+        x: 448
         y: 0
-        width: 768
-        height: 768
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9c6dfeff4e4a91400800000000000000
-      internalID: 295448554022885065
+      spriteID: e974c0bf20ce2b54faeaa1915eac3fb9
+      internalID: -1039272262
       vertices: []
       indices: 
       edges: []
@@ -1072,20 +1059,20 @@ TextureImporter:
       name: yellowwizardattackv2_38
       rect:
         serializedVersion: 2
-        x: 1536
+        x: 896
         y: 0
-        width: 768
-        height: 768
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a8cdc7bde1f0606c0800000000000000
-      internalID: -4177634979133727606
+      spriteID: e268292e8361cd3429c76627d27b9095
+      internalID: 1537177625
       vertices: []
       indices: 
       edges: []
@@ -1094,20 +1081,20 @@ TextureImporter:
       name: yellowwizardattackv2_39
       rect:
         serializedVersion: 2
-        x: 2304
+        x: 1344
         y: 0
-        width: 768
-        height: 768
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 71d4fc5d5983c7850800000000000000
-      internalID: 6376033388638194967
+      spriteID: 5d96dfb398109c643b3577ec64735465
+      internalID: 1616967689
       vertices: []
       indices: 
       edges: []
@@ -1116,20 +1103,20 @@ TextureImporter:
       name: yellowwizardattackv2_40
       rect:
         serializedVersion: 2
-        x: 3072
+        x: 1792
         y: 0
-        width: 768
-        height: 768
+        width: 448
+        height: 448
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 31014e96f1d7f6610800000000000000
-      internalID: 1616648365123309587
+      spriteID: dd89225040d5eb945bc99e8c3b803dc6
+      internalID: 353649167
       vertices: []
       indices: 
       edges: []
@@ -1138,7 +1125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f38cd1cff9e75b54f889d60b51a32dbb
+    spriteID: f88db5d6b4b2b5a428afc8c48faef8a3
     internalID: 0
     vertices: []
     indices: 
@@ -1148,49 +1135,49 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":7.0},"gridSpriteSize":{"x":768.0,"y":768.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":7.0},"gridSpriteSize":{"x":448.0,"y":448.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      yellowwizardattackv2_0: -3036821099916833478
-      yellowwizardattackv2_1: 3179749241808825762
-      yellowwizardattackv2_10: 4607096285845885912
-      yellowwizardattackv2_11: 4915703487486138556
-      yellowwizardattackv2_12: -8321054323275644471
-      yellowwizardattackv2_13: -99923871348068197
-      yellowwizardattackv2_14: -1739152927452782602
-      yellowwizardattackv2_15: 5962671631779477637
-      yellowwizardattackv2_16: -1802764668627868071
-      yellowwizardattackv2_17: 2906914594755761934
-      yellowwizardattackv2_18: -1626912553499785387
-      yellowwizardattackv2_19: -8259711281535421337
-      yellowwizardattackv2_2: -4450486582806954889
-      yellowwizardattackv2_20: -1872802419230814509
-      yellowwizardattackv2_21: 2093402574252423896
-      yellowwizardattackv2_22: -3802981695546260726
-      yellowwizardattackv2_23: 8455812331731193331
-      yellowwizardattackv2_24: 5733453354791463109
-      yellowwizardattackv2_25: -6448817962596524256
-      yellowwizardattackv2_26: 2917999700455670530
-      yellowwizardattackv2_27: 5673925857166439274
-      yellowwizardattackv2_28: -593330291350246134
-      yellowwizardattackv2_29: -4542388170131669030
-      yellowwizardattackv2_3: 7952458474391049946
-      yellowwizardattackv2_30: -9077554395206143306
-      yellowwizardattackv2_31: -1901326314921664868
-      yellowwizardattackv2_32: -266117603371996764
-      yellowwizardattackv2_33: -1640594832101205614
-      yellowwizardattackv2_34: 2964864447369286577
-      yellowwizardattackv2_35: -260130331569629308
-      yellowwizardattackv2_36: 6843790273803921088
-      yellowwizardattackv2_37: 295448554022885065
-      yellowwizardattackv2_38: -4177634979133727606
-      yellowwizardattackv2_39: 6376033388638194967
-      yellowwizardattackv2_4: -595685559655020564
-      yellowwizardattackv2_40: 1616648365123309587
-      yellowwizardattackv2_5: -7622838740157487898
-      yellowwizardattackv2_6: 8401856370225980453
-      yellowwizardattackv2_7: -1243382999139745710
-      yellowwizardattackv2_8: 5833836543461916500
-      yellowwizardattackv2_9: -1514307261250743377
+      yellowwizardattackv2_0: -929096079
+      yellowwizardattackv2_1: -1234062584
+      yellowwizardattackv2_10: -363802647
+      yellowwizardattackv2_11: 60472467
+      yellowwizardattackv2_12: -1740485316
+      yellowwizardattackv2_13: 1894676583
+      yellowwizardattackv2_14: -1876063800
+      yellowwizardattackv2_15: -1352266502
+      yellowwizardattackv2_16: -2119987532
+      yellowwizardattackv2_17: -1218185637
+      yellowwizardattackv2_18: 141506564
+      yellowwizardattackv2_19: -1281696355
+      yellowwizardattackv2_2: -24720411
+      yellowwizardattackv2_20: 1023852723
+      yellowwizardattackv2_21: 700260929
+      yellowwizardattackv2_22: -2069238196
+      yellowwizardattackv2_23: 572918383
+      yellowwizardattackv2_24: -1338991
+      yellowwizardattackv2_25: -1177418736
+      yellowwizardattackv2_26: 1295015123
+      yellowwizardattackv2_27: 1452099327
+      yellowwizardattackv2_28: -831698113
+      yellowwizardattackv2_29: 2038004943
+      yellowwizardattackv2_3: -935204750
+      yellowwizardattackv2_30: 593116052
+      yellowwizardattackv2_31: 1016420143
+      yellowwizardattackv2_32: 836509337
+      yellowwizardattackv2_33: 1140116401
+      yellowwizardattackv2_34: 1603191409
+      yellowwizardattackv2_35: -1949819115
+      yellowwizardattackv2_36: 198161447
+      yellowwizardattackv2_37: -1039272262
+      yellowwizardattackv2_38: 1537177625
+      yellowwizardattackv2_39: 1616967689
+      yellowwizardattackv2_4: -1696826730
+      yellowwizardattackv2_40: 353649167
+      yellowwizardattackv2_5: -851826286
+      yellowwizardattackv2_6: -456676556
+      yellowwizardattackv2_7: 232289629
+      yellowwizardattackv2_8: -1815055811
+      yellowwizardattackv2_9: 514039796
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

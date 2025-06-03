@@ -31,7 +31,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.17236128, y: 0.17236128, z: 0.68944514}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 0.68944514}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8077406436733629427}
@@ -81,12 +81,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -3036821099916833478, guid: a7281b12592878b4197f28af65c02d82, type: 3}
+  m_Sprite: {fileID: -929096079, guid: a7281b12592878b4197f28af65c02d82, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 4.82, y: 7.38}
+  m_Size: {x: 4.48, y: 4.481094}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -157,8 +157,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 7.68, y: 7.6818757}
-    newSize: {x: 4.82, y: 7.38}
+    oldSize: {x: 4.48, y: 4.481094}
+    newSize: {x: 4.48, y: 4.481094}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -243,11 +243,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7483918892051339744, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
       propertyPath: m_LocalScale.x
-      value: 24.920403
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 7483918892051339744, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
       propertyPath: m_LocalScale.y
-      value: 24.920403
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 7483918892051339744, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
       propertyPath: m_LocalScale.z
@@ -259,7 +259,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7483918892051339744, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.12
+      value: 2.75
       objectReference: {fileID: 0}
     - target: {fileID: 7483918892051339744, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
       propertyPath: m_LocalPosition.z
