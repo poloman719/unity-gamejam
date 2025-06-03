@@ -12,16 +12,19 @@ public class PlayerController : MonoBehaviour
     public float yLowerBound = -4f;
     public float yUpperBound = 5f;
     public double shootingCooldown = 0.1;
+    public double damageCooldown = 1;
+    public GameObject playerProjectileObject;
     InputAction move;
     InputAction dash;
     InputAction shoot;
     double shootingTimer = 0;
-    public GameObject playerProjectileObject;
     Vector3 velocity;
     Vector3 preDashVelocity;
     bool moving = false;
     bool dashing = false;
     bool shooting = true;
+    bool takingDamage = false;
+    double damageTimer = 0;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -70,7 +73,7 @@ public class PlayerController : MonoBehaviour
             preDashVelocity = new Vector3();
         }
         else
-        { 
+        {
             moving = false;
         }
     }
@@ -120,6 +123,16 @@ public class PlayerController : MonoBehaviour
             }
         }
 
+        if (takingDamage)
+        {
+            damageTimer += Time.deltaTime;
+            if (damageTimer > damageCooldown)
+            {
+                damageTimer = 0;
+                takingDamage = false;
+            }
+        }
+
         Vector3 newPosition = transform.position + velocity * Time.deltaTime * speed;
         if (newPosition.x < xLowerBound || newPosition.x > xUpperBound)
         {
@@ -148,5 +161,17 @@ public class PlayerController : MonoBehaviour
         Debug.Log("new velocity: " + velocity);
 
 
+    }
+
+    void OnTriggerEnter2D(Collider2D col)
+    {
+        if (takingDamage) return;
+        if (col.name == "Projectile(Clone)")
+        {
+            GameObject uiObject = GameObject.FindWithTag("UI");
+            Debug.Log(uiObject.name);
+            uiObject.GetComponent<PlayerHealth>().takeDamage(1);
+            takingDamage = true;
+        }
     }
 }

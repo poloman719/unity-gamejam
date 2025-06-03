@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 2263301741207489066}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.666, y: -3, z: 0}
+  m_LocalPosition: {x: -6.74, y: -3.79, z: 0}
   m_LocalScale: {x: 0.1633, y: 0.1633, z: 0.1633}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -54,6 +54,7 @@ MonoBehaviour:
   yLowerBound: -3.5
   yUpperBound: 4.5
   shootingCooldown: 0.1
+  damageCooldown: 1
   playerProjectileObject: {fileID: 602324543731244687, guid: c55fef472743a457b87add96c2c0e573, type: 3}
 --- !u!212 &2105768646224991822
 SpriteRenderer:

@@ -26,9 +26,16 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
-    public void takeDamage()
+    public void takeDamage(int amount)
     {
-        currHearts -= 1;
+        if (currHearts > 0)
+        {
+            currHearts -= amount;
+        }
+        else
+        {
+            Debug.Log("died");
+        }
         heartObjects[currHearts].GetComponent<Image>().sprite = HeartDeadSprite;
     }
 }
