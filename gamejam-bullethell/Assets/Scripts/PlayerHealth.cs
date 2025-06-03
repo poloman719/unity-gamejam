@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using System.Collections.Generic;
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -10,6 +11,7 @@ public class PlayerHealth : MonoBehaviour
     public int maxHearts = 5;
     public int currHearts;
     public Vector3 heartStartPos = new Vector3();
+    public List<GameObject> heartObjects;
 
     void Start()
     {
@@ -20,13 +22,13 @@ public class PlayerHealth : MonoBehaviour
             spawnPos.x += i * heartSpacing;
             GameObject newHeart = Instantiate(HeartPrefab, spawnPos, Quaternion.identity);
             newHeart.transform.SetParent(gameObject.transform);
-            // heartObjects.Add(newHeart);
+            heartObjects.Add(newHeart);
         }
     }
 
     public void takeDamage()
     {
         currHearts -= 1;
-        // heartObjects[currHearts].GetComponent<Image>().sprite = HeartDeadSprite;
+        heartObjects[currHearts].GetComponent<Image>().sprite = HeartDeadSprite;
     }
 }
