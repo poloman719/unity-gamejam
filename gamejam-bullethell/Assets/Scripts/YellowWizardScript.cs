@@ -42,6 +42,12 @@ public class YellowWizardScript : MonoBehaviour
     }
     void moveWave()
     {
-        rb.linearVelocity = new Vector2((float) (moveDirection), (float) (Math.Sin(moveTimer * 4) * 1.5));
+        rb.linearVelocity = new Vector2((float)(moveDirection), (float)(Math.Sin(moveTimer * 4) * 1.5));
+    }
+
+    [ContextMenu("Beam Attack")]
+    public void beamAttack(int beamCt)
+    {
+
     }
 }

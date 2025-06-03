@@ -200,7 +200,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 7928785539911568712}
-  beam: {fileID: 0}
+  beam: {fileID: 5976876106982282015, guid: 8e7a60cb48f437c47817a5b973ba28cb, type: 3}
   animator: {fileID: 7834353808493770916}
   attackSpeed: 5
   attackTimer: 0
