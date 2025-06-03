@@ -66,9 +66,7 @@ public class PlayerController : MonoBehaviour
 
     void onDash(InputAction.CallbackContext context)
     {
-        Debug.Log("called dash");
         if (!moving || dashing) return;
-        Debug.Log("dashing");
         moving = false;
         dashing = true;
         preDashVelocity = velocity;
@@ -78,12 +76,6 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("x: " + transform.position.x);
-        Debug.Log(transform.position.x > 0);
-        Debug.Log(transform.position.x < -10);
-        Debug.Log("y: " + transform.position.y);
-        Debug.Log(transform.position.y > 5);
-        Debug.Log(transform.position.y < -4);
         Vector3 newPosition = transform.position + velocity * Time.deltaTime * speed;
 
         if (newPosition.x < xLowerBound || newPosition.x > xUpperBound || newPosition.y < yLowerBound || newPosition.y > yUpperBound)
@@ -95,19 +87,16 @@ public class PlayerController : MonoBehaviour
         if (moving) return;
         if (dashing ? velocity.magnitude > preDashVelocity.magnitude : velocity.magnitude > friction)
         {
-            Debug.Log("applying friction");
             velocity -= velocity.normalized * friction;
         }
         else if (dashing)
         {
-            Debug.Log("applying dash");
             velocity = preDashVelocity;
             moving = true;
             dashing = false;
         }
         else
         {
-            Debug.Log("stopping");
             velocity = new Vector3();
         }
         Debug.Log("new velocity: " + velocity);

@@ -19,19 +19,16 @@ public class PauseMenu : MonoBehaviour
             pause = InputSystem.actions.FindAction("Pause");
             pause.performed += onPause;
             pause.Enable();
-            Debug.Log("setup pause");
         }
     }
 
     void onPause(InputAction.CallbackContext context)
     {
-        Debug.Log("hi");
         PauseGame();
     }
 
     public void PauseGame()
     {
-        Debug.Log("game paused");
         if (gamePaused)
         {
             if (quitting) return;
