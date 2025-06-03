@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour
     public float xUpperBound = 0f;
     public float yLowerBound = -4f;
     public float yUpperBound = 5f;
-
+    public double shootingCooldown = 0.1;
     InputAction move;
     InputAction dash;
     InputAction shoot;
@@ -110,7 +110,7 @@ public class PlayerController : MonoBehaviour
         if (shooting)
         {
             shootingTimer += Time.deltaTime;
-            if (shootingTimer > 0.1)
+            if (shootingTimer > shootingCooldown)
             {
                 shootingTimer = 0;
                 shootProjectile();
