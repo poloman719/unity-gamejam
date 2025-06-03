@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1691489643168748713}
   - component: {fileID: 2222857080458582278}
   - component: {fileID: -7940603471335564954}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Yellow Beam
   m_TagString: Untagged
   m_Icon: {fileID: 0}

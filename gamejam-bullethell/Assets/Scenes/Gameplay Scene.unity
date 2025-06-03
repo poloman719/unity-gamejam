@@ -2421,6 +2421,8 @@ MonoBehaviour:
   possibleEnemies:
   - {fileID: 3086895145429654878, guid: 0a3c08ac76a42814cbda72c0488d1fef, type: 3}
   - {fileID: 3086895145429654878, guid: 37adb86a8eab7314db899cfa92d8ea53, type: 3}
+  currentWeight: 0
+  canSpawn: 1
 --- !u!1 &1477823611
 GameObject:
   m_ObjectHideFlags: 0
