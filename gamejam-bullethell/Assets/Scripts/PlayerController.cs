@@ -14,10 +14,14 @@ public class PlayerController : MonoBehaviour
 
     InputAction move;
     InputAction dash;
+    InputAction shoot;
+    double shootingTimer = 0;
+    public GameObject playerProjectileObject;
     Vector3 velocity;
     Vector3 preDashVelocity;
     bool moving = false;
     bool dashing = false;
+    bool shooting = true;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -35,6 +39,12 @@ public class PlayerController : MonoBehaviour
             dash = InputSystem.actions.FindAction("Dash");
             dash.performed += onDash;
             dash.Enable();
+
+            // // shoot input setup
+            // shoot = InputSystem.actions.FindAction("Shoot");
+            // shoot.performed += onShoot;
+            // shoot.canceled += onCancelShoot;
+            // shoot.Enable();
         }
     }
 
@@ -74,11 +84,45 @@ public class PlayerController : MonoBehaviour
         velocity = velocity.normalized * dashFactor;
     }
 
+    // void onShoot(InputAction.CallbackContext context)
+    // {
+    //     shooting = true;
+    //     shootingTimer = 0;
+    //     Debug.Log("lsdkfjalsdkj");
+    // }
+
+    // void onCancelShoot(InputAction.CallbackContext context)
+    // {
+    //     shooting = false;
+    //     shootingTimer = 0;
+    //     Debug.Log("BURGERBURGERBURGERBURGERBURGER");
+    // }
+
+    void shootProjectile()
+    {
+        GameObject newObject = GameObject.Instantiate(playerProjectileObject, transform.position + new Vector3(0, 1.1F, 0), Quaternion.identity);
+        newObject.GetComponent<Rigidbody2D>().linearVelocity = Vector2.up * 10;
+    }
+
     // Update is called once per frame
     void Update()
     {
+        if (shooting)
+        {
+            shootingTimer += Time.deltaTime;
+            if (shootingTimer > 0.1)
+            {
+                shootingTimer = 0;
+                shootProjectile();
+                Debug.Log(
+                    "Projectile Fired"
+                );
+            }
+        }
+
         Vector3 newPosition = transform.position + velocity * Time.deltaTime * speed;
-        if (newPosition.x < xLowerBound || newPosition.x > xUpperBound) {
+        if (newPosition.x < xLowerBound || newPosition.x > xUpperBound)
+        {
             velocity.x = 0;
         }
         if (newPosition.y < yLowerBound || newPosition.y > yUpperBound)
@@ -102,5 +146,7 @@ public class PlayerController : MonoBehaviour
             velocity = new Vector3();
         }
         Debug.Log("new velocity: " + velocity);
+
+
     }
 }
