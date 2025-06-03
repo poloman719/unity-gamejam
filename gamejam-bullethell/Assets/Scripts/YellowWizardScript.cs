@@ -6,8 +6,8 @@ public class YellowWizardScript : MonoBehaviour
     public Rigidbody2D rb;
     public GameObject beam;
     public Animator animator;
-    double timer = -2;
-    public double attackSpeed = 5;
+    public double timer = -2;
+    public double attackSpeed;
 
     public double attackTimer = 0;
 
@@ -47,7 +47,31 @@ public class YellowWizardScript : MonoBehaviour
         // Attacking
         if (timer > attackSpeed && !isAttacking)
         {
-            
+            isAttacking = true;
+            prevMove = moveDirection;
+            moveDirection = 0;
+            animator.SetBool("Attacking", true);
+        }
+
+        if (isAttacking)
+        {
+            attackTimer += Time.deltaTime;
+        }
+
+        if (attackTimer > 0.25 && !attackComplete)
+        {
+            beamAttack();
+            attackComplete = true;
+        }
+
+        if (attackTimer > 3.417)
+        {
+            animator.SetBool("Attacking", false);
+            moveDirection = prevMove;
+            isAttacking = false;
+            attackComplete = false;
+            attackTimer = 0;
+            timer = 0;
         }
     }
     void moveWave()

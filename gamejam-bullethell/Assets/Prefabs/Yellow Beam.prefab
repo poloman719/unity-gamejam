@@ -123,6 +123,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76fe9f4c967b3434d83ad65a1b05488f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fireTime: 5
+  fireTime: 3
   anim: {fileID: 1691489643168748713}
   itself: {fileID: 5976876106982282015}
