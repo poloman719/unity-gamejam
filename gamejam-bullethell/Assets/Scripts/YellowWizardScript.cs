@@ -19,6 +19,8 @@ public class YellowWizardScript : MonoBehaviour
 
     double moveTimer = 0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    public int beamCt;
     void Start()
     {
 
@@ -46,8 +48,11 @@ public class YellowWizardScript : MonoBehaviour
     }
 
     [ContextMenu("Beam Attack")]
-    public void beamAttack(int beamCt)
+    public void beamAttack()
     {
-
+        for (int i = 0; i < beamCt; i++)
+        {
+            
+        }
     }
 }

@@ -53,7 +53,7 @@ MonoBehaviour:
   xUpperBound: -3.8
   yLowerBound: -3.5
   yUpperBound: 4.5
-  playerProjectileObject: {fileID: 0}
+  playerProjectileObject: {fileID: 602324543731244687, guid: c55fef472743a457b87add96c2c0e573, type: 3}
 --- !u!212 &2105768646224991822
 SpriteRenderer:
   m_ObjectHideFlags: 0
