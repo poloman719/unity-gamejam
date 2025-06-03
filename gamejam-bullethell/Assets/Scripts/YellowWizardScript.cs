@@ -23,12 +23,13 @@ public class YellowWizardScript : MonoBehaviour
     public int beamCt;
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
     void Update()
     {
+                    
         // Set movement direction
         if (rb.position.x > -3.75)
         {
@@ -52,7 +53,22 @@ public class YellowWizardScript : MonoBehaviour
     {
         for (int i = 0; i < beamCt; i++)
         {
-            
+            int direction = UnityEngine.Random.Range(0,3);
+            switch (direction)
+            {
+                case 0: // Left
+                    Instantiate(beam, new Vector2(-5, UnityEngine.Random.Range(-4, (float)2.51)), Quaternion.Euler(new Vector3(0,0,90)));
+                    break;
+                case 1: // Right
+                    Instantiate(beam, new Vector2(-5, UnityEngine.Random.Range(-4, (float)2.51)), Quaternion.Euler(new Vector3(0,0,-90)));
+                    break;
+                case 2: // Up
+                    Instantiate(beam, new Vector2(-5, UnityEngine.Random.Range(-4, (float)2.51)), Quaternion.Euler(new Vector3(0,0,0)));
+                    break;
+                default:
+                    Debug.Log("Error");
+                    break;
+            }
         }
     }
 }
