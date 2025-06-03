@@ -2643,6 +2643,7 @@ MonoBehaviour:
   xUpperBound: -3.8
   yLowerBound: -3.5
   yUpperBound: 4.5
+  playerProjectileObject: {fileID: 0}
 --- !u!4 &1726092003
 Transform:
   m_ObjectHideFlags: 0
