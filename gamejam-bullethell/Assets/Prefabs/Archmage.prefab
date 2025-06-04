@@ -127,7 +127,16 @@ MonoBehaviour:
   archmageAnimator: {fileID: 8628103468937914992}
   beam: {fileID: 5976876106982282015, guid: 8bfc14dc4cf97334aa8659f284f79e6e, type: 3}
   ball: {fileID: 8841915369224641392, guid: c22fb2e0e37b2d843a5b741eff7f8dcf, type: 3}
-  spear: {fileID: 0}
+  drill: {fileID: 5504100159574016679, guid: fdd75086c5264544daa14eba3ae1e58b, type: 3}
+  archmageBallPellet: {fileID: 6858488606782543746, guid: b3ca5269b063e4c41a6b2e31b79c6991, type: 3}
+  playerWagon: {fileID: 2263301741207489066, guid: 598768ecba161244687d4d23841f46ae, type: 3}
+  rb: {fileID: 2434412995533335123}
+  staticBeamCt: 5
+  movingBeamCt: 3
+  timer: 0
+  moveTimer: 0
+  attackTimer: 0
+  moveDirection: -1
 --- !u!50 &2434412995533335123
 Rigidbody2D:
   serializedVersion: 5

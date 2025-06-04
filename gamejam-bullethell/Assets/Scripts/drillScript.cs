@@ -21,6 +21,8 @@ public class drillScript : MonoBehaviour
             debrisRelease();
             timer = 0;
         }
+        
+        gameObject.GetComponent<Rigidbody2D>().linearVelocity = new Vector2((float)Math.Cos((transform.eulerAngles.z + 180) * Math.PI / 180), (float)Math.Sin((transform.eulerAngles.z + 180) * Math.PI / 180)) * 5;
     }
 
     [ContextMenu("Release Debris")]
