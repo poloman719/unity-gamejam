@@ -37,6 +37,8 @@ public class PlayerController : MonoBehaviour
     public double dashIFrames = 0.5;
     public double dashTimer;
     public bool dashingInv = false;
+    public double dashCooldown = 1;
+    public double currentCooldown = 0;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -91,14 +93,19 @@ public class PlayerController : MonoBehaviour
 
     void onDash(InputAction.CallbackContext context)
     {
-        if (!moving || dashing) return;
-        moving = false;
-        dashing = true;
-        dashSound.Play();
-        preDashVelocity = velocity;
-        velocity = velocity.normalized * dashFactor;
-        dashingInv = true;
-        animator.SetBool("Dashing", true);
+        if ((!moving || dashing)) return;
+        if (currentCooldown <= 0)
+        {
+            moving = false;
+            dashing = true;
+            dashSound.Play();
+            preDashVelocity = velocity;
+            velocity = velocity.normalized * dashFactor;
+            dashingInv = true;
+            animator.SetBool("Dashing", true);
+            currentCooldown = dashCooldown;
+        }
+            
     }
 
     // void onShoot(InputAction.CallbackContext context)
@@ -124,6 +131,7 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        currentCooldown -= Time.fixedDeltaTime;
         if (dying)
         {
             deathTimer += Time.deltaTime;
