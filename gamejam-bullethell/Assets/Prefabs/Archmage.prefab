@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5994801241836341676}
   - component: {fileID: 997650608118662145}
   - component: {fileID: 8628103468937914992}
+  - component: {fileID: 6336280248200696902}
   m_Layer: 0
   m_Name: Archmage
   m_TagString: Untagged
@@ -110,3 +111,16 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &6336280248200696902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4182429471230814351}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a95040c1c14df24b852f298dc29ef37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  archmageAnimator: {fileID: 8628103468937914992}
