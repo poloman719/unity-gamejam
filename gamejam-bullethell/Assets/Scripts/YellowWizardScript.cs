@@ -5,14 +5,16 @@ public class YellowWizardScript : MonoBehaviour
 {
     public Rigidbody2D rb;
     public GameObject beam;
+    public GameObject HealthBar;
     public Animator animator;
     public double timer = -2;
     public double attackSpeed;
 
     public double attackTimer = 0;
 
-    Boolean isAttacking = false;
-    Boolean attackComplete = false;
+
+    bool isAttacking = false;
+    bool attackComplete = false;
 
     public int moveDirection = 0; // 0 -> not moving, -1 -> left, 1 -> right
     int prevMove = 0;
@@ -24,6 +26,7 @@ public class YellowWizardScript : MonoBehaviour
     void Start()
     {
         beamCt = UnityEngine.Random.Range(2, 4);
+        HealthBar.GetComponent<HealthBar>().onDeath = OnDeath;
     }
 
     // Update is called once per frame
@@ -84,22 +87,37 @@ public class YellowWizardScript : MonoBehaviour
     {
         for (int i = 0; i < beamCt; i++)
         {
-            int direction = UnityEngine.Random.Range(0,3);
+            int direction = UnityEngine.Random.Range(0, 3);
             switch (direction)
             {
                 case 0: // Left
-                    Instantiate(beam, new Vector2(-5, UnityEngine.Random.Range(-4, (float)2.51)), Quaternion.Euler(new Vector3(0,0,90)));
+                    Instantiate(beam, new Vector2(-5, UnityEngine.Random.Range(-4, (float)2.51)), Quaternion.Euler(new Vector3(0, 0, 90)));
                     break;
                 case 1: // Right
-                    Instantiate(beam, new Vector2(-8, UnityEngine.Random.Range(-4, (float)2.51)), Quaternion.Euler(new Vector3(0,0,-90)));
+                    Instantiate(beam, new Vector2(-8, UnityEngine.Random.Range(-4, (float)2.51)), Quaternion.Euler(new Vector3(0, 0, -90)));
                     break;
                 case 2: // Up
-                    Instantiate(beam, new Vector2(UnityEngine.Random.Range((float) -8, (float) -4), 0), Quaternion.Euler(new Vector3(0,0,0)));
+                    Instantiate(beam, new Vector2(UnityEngine.Random.Range((float)-8, (float)-4), 0), Quaternion.Euler(new Vector3(0, 0, 0)));
                     break;
                 default:
                     Debug.Log("Error");
                     break;
             }
         }
+    }
+    
+    void OnTriggerEnter2D(Collider2D col)
+    {
+        if (col.name == "PlayerProjectile(Clone)")
+        {
+            Debug.Log(gameObject.name + " damaged");
+            HealthBar.GetComponent<HealthBar>().changeHealth(-10);
+            // takingDamage = true;
+        }
+    }
+
+    public void OnDeath()
+    {
+        Debug.Log("I died");
     }
 }

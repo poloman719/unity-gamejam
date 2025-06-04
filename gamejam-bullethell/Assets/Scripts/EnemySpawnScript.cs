@@ -1,4 +1,5 @@
 using UnityEditor.Experimental.GraphView;
+using UnityEditor.Rendering;
 using UnityEngine;
 
 public class EnemySpawnScript : MonoBehaviour
@@ -10,6 +11,8 @@ public class EnemySpawnScript : MonoBehaviour
     public bool canSpawn = true;
     public double spawnTimer = 10;
     public double timer;
+    public GameObject[] currentEnemies;
+    public GameObject[] temp;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
