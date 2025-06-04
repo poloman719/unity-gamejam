@@ -112,6 +112,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "ContinueIntro",
+                    "type": "Button",
+                    "id": "784f9ae1-91f6-4bfb-af83-f8b3befffc91",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -563,6 +572,17 @@
                     "processors": "",
                     "groups": ";Keyboard&Mouse",
                     "action": "Shoot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "886f2fea-ec86-4368-8323-d52bb69685e5",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Keyboard&Mouse",
+                    "action": "ContinueIntro",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

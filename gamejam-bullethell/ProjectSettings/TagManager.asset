@@ -7,12 +7,12 @@ TagManager:
   - Wizard
   - Projectile
   - PlayerProjectile
-  - UI
+  - ContinueText
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Projectile Layer
+  - 
   - Water
   - UI
   - 
