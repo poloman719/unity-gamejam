@@ -3,6 +3,7 @@ using UnityEngine.UI;
 using UnityEngine.InputSystem;
 using UnityEngine.Audio;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
@@ -65,5 +66,11 @@ public class PauseMenu : MonoBehaviour
     {
         Application.Quit();
         Debug.Log("Quitting Application.");
+    }
+
+    public void Restart()
+    {
+        Debug.Log("RESTARTING");
+        SceneManager.LoadSceneAsync(2);
     }
 }

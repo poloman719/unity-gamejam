@@ -20,6 +20,12 @@ public class GameOver : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
+    }
+
+    public void Restart()
+    {
+        Debug.Log("calling a restart");
+        GameObject.FindWithTag("UI").GetComponent<PauseMenu>().Restart();
     }
 }
