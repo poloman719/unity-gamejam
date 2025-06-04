@@ -1,12 +1,14 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.InputSystem;
+using UnityEngine.Audio;
+using UnityEngine.UI;
 
 public class PauseMenu : MonoBehaviour
 {
     public GameObject PauseOverlay;
     public GameObject QuitConfirmOverlay;
-    public GameObject lowPassCutoffFreq;
+    [SerializeField] private AudioMixer lowPassCutoffFreq;
 
     InputAction pause;
 
@@ -36,12 +38,14 @@ public class PauseMenu : MonoBehaviour
             Time.timeScale = 1;
             gamePaused = false;
             PauseOverlay.SetActive(false);
+            lowPassCutoffFreq.SetFloat("Freq", 22000);
         }
         else
         {
             Time.timeScale = 0;
             gamePaused = true;
             PauseOverlay.SetActive(true);
+            lowPassCutoffFreq.SetFloat("Freq", 600);
         }
     }
 

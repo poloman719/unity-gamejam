@@ -2187,7 +2187,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PauseOverlay: {fileID: 352046536}
   QuitConfirmOverlay: {fileID: 1923369101}
-  lowPassCutoffFreq: {fileID: 0}
+  lowPassCutoffFreq: {fileID: 24100000, guid: 8d3db6a71f9f12f438fdcf0098b36493, type: 2}
 --- !u!114 &1030219984
 MonoBehaviour:
   m_ObjectHideFlags: 0
