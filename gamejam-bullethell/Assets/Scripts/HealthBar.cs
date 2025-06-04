@@ -8,6 +8,7 @@ public class HealthBar : MonoBehaviour
     public float currentHealth;
     public delegate void OnDeath();
     public OnDeath onDeath;
+    public AudioSource hitSound;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -20,6 +21,7 @@ public class HealthBar : MonoBehaviour
     public void changeHealth(float amount)
     {
         currentHealth += amount;
+        hitSound.Play();
         if (currentHealth > maxHealth) currentHealth = maxHealth;
         if (currentHealth < 0)
         {
