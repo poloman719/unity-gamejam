@@ -125,7 +125,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   archmageAnimator: {fileID: 8628103468937914992}
-  beam: {fileID: 0}
+  beam: {fileID: 5976876106982282015, guid: 8bfc14dc4cf97334aa8659f284f79e6e, type: 3}
   ball: {fileID: 8841915369224641392, guid: c22fb2e0e37b2d843a5b741eff7f8dcf, type: 3}
   spear: {fileID: 0}
 --- !u!50 &2434412995533335123
