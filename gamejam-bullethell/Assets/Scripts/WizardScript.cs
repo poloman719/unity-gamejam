@@ -12,6 +12,11 @@ public class WizardScript : MonoBehaviour
     public double attackSpeed = 5;
     public double attackTimer = 0;
     public double damageCooldown = 1;
+    public double deathTime = 1;
+    public double deathTimer = 0;
+    public bool dying = false;
+    public delegate void RemoveSelf();
+    public RemoveSelf removeSelf;
 
     bool isAttacking = false;
     bool attackComplete = false;
@@ -41,6 +46,18 @@ public class WizardScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (dying)
+        {
+            Debug.Log("dying: " + deathTimer);
+            deathTimer += Time.deltaTime;
+            if (deathTimer > deathTime)
+            {
+                Debug.Log("i like actually died");
+                removeSelf();
+                Destroy(gameObject);
+            }
+            return;
+        }
         // Increment Timers
         timer += Time.deltaTime;
         moveTimer += Time.deltaTime * 0.5;
@@ -136,5 +153,7 @@ public class WizardScript : MonoBehaviour
     public void OnDeath()
     {
         Debug.Log("I died");
+        animator.SetTrigger("Dead");
+        dying = true;
     }
 }

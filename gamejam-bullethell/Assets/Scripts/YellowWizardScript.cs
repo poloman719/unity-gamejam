@@ -11,12 +11,17 @@ public class YellowWizardScript : MonoBehaviour
     public double attackSpeed;
 
     public double attackTimer = 0;
+    public double deathTime = 1;
+    public double deathTimer = 0;
+    public bool dying = false;
+    public int moveDirection = 0; // 0 -> not moving, -1 -> left, 1 -> right
+    public delegate void RemoveSelf();
+    public RemoveSelf removeSelf;
 
 
     bool isAttacking = false;
     bool attackComplete = false;
 
-    public int moveDirection = 0; // 0 -> not moving, -1 -> left, 1 -> right
     int prevMove = 0;
 
     double moveTimer = 0;
@@ -32,6 +37,18 @@ public class YellowWizardScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (dying)
+        {
+            Debug.Log("dying: " + deathTimer);
+            deathTimer += Time.deltaTime;
+            if (deathTimer > deathTime)
+            {
+                Debug.Log("i like actually died");
+                removeSelf();
+                Destroy(gameObject);
+            }
+            return;
+        }
 
         // Set movement direction
         if (rb.position.x > -3.75)
@@ -119,5 +136,7 @@ public class YellowWizardScript : MonoBehaviour
     public void OnDeath()
     {
         Debug.Log("I died");
+        animator.SetTrigger("Dead");
+        dying = true;
     }
 }
