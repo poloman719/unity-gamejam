@@ -6,27 +6,36 @@ public class WizardScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public Rigidbody2D rb;
     public GameObject projectileObject;
+    public GameObject HealthBar;
     public Animator animator;
     double timer = -2;
     public double attackSpeed = 5;
-
     public double attackTimer = 0;
+    public double damageCooldown = 1;
 
-    Boolean isAttacking = false;
-    Boolean attackComplete = false;
+    bool isAttacking = false;
+    bool attackComplete = false;
     public float bulletSpeed;
 
     public int moveDirection = 0; // 0 -> not moving, -1 -> left, 1 -> right
     int prevMove = 0;
 
     double moveTimer = 0;
+    bool takingDamage = false;
+    double damageTimer = 0;
 
     public AudioSource wizardAttackSound;
     // public Vector2 projectileVelocity = Vector2.zero;
 
     void Start()
     {
-        
+        // if (deathEvent = null)
+        // {
+        //     deathEvent = new UnityEvent();
+        // }
+
+        // deathEvent.AddListener(OnDeath);
+        HealthBar.GetComponent<HealthBar>().onDeath = OnDeath;
     }
 
     // Update is called once per frame
@@ -46,6 +55,12 @@ public class WizardScript : MonoBehaviour
             moveDirection = 0;
             animator.SetBool("Attacking", true);
         }
+
+        // if (damageTimer > damageCooldown)
+        // {
+        //     takingDamage = false;
+        //     damageTimer = 0;
+        // }
 
         if (isAttacking)
         {
@@ -104,6 +119,22 @@ public class WizardScript : MonoBehaviour
 
     void moveWave()
     {
-        rb.linearVelocity = new Vector2((float) (moveDirection), (float) (Math.Sin(moveTimer * 4) * 1.5));
+        rb.linearVelocity = new Vector2((float)(moveDirection), (float)(Math.Sin(moveTimer * 4) * 1.5));
+    }
+
+    void OnTriggerEnter2D(Collider2D col)
+    {
+        if (takingDamage) return;
+        if (col.name == "PlayerProjectile(Clone)")
+        {
+            Debug.Log(gameObject.name + " damaged");
+            HealthBar.GetComponent<HealthBar>().changeHealth(-10);
+            // takingDamage = true;
+        }
+    }
+
+    public void OnDeath()
+    {
+        Debug.Log("I died");
     }
 }

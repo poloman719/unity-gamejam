@@ -6,6 +6,8 @@ public class HealthBar : MonoBehaviour
     public SpriteRenderer spriteRenderer;
     public float maxHealth = 100;
     public float currentHealth;
+    public delegate void OnDeath();
+    public OnDeath onDeath;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -23,6 +25,13 @@ public class HealthBar : MonoBehaviour
         {
             currentHealth = 0;
             Debug.Log(gameObject + " DIED");
+            GameObject parent = transform.parent.gameObject;
+            onDeath();
+            // if (parent.GetComponent<RedWizardScript>().OnDeath)
+            // {
+            // parent.GetComponent<RedWizardScript>().OnDeath();
+            // calls OnDeath function on parent object
+            // }
         }
         renderHealth();
         Debug.Log(gameObject + ": Health decreased by " + amount + ", Current Health: " + currentHealth);
