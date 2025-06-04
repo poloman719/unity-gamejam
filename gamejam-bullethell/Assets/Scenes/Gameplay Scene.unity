@@ -2709,8 +2709,8 @@ MonoBehaviour:
   - {fileID: 3086895145429654878, guid: 37adb86a8eab7314db899cfa92d8ea53, type: 3}
   enemyWeights: 0100000002000000
   currentWeight: 0
-  maxWeight: 4
-  maxWeightLimit: 4
+  maxWeight: 1
+  maxWeightLimit: 5
   canSpawn: 1
   spawnTimer: 1
   timer: 0

@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.Video;
 using System.Collections.Generic;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class IntroScript : MonoBehaviour
 {
@@ -70,6 +71,7 @@ public class IntroScript : MonoBehaviour
         {
             ContinueTextCR.SetAlpha(1);
             canContinueBtnDisplayed = true;
+            SceneManager.LoadSceneAsync(2);
         }
 
         if (timer > 1 / vp.frameRate)
