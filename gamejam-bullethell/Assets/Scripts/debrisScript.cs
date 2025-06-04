@@ -14,8 +14,8 @@ public class debrisScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float rotation = transform.rotation.z;
-        rb.linearVelocity = new Vector2((float) (Math.Cos(rotation * Math.PI / 180)), (float) (Math.Sin(rotation * Math.PI / 180)))  * (float) bulletSpeed;
+        
+        rb.linearVelocity = new Vector2((float)Math.Cos((transform.eulerAngles.z + 180) * Math.PI / 180), (float)Math.Sin((transform.eulerAngles.z + 180) * Math.PI / 180)) * 5;
          if (transform.position.y > 7 || transform.position.y < -7 || transform.position.x > 1 || transform.position.x < -14)
         {
             Destroy(gameObject);
