@@ -63,6 +63,7 @@ MonoBehaviour:
   animator: {fileID: 8237127032937420500}
   dashSound: {fileID: 2258604496619787299}
   deathSound: {fileID: -4255656718887162171}
+  GameOverScreen: {fileID: 5704977571448243480, guid: 0d56a9c87e3664d37a1ffa0c339cd062, type: 3}
 --- !u!212 &2105768646224991822
 SpriteRenderer:
   m_ObjectHideFlags: 0

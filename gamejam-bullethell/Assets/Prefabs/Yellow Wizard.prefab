@@ -205,7 +205,7 @@ MonoBehaviour:
   HealthBar: {fileID: 3215911387263918428}
   animator: {fileID: 7834353808493770916}
   timer: -2
-  attackSpeed: 10
+  attackSpeed: 5
   attackTimer: 0
   deathTime: 1
   deathTimer: 0

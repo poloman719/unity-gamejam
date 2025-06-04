@@ -31,6 +31,7 @@ public class PlayerController : MonoBehaviour
     double deathTimer = 0;
     public AudioSource dashSound;
     public AudioSource deathSound;
+    public GameObject GameOverScreen;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -123,6 +124,7 @@ public class PlayerController : MonoBehaviour
             if (deathTimer > deathTime)
             {
                 Debug.Log("player has died officially");
+                Instantiate(GameOverScreen, new Vector3(), Quaternion.identity);
                 Destroy(gameObject);
             }
         }
