@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 86d3ef1c81852b847bc3acef0d8d3fc7
+guid: e7b449666695d1f4f9903c28a46b6281
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -200345638423064811
-    second: archmageTele_0
-  - first:
-      213: -6044940657369214166
-    second: archmageTele_1
-  - first:
-      213: 5988380391348505833
-    second: archmageTele_2
+      213: -1163504838602118676
+    second: crate_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: archmageTele_0
+      name: crate_0
       rect:
         serializedVersion: 2
-        x: 59
-        y: 279
-        width: 210
-        height: 182
+        x: 0
+        y: 0
+        width: 832
+        height: 896
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,52 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 51f8e7d04ba383df0800000000000000
-      internalID: -200345638423064811
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archmageTele_1
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 279
-        width: 210
-        height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a231135ef7e0c1ca0800000000000000
-      internalID: -6044940657369214166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archmageTele_2
-      rect:
-        serializedVersion: 2
-        x: 59
-        y: 23
-        width: 210
-        height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9ec0e36fc300b1350800000000000000
-      internalID: 5988380391348505833
+      spriteID: ce92ca883866adfe0800000000000000
+      internalID: -1163504838602118676
       vertices: []
       indices: 
       edges: []
@@ -197,10 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      archmageTele_0: -200345638423064811
-      archmageTele_1: -6044940657369214166
-      archmageTele_2: 5988380391348505833
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
