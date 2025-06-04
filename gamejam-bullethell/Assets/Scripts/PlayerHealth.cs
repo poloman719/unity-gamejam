@@ -12,6 +12,7 @@ public class PlayerHealth : MonoBehaviour
     public int currHearts;
     public Vector3 heartStartPos = new Vector3();
     public List<GameObject> heartObjects;
+    public AudioSource damage;
 
     void Start()
     {
@@ -30,6 +31,7 @@ public class PlayerHealth : MonoBehaviour
     {
         if (currHearts > 0)
         {
+            damage.Play();
             currHearts -= amount;
         }
         else

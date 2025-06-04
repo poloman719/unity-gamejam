@@ -9,7 +9,6 @@ public class HealthBar : MonoBehaviour
     public delegate void OnDeath();
     public OnDeath onDeath;
     public AudioSource hitSound;
-
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
