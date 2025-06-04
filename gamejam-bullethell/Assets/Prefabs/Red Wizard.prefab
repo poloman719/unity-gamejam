@@ -134,9 +134,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 7928785539911568712}
   projectileObject: {fileID: 1479579999508034207, guid: 9f7c7932c5bf5419aab58ba93623001e, type: 3}
+  HealthBar: {fileID: 3215911387263918428}
   animator: {fileID: 7834353808493770916}
   attackSpeed: 4
   attackTimer: 0
+  damageCooldown: 1
   bulletSpeed: 6
   moveDirection: 1
   wizardAttackSound: {fileID: 1360319803564772413}
@@ -147,7 +149,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3086895145429654878}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
@@ -170,7 +172,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -394,6 +396,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
+--- !u!1 &3215911387263918428 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4280029954827602767, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
+  m_PrefabInstance: {fileID: 1712650778142321171}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &8077406436733629427 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7483918892051339744, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
