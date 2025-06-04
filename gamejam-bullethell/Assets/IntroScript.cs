@@ -10,7 +10,9 @@ public class IntroScript : MonoBehaviour
 
     CanvasRenderer ContinueTextCR;
     double timer = 0;
+    double canContinueTimer = 0;
     bool canContinue = false;
+    bool canContinueBtnDisplayed = false;
 
     public VideoClip vc1;
     public VideoClip vc2;
@@ -29,10 +31,12 @@ public class IntroScript : MonoBehaviour
             Debug.Log("unpause");
             ContinueTextCR.SetAlpha(0);
             canContinue = false;
+            canContinueBtnDisplayed = false;
             playingVc++;
             vp.clip = vcArr[playingVc];
             vp.frame = -1;
             vp.Play();
+            canContinueTimer = 0;
         }
     }
 
@@ -61,20 +65,26 @@ public class IntroScript : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime;
+        if (canContinue) canContinueTimer += Time.deltaTime;
+        if (canContinueTimer > 2 && !canContinueBtnDisplayed)
+        {
+            ContinueTextCR.SetAlpha(1);
+            canContinueBtnDisplayed = true;
+        }
 
         if (timer > 1 / vp.frameRate)
         {
             timer = 0;
-        // Debug.Log("frame"+vp.frame);
-            Debug.Log("frame"+(double)vp.frame);
+            // Debug.Log("frame"+vp.frame);
+            Debug.Log("frame" + (double)vp.frame);
             // Debug.Log("frameCount"+vp.frameCount);
-            Debug.Log("frameCount"+(double)(vp.frameCount - 2));
+            Debug.Log("frameCount" + (double)(vp.frameCount - 2));
             if (!canContinue && ((double)vp.frame >= (double)(vp.frameCount - 2)))
             {
                 Debug.Log("Paused");
                 vp.Pause();
                 canContinue = true;
-                ContinueTextCR.SetAlpha(1);
+                // ContinueTextCR.SetAlpha(1);
             }
             else if (!canContinue)
             {
@@ -82,7 +92,7 @@ public class IntroScript : MonoBehaviour
             }
             // else
             // {
-                
+
             //     vp.frame = -1;
             // }
         }
