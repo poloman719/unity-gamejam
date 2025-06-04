@@ -2073,8 +2073,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: PAUSE (P)
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: e6543cdc8b99f45b58e4fa8f4c7dc3a4, type: 2}
-  m_sharedMaterial: {fileID: -6575318794398550631, guid: e6543cdc8b99f45b58e4fa8f4c7dc3a4, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3287,8 +3287,10 @@ MonoBehaviour:
   currentWeight: 0
   maxWeight: 4
   canSpawn: 1
-  spawnTimer: 10
+  spawnTimer: 1
   timer: 0
+  currentEnemies: []
+  temp: []
 --- !u!1 &1477823611
 GameObject:
   m_ObjectHideFlags: 0
