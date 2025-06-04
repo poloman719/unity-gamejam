@@ -47,9 +47,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8508eea1ee554510aac2e1196eda07b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
-  dashFactor: 2
-  friction: 0.1
+  speed: 5
+  dashFactor: 4
+  friction: 0.3
   xLowerBound: -9.5
   xUpperBound: -3.8
   yLowerBound: -3.5
