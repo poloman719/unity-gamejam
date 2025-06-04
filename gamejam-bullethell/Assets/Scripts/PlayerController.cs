@@ -14,6 +14,7 @@ public class PlayerController : MonoBehaviour
     public double shootingCooldown = 0.1;
     public double damageCooldown = 1;
     public GameObject playerProjectileObject;
+    public Animator animator;
     InputAction move;
     InputAction dash;
     InputAction shoot;
@@ -25,6 +26,9 @@ public class PlayerController : MonoBehaviour
     bool shooting = true;
     bool takingDamage = false;
     double damageTimer = 0;
+    bool dying = false;
+    double deathTime = 1;
+    double deathTimer = 0;
     public AudioSource dashSound;
 
 
@@ -112,6 +116,16 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (dying)
+        {
+            deathTimer += Time.deltaTime;
+            if (deathTimer > deathTime)
+            {
+                Debug.Log("player has died officially");
+                Destroy(gameObject);
+            }
+        }
+
         if (shooting)
         {
             shootingTimer += Time.deltaTime;
@@ -171,6 +185,16 @@ public class PlayerController : MonoBehaviour
             GameObject uiObject = GameObject.FindWithTag("UI");
             uiObject.GetComponent<PlayerHealth>().takeDamage(1);
             takingDamage = true;
+            animator.SetTrigger("Hit");
         }
     }
+
+    public void OnDeath()
+    {
+        Debug.Log("PLAYER DIED");
+        transform.position = transform.position + new Vector3(0, 1, 0);
+        animator.SetTrigger("Dead");
+        dying = true;
+    }
 }
+
