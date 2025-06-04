@@ -98,6 +98,7 @@ public class PlayerController : MonoBehaviour
         preDashVelocity = velocity;
         velocity = velocity.normalized * dashFactor;
         dashingInv = true;
+        animator.SetBool("Dashing", true);
     }
 
     // void onShoot(InputAction.CallbackContext context)
@@ -187,6 +188,10 @@ public class PlayerController : MonoBehaviour
         {
             dashTimer += Time.deltaTime;
             hitbox.enabled = false;
+            if (dashTimer > 0.208)
+            {
+                animator.SetBool("Dashing", false);
+            }
         }
         else
         {
