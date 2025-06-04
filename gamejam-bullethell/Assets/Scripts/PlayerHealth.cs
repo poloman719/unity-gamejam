@@ -32,6 +32,7 @@ public class PlayerHealth : MonoBehaviour
         if (currHearts > 0)
         {
             currHearts -= amount;
+            damage.Play();
         }
         else
         {

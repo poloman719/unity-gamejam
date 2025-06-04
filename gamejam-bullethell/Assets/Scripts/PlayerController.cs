@@ -30,6 +30,7 @@ public class PlayerController : MonoBehaviour
     double deathTime = 1;
     double deathTimer = 0;
     public AudioSource dashSound;
+    public AudioSource deathSound;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -194,6 +195,7 @@ public class PlayerController : MonoBehaviour
         Debug.Log("PLAYER DIED");
         transform.position = transform.position + new Vector3(0, 1, 0);
         animator.SetTrigger("Dead");
+        deathSound.Play();
         dying = true;
     }
 }
