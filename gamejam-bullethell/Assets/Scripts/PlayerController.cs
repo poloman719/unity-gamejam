@@ -164,13 +164,7 @@ public class PlayerController : MonoBehaviour
     {
         Debug.Log(col.name);
         if (takingDamage) return;
-        if (col.name == "Projectile(Clone)")
-        {
-            GameObject uiObject = GameObject.FindWithTag("UI");
-            uiObject.GetComponent<PlayerHealth>().takeDamage(1);
-            takingDamage = true;
-        }
-        if (col.name == "Yellow Beam(Clone)")
+        if (col.name == "Projectile(Clone)" || col.name == "Yellow Beam(Clone)" || col.name == "CratePrefab(Clone)" || col.name == "StackedCratesPrefab(Clone)")
         {
             GameObject uiObject = GameObject.FindWithTag("UI");
             uiObject.GetComponent<PlayerHealth>().takeDamage(1);
