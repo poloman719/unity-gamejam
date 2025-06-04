@@ -8,21 +8,25 @@ public class EnemySpawnScript : MonoBehaviour
     public int[] enemyWeights;
     public int currentWeight = 0;
     public int maxWeight = 0;
+    public int maxWeightLimit = 4;
     public bool canSpawn = true;
     public double spawnTimer = 10;
     public double timer;
     public GameObject[] currentEnemies;
     public GameObject[] temp;
+    public int enemiesKilled = 0;
+    public double timeAlive = 0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        maxWeight = 1;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(!canSpawn) return;
+        timeAlive += Time.deltaTime;
+        if (!canSpawn) return;
         timer += Time.deltaTime;
         if (timer > spawnTimer)
         {
@@ -56,6 +60,7 @@ public class EnemySpawnScript : MonoBehaviour
         spawnedWizard.GetComponent<WizardScript>().removeSelf = () =>
         {
             currentWeight -= enemyWeights[0];
+            killAnEnemy();
         };
         currentWeight += enemyWeights[0];
     }
@@ -73,7 +78,17 @@ public class EnemySpawnScript : MonoBehaviour
         spawnedWizard.GetComponent<YellowWizardScript>().removeSelf = () =>
         {
             currentWeight -= enemyWeights[1];
+            killAnEnemy();
         };
         currentWeight += enemyWeights[1];
+    }
+
+    void killAnEnemy()
+    {
+        enemiesKilled += 1;
+        if (enemiesKilled % 2 == 0 && enemiesKilled <= maxWeightLimit * 2)
+        {
+            maxWeight += 1;
+        } 
     }
 }

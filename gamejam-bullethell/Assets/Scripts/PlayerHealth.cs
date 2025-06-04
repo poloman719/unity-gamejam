@@ -29,7 +29,7 @@ public class PlayerHealth : MonoBehaviour
 
     public void takeDamage(int amount)
     {
-        if (currHearts > 0)
+        if (currHearts > 1)
         {
             currHearts -= amount;
             damage.Play();
