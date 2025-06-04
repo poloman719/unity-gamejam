@@ -20,7 +20,6 @@ public class YellowWizardScript : MonoBehaviour
     public AudioSource deathSound;
 
 
-
     bool isAttacking = false;
     bool attackComplete = false;
 
@@ -48,6 +47,8 @@ public class YellowWizardScript : MonoBehaviour
                 Debug.Log("i like actually died");
                 removeSelf();
                 Destroy(gameObject);
+                deathSound.Play();
+
             }
             return;
         }
@@ -138,7 +139,6 @@ public class YellowWizardScript : MonoBehaviour
     public void OnDeath()
     {
         Debug.Log("I died");
-        deathSound.Play();
         animator.SetTrigger("Dead");
         dying = true;
     }

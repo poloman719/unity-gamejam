@@ -232,7 +232,7 @@ AudioSource:
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 96
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -318,6 +318,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2890848852363510499}
     m_Modifications:
+    - target: {fileID: 2592227148097403997, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
+      propertyPath: collider
+      value: 
+      objectReference: {fileID: 4358937136918953149}
     - target: {fileID: 2592227148097403997, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
       propertyPath: maxHealth
       value: 100

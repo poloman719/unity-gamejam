@@ -1039,7 +1039,7 @@ MonoBehaviour:
   generationRate: 1
   crate: {fileID: 5928212327497397302, guid: 312f7e1f78d332b499adb0aec571b29d, type: 3}
   stackedCrates: {fileID: 6081810226773722067, guid: 2127e642305d122438ede098b7927521, type: 3}
-  canSpawn: 1
+  canSpawn: 0
 --- !u!4 &366314298
 Transform:
   m_ObjectHideFlags: 0
@@ -2919,7 +2919,7 @@ MonoBehaviour:
   enemyWeights: 0100000002000000
   currentWeight: 0
   maxWeight: 4
-  canSpawn: 1
+  canSpawn: 0
   spawnTimer: 1
   timer: 0
   currentEnemies: []

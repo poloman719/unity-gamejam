@@ -143,7 +143,6 @@ MonoBehaviour:
   deathTime: 1
   deathTimer: 0
   dying: 0
-  deathSound: {fileID: -7978313760731642744}
   bulletSpeed: 6
   moveDirection: 1
   wizardAttackSound: {fileID: 1360319803564772413}
@@ -331,7 +330,7 @@ AudioSource:
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 96
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -421,6 +420,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2592227148097403997, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
+      propertyPath: collider
+      value: 
+      objectReference: {fileID: 4358937136918953149}
     - target: {fileID: 2592227148097403997, guid: fc77bbee610d3405ca7816984491dc42, type: 3}
       propertyPath: maxHealth
       value: 100

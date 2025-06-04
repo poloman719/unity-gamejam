@@ -25,6 +25,7 @@ public class PlayerController : MonoBehaviour
     bool shooting = true;
     bool takingDamage = false;
     double damageTimer = 0;
+    public AudioSource dashSound;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -83,6 +84,7 @@ public class PlayerController : MonoBehaviour
         if (!moving || dashing) return;
         moving = false;
         dashing = true;
+        dashSound.Play();
         preDashVelocity = velocity;
         velocity = velocity.normalized * dashFactor;
     }

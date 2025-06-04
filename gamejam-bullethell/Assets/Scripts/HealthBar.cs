@@ -9,6 +9,8 @@ public class HealthBar : MonoBehaviour
     public delegate void OnDeath();
     public OnDeath onDeath;
     public AudioSource hitSound;
+    public AudioSource deathSound;
+    public Collider2D collider;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -22,9 +24,11 @@ public class HealthBar : MonoBehaviour
         currentHealth += amount;
         hitSound.Play();
         if (currentHealth > maxHealth) currentHealth = maxHealth;
-        if (currentHealth < 0)
+        if (currentHealth <= 0)
         {
             currentHealth = 0;
+            Destroy(collider);
+            deathSound.Play();
             Debug.Log(gameObject + " DIED");
             GameObject parent = transform.parent.gameObject;
             onDeath();
