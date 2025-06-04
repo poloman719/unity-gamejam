@@ -1,0 +1,2123 @@
+fileFormatVersion: 2
+guid: 711c0f2a0ca9ee24992f8879b029e7a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4791597371837842037
+    second: archmageBeam_0
+  - first:
+      213: 8468347809457701899
+    second: archmageBeam_1
+  - first:
+      213: 4781983040016126001
+    second: archmageBeam_2
+  - first:
+      213: -652739713606753871
+    second: archmageBeam_3
+  - first:
+      213: -9073204569653860503
+    second: archmageBeam_4
+  - first:
+      213: 711873931112407272
+    second: archmageBeam_5
+  - first:
+      213: -7508679298893298557
+    second: archmageBeam_6
+  - first:
+      213: -4532327928802267701
+    second: archmageBeam_7
+  - first:
+      213: -2733928782833290381
+    second: archmageBeam_8
+  - first:
+      213: 3924255162672108590
+    second: archmageBeam_9
+  - first:
+      213: 2133509837133146313
+    second: archmageBeam_10
+  - first:
+      213: 6302802778893492687
+    second: archmageBeam_11
+  - first:
+      213: -2478400599503503742
+    second: archmageBeam_12
+  - first:
+      213: 7199914538168830426
+    second: archmageBeam_13
+  - first:
+      213: 4051637110922924853
+    second: archmageBeam_14
+  - first:
+      213: -3126506236552277153
+    second: archmageBeam_15
+  - first:
+      213: 7393856833276595910
+    second: archmageBeam_16
+  - first:
+      213: -6427174642839368820
+    second: archmageBeam_17
+  - first:
+      213: -3389429331940352608
+    second: archmageBeam_18
+  - first:
+      213: -2135730054557430222
+    second: archmageBeam_19
+  - first:
+      213: 8249933967295308350
+    second: archmageBeam_20
+  - first:
+      213: 5069470016847977326
+    second: archmageBeam_21
+  - first:
+      213: -8771085391222717391
+    second: archmageBeam_22
+  - first:
+      213: -6281743952896804687
+    second: archmageBeam_23
+  - first:
+      213: -6239797028983507455
+    second: archmageBeam_24
+  - first:
+      213: 6129516239062279859
+    second: archmageBeam_25
+  - first:
+      213: 8388124554743719562
+    second: archmageBeam_26
+  - first:
+      213: -1887326314530975254
+    second: archmageBeam_27
+  - first:
+      213: 4860115789951071566
+    second: archmageBeam_28
+  - first:
+      213: 7854209040875360358
+    second: archmageBeam_29
+  - first:
+      213: -873051196158746011
+    second: archmageBeam_30
+  - first:
+      213: -4614986758351016261
+    second: archmageBeam_31
+  - first:
+      213: -8493140291655005607
+    second: archmageBeam_32
+  - first:
+      213: -2124421135246128862
+    second: archmageBeam_33
+  - first:
+      213: -2218681747065077083
+    second: archmageBeam_34
+  - first:
+      213: 879927712571565346
+    second: archmageBeam_35
+  - first:
+      213: 6518590696766258278
+    second: archmageBeam_36
+  - first:
+      213: 3611431818389295937
+    second: archmageBeam_37
+  - first:
+      213: 1979907909441756130
+    second: archmageBeam_38
+  - first:
+      213: 8807474759761115904
+    second: archmageBeam_39
+  - first:
+      213: 7585433022869852378
+    second: archmageBeam_40
+  - first:
+      213: -5857895230432977805
+    second: archmageBeam_41
+  - first:
+      213: -4591050351018211500
+    second: archmageBeam_42
+  - first:
+      213: -7302361702706435088
+    second: archmageBeam_43
+  - first:
+      213: -570571664838869151
+    second: archmageBeam_44
+  - first:
+      213: 380738626990242154
+    second: archmageBeam_45
+  - first:
+      213: -1406555986997247338
+    second: archmageBeam_46
+  - first:
+      213: -2814928950994529946
+    second: archmageBeam_47
+  - first:
+      213: 1692745594700371903
+    second: archmageBeam_48
+  - first:
+      213: 7304186483551347993
+    second: archmageBeam_49
+  - first:
+      213: -8235074648632575132
+    second: archmageBeam_50
+  - first:
+      213: -3695740237449566823
+    second: archmageBeam_51
+  - first:
+      213: -4696179737212044450
+    second: archmageBeam_52
+  - first:
+      213: 7403295404212091517
+    second: archmageBeam_53
+  - first:
+      213: 3196501442463952646
+    second: archmageBeam_54
+  - first:
+      213: 6328637870796016422
+    second: archmageBeam_55
+  - first:
+      213: 2362098982583168753
+    second: archmageBeam_56
+  - first:
+      213: -7884765751013620928
+    second: archmageBeam_57
+  - first:
+      213: -5458784182957192362
+    second: archmageBeam_58
+  - first:
+      213: 2843598598760370023
+    second: archmageBeam_59
+  - first:
+      213: -8973384548945784553
+    second: archmageBeam_60
+  - first:
+      213: -1566142232527537415
+    second: archmageBeam_61
+  - first:
+      213: 2993994818087900020
+    second: archmageBeam_62
+  - first:
+      213: -210517745716330672
+    second: archmageBeam_63
+  - first:
+      213: 5238005485903982402
+    second: archmageBeam_64
+  - first:
+      213: -6012570631836856067
+    second: archmageBeam_65
+  - first:
+      213: -8386233832690880364
+    second: archmageBeam_66
+  - first:
+      213: 8383538972320793880
+    second: archmageBeam_67
+  - first:
+      213: -5474313320964578860
+    second: archmageBeam_68
+  - first:
+      213: -6596234515132872837
+    second: archmageBeam_69
+  - first:
+      213: -978009005604405369
+    second: archmageBeam_70
+  - first:
+      213: 4138031037707028425
+    second: archmageBeam_71
+  - first:
+      213: -8350610800709495907
+    second: archmageBeam_72
+  - first:
+      213: -4859647262636108951
+    second: archmageBeam_73
+  - first:
+      213: 3548931307546365897
+    second: archmageBeam_74
+  - first:
+      213: -5128382898504714858
+    second: archmageBeam_75
+  - first:
+      213: 6607233993834626633
+    second: archmageBeam_76
+  - first:
+      213: -6939605996887003169
+    second: archmageBeam_77
+  - first:
+      213: 4060192412435785631
+    second: archmageBeam_78
+  - first:
+      213: 43989597490092242
+    second: archmageBeam_79
+  - first:
+      213: 2484847556081705999
+    second: archmageBeam_80
+  - first:
+      213: 3872772244682870229
+    second: archmageBeam_81
+  - first:
+      213: 5320399846130488456
+    second: archmageBeam_82
+  - first:
+      213: -6367509623638897769
+    second: archmageBeam_83
+  - first:
+      213: -554047665121701581
+    second: archmageBeam_84
+  - first:
+      213: -4413603105131222
+    second: archmageBeam_85
+  - first:
+      213: -757989804043532577
+    second: archmageBeam_86
+  - first:
+      213: -6823413973888050829
+    second: archmageBeam_87
+  - first:
+      213: 428303300078126299
+    second: archmageBeam_88
+  - first:
+      213: -3896640681222391866
+    second: archmageBeam_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: archmageBeam_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88246013aadc47945a3b6387cadbf22d
+      internalID: -4791597371837842037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_1
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 20000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8e11af718ee4c438f926ce5339e623
+      internalID: 8468347809457701899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_2
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 20000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0757492896e1f240b255c54fd94834a
+      internalID: 4781983040016126001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_3
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 20000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045f7a38d1c97fb4d898ea5f5ae3c828
+      internalID: -652739713606753871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_4
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 20000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acea769f6781cd4d974f03d46c19bb6
+      internalID: -9073204569653860503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_5
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 20000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8500a5002fdd2c04891cbeb431c1744b
+      internalID: 711873931112407272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_6
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 20000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735b6bdf0a883d14caddcb4e40317e0a
+      internalID: -7508679298893298557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_7
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 20000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bcf85eb8005a84cb6d05c6d0d8ca9e
+      internalID: -4532327928802267701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_8
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 20000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5f94e806e0c7c46a2af38572c539c9
+      internalID: -2733928782833290381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b76671f09e22674f866061cad31fa78
+      internalID: 3924255162672108590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 17500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a22832b2e09734e9616dd75a04d70a
+      internalID: 2133509837133146313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_11
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 17500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7962be072dbf5547b2fa661e0e7f4a5
+      internalID: 6302802778893492687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_12
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 17500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d77d916a78482488999052a683183d
+      internalID: -2478400599503503742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_13
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 17500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5ff4e948f38d94e975226a96c456be
+      internalID: 7199914538168830426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_14
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 17500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82138eb258fe5a54dba0e272b2ddc78a
+      internalID: 4051637110922924853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_15
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 17500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12964a9fd82759a469595fd6f26aaa6a
+      internalID: -3126506236552277153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_16
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 17500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d77df7c494859647b36a10b1d8c17ee
+      internalID: 7393856833276595910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_17
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 17500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ae67786ae7e8a48ab852b15a05d81e
+      internalID: -6427174642839368820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b24e6649cfb43f4694d7a79abab18db
+      internalID: -3389429331940352608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_19
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 15000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b02b060fdcee346a92500136f2b5b0
+      internalID: -2135730054557430222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_20
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 15000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b89e17b075370458a32c5966208186
+      internalID: 8249933967295308350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_21
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 15000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5616ea9dd6b64c945b3fc3a2cdb50b98
+      internalID: 5069470016847977326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_22
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 15000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aae984dea90244393dde532520d2b2
+      internalID: -8771085391222717391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_23
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 15000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d36fa43c0a9166468d3719d978cf9ad
+      internalID: -6281743952896804687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_24
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 15000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d85687954d23042a165becedf3d001
+      internalID: -6239797028983507455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_25
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 15000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ae6805f91addc428fadbcc5678d862
+      internalID: 6129516239062279859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_26
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 15000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1756e1f0f383547bad1bcb6580aff6
+      internalID: 8388124554743719562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed112c11c9181d48833e7cbb50115f6
+      internalID: -1887326314530975254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_28
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 12500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5ea28b645ecc643afe6075119afbd1
+      internalID: 4860115789951071566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_29
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 12500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a43c7dc6c684845ab87e0b4af54a5c
+      internalID: 7854209040875360358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_30
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 12500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bd7d8c0ceb24842a7edc66f497a695
+      internalID: -873051196158746011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_31
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 12500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67eb512f21147248b0c49dbcddeeaeb
+      internalID: -4614986758351016261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_32
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 12500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8d49c5461b2e94288d5c8a0e34ef40
+      internalID: -8493140291655005607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_33
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 12500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2ba4a0b3f08684988b7b7bebf8d284
+      internalID: -2124421135246128862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_34
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 12500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7016f95fb6fd962459f39be113dba14c
+      internalID: -2218681747065077083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_35
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 12500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a132d37389488c644949d7a47457a0a1
+      internalID: 879927712571565346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debf2ef94961cb241aeb1e8e86b3a98d
+      internalID: 6518590696766258278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_37
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 10000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb1dc9d878bf2b409f9f2168d41de57
+      internalID: 3611431818389295937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_38
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 10000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac0f08c2f29e6f4eb90620320f37d63
+      internalID: 1979907909441756130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_39
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 10000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef80cc4006ec974998babdd78089c2a
+      internalID: 8807474759761115904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_40
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 10000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a9ad28ac8dc9b41b2daf5973b437f1
+      internalID: 7585433022869852378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_41
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 10000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc04949a74d4bc42be25680f51915cc
+      internalID: -5857895230432977805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_42
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 10000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9b140724f18c4438c8942b489f330f
+      internalID: -4591050351018211500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_43
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 10000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af427825520ba5648b4888bc1daf9e29
+      internalID: -7302361702706435088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_44
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 10000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c3b09a765e3e04994b4c65ceae10de
+      internalID: -570571664838869151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d4d3d5a2392d04985347d2b0c5d21c
+      internalID: 380738626990242154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_46
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 7500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2668cd9e39ead46b693197ac9788a6
+      internalID: -1406555986997247338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_47
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 7500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fc40c54d02ecd4db20dcb60a600218
+      internalID: -2814928950994529946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_48
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 7500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce59c6e13b8e854d8eb9b1618075ccb
+      internalID: 1692745594700371903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_49
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 7500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94911fa1337dbe548b088426a677396a
+      internalID: 7304186483551347993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_50
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 7500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aff0d1504f0a64184d0411e1e33077
+      internalID: -8235074648632575132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_51
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 7500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a7ae6ce1656464f86b5c6960337922
+      internalID: -3695740237449566823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_52
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 7500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fce85e6f49770846a118223f622afc5
+      internalID: -4696179737212044450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_53
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 7500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a195f9b7f04e51545a70ab0f266dbb5f
+      internalID: 7403295404212091517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53274e605931cb646a8f3e67f96fda27
+      internalID: 3196501442463952646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_55
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 5000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807d25d821d68df4ba3546378eaef6d5
+      internalID: 6328637870796016422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_56
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 5000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2dd397c175bac459486ef16e8c1051
+      internalID: 2362098982583168753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_57
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 5000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea98d9851e1f3e4ea019cea40f36944
+      internalID: -7884765751013620928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_58
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 5000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fdc59aba819e34c95fd451cd639e52
+      internalID: -5458784182957192362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_59
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 5000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724273f667696fa47adcf804557ab3b7
+      internalID: 2843598598760370023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_60
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 5000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cd0f79b56315244babb91ee6648279
+      internalID: -8973384548945784553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_61
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 5000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1600320d0817994c8508cafe6e65d4f
+      internalID: -1566142232527537415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_62
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 5000
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1159c55eaf9af428e5cfaa62f47677
+      internalID: 2993994818087900020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf24eefd5d1bd5a4b903d3ebf1a81881
+      internalID: -210517745716330672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_64
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77f71d7c755fa7468f736cd9bba529e
+      internalID: 5238005485903982402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_65
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 2500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5645f6bac388e4e9673d4f97940c30
+      internalID: -6012570631836856067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_66
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255e24c9e8ce0014d9ac535d7491391a
+      internalID: -8386233832690880364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_67
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 2500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5f07eb5b3fb4b498d2186875fc1eab
+      internalID: 8383538972320793880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_68
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 2500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acff25051e1521d4c946f902f0fa5372
+      internalID: -5474313320964578860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_69
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 2500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7c5b372ab08d74fa73b1a79067cbd0
+      internalID: -6596234515132872837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_70
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 2500
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85da1df08c0cc64e953ff17e97e0bd4
+      internalID: -978009005604405369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_71
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 2505
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572c1b9093464024aac478ede240f69f
+      internalID: 4138031037707028425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a014efe89ebf004888231028a8ad609
+      internalID: -8350610800709495907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_73
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a3255a11a41ae43a0535ebf5db32db
+      internalID: -4859647262636108951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmageBeam_74
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 688
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dcc21f78497c64c953ba656be882b2
+      internalID: 3548931307546365897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 92ee059bf2ce9624a93661339ff00511
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      archmageBeam_0: -4791597371837842037
+      archmageBeam_1: 8468347809457701899
+      archmageBeam_10: 2133509837133146313
+      archmageBeam_11: 6302802778893492687
+      archmageBeam_12: -2478400599503503742
+      archmageBeam_13: 7199914538168830426
+      archmageBeam_14: 4051637110922924853
+      archmageBeam_15: -3126506236552277153
+      archmageBeam_16: 7393856833276595910
+      archmageBeam_17: -6427174642839368820
+      archmageBeam_18: -3389429331940352608
+      archmageBeam_19: -2135730054557430222
+      archmageBeam_2: 4781983040016126001
+      archmageBeam_20: 8249933967295308350
+      archmageBeam_21: 5069470016847977326
+      archmageBeam_22: -8771085391222717391
+      archmageBeam_23: -6281743952896804687
+      archmageBeam_24: -6239797028983507455
+      archmageBeam_25: 6129516239062279859
+      archmageBeam_26: 8388124554743719562
+      archmageBeam_27: -1887326314530975254
+      archmageBeam_28: 4860115789951071566
+      archmageBeam_29: 7854209040875360358
+      archmageBeam_3: -652739713606753871
+      archmageBeam_30: -873051196158746011
+      archmageBeam_31: -4614986758351016261
+      archmageBeam_32: -8493140291655005607
+      archmageBeam_33: -2124421135246128862
+      archmageBeam_34: -2218681747065077083
+      archmageBeam_35: 879927712571565346
+      archmageBeam_36: 6518590696766258278
+      archmageBeam_37: 3611431818389295937
+      archmageBeam_38: 1979907909441756130
+      archmageBeam_39: 8807474759761115904
+      archmageBeam_4: -9073204569653860503
+      archmageBeam_40: 7585433022869852378
+      archmageBeam_41: -5857895230432977805
+      archmageBeam_42: -4591050351018211500
+      archmageBeam_43: -7302361702706435088
+      archmageBeam_44: -570571664838869151
+      archmageBeam_45: 380738626990242154
+      archmageBeam_46: -1406555986997247338
+      archmageBeam_47: -2814928950994529946
+      archmageBeam_48: 1692745594700371903
+      archmageBeam_49: 7304186483551347993
+      archmageBeam_5: 711873931112407272
+      archmageBeam_50: -8235074648632575132
+      archmageBeam_51: -3695740237449566823
+      archmageBeam_52: -4696179737212044450
+      archmageBeam_53: 7403295404212091517
+      archmageBeam_54: 3196501442463952646
+      archmageBeam_55: 6328637870796016422
+      archmageBeam_56: 2362098982583168753
+      archmageBeam_57: -7884765751013620928
+      archmageBeam_58: -5458784182957192362
+      archmageBeam_59: 2843598598760370023
+      archmageBeam_6: -7508679298893298557
+      archmageBeam_60: -8973384548945784553
+      archmageBeam_61: -1566142232527537415
+      archmageBeam_62: 2993994818087900020
+      archmageBeam_63: -210517745716330672
+      archmageBeam_64: 5238005485903982402
+      archmageBeam_65: -6012570631836856067
+      archmageBeam_66: -8386233832690880364
+      archmageBeam_67: 8383538972320793880
+      archmageBeam_68: -5474313320964578860
+      archmageBeam_69: -6596234515132872837
+      archmageBeam_7: -4532327928802267701
+      archmageBeam_70: -978009005604405369
+      archmageBeam_71: 4138031037707028425
+      archmageBeam_72: -8350610800709495907
+      archmageBeam_73: -4859647262636108951
+      archmageBeam_74: 3548931307546365897
+      archmageBeam_75: -5128382898504714858
+      archmageBeam_76: 6607233993834626633
+      archmageBeam_77: -6939605996887003169
+      archmageBeam_78: 4060192412435785631
+      archmageBeam_79: 43989597490092242
+      archmageBeam_8: -2733928782833290381
+      archmageBeam_80: 2484847556081705999
+      archmageBeam_81: 3872772244682870229
+      archmageBeam_82: 5320399846130488456
+      archmageBeam_83: -6367509623638897769
+      archmageBeam_84: -554047665121701581
+      archmageBeam_85: -4413603105131222
+      archmageBeam_9: 3924255162672108590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
