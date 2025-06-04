@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Wizard
   - Projectile
+  - PlayerProjectile
+  - UI
   layers:
   - Default
   - TransparentFX
