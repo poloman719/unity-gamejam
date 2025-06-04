@@ -6,10 +6,13 @@ public class YellowBeamScript : MonoBehaviour
     double timer;
     public Animator anim;
     public GameObject itself;
+    public AudioSource beamStart;
+    public AudioSource beamFire;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        beamStart.Play();
+        beamFire.PlayDelayed((float) 1.8);
     }
 
     // Update is called once per frame
@@ -19,6 +22,7 @@ public class YellowBeamScript : MonoBehaviour
         if (timer > fireTime)
         {
             anim.SetTrigger("Ending");
+            beamFire.volume -= 20 * Time.deltaTime;
         }
         if (timer > (fireTime + 1.542))
         {

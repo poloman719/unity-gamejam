@@ -125,9 +125,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76fe9f4c967b3434d83ad65a1b05488f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fireTime: 3
+  fireTime: 5
   anim: {fileID: 1691489643168748713}
   itself: {fileID: 5976876106982282015}
+  beamStart: {fileID: 6090142226157164083}
+  beamFire: {fileID: 6786381344268941574}
 --- !u!82 &6090142226157164083
 AudioSource:
   m_ObjectHideFlags: 0
@@ -140,7 +142,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 31d9eaa2ef4f08d4bb3fe047290679d3, type: 3}
   m_Resource: {fileID: 8300000, guid: 31d9eaa2ef4f08d4bb3fe047290679d3, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -237,7 +239,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 129dbf22900ee9f499ed1e98a67738e6, type: 3}
   m_Resource: {fileID: 8300000, guid: 129dbf22900ee9f499ed1e98a67738e6, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
