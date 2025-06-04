@@ -49,6 +49,7 @@ public class archmageBallin : MonoBehaviour
         {
             GameObject bullet = Instantiate(pellet, transform.position, transform.rotation);
             bullet.GetComponent<Rigidbody2D>().linearVelocity = new Vector2((float)Math.Sin((i * 22.5) * Math.PI / 180 + currentRotation), (float)Math.Cos((i * 22.5) * Math.PI / 180 + currentRotation));
+            Destroy(gameObject);
         }
     }
 }
