@@ -58,6 +58,7 @@ MonoBehaviour:
   yUpperBound: 4.5
   shootingCooldown: 0.1
   damageCooldown: 1
+  deathTime: 0.5
   playerProjectileObject: {fileID: 602324543731244687, guid: c55fef472743a457b87add96c2c0e573, type: 3}
   animator: {fileID: 8237127032937420500}
   dashSound: {fileID: 2258604496619787299}

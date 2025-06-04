@@ -13,6 +13,7 @@ public class PlayerController : MonoBehaviour
     public float yUpperBound = 5f;
     public double shootingCooldown = 0.1;
     public double damageCooldown = 1;
+    public double deathTime = 1;
     public GameObject playerProjectileObject;
     public Animator animator;
     InputAction move;
@@ -27,7 +28,6 @@ public class PlayerController : MonoBehaviour
     bool takingDamage = false;
     double damageTimer = 0;
     bool dying = false;
-    double deathTime = 1;
     double deathTimer = 0;
     public AudioSource dashSound;
     public AudioSource deathSound;
