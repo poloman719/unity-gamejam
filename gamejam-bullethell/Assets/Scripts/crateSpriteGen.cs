@@ -9,6 +9,7 @@ public class crateSpriteGen : MonoBehaviour
     public GameObject itself;
     public bool destroyed = false;
     public Sprite brokenCrate;
+    public Collider2D boxCollider;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -39,5 +40,7 @@ public class crateSpriteGen : MonoBehaviour
     {
         Debug.Log("I died");
         sr.sprite = brokenCrate;
+        destroyed = true;
+        Destroy(boxCollider);
     }
 }
