@@ -1039,7 +1039,7 @@ MonoBehaviour:
   generationRate: 1
   crate: {fileID: 5928212327497397302, guid: 312f7e1f78d332b499adb0aec571b29d, type: 3}
   stackedCrates: {fileID: 6081810226773722067, guid: 2127e642305d122438ede098b7927521, type: 3}
-  canSpawn: 0
+  canSpawn: 1
 --- !u!4 &366314298
 Transform:
   m_ObjectHideFlags: 0
@@ -2159,8 +2159,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: PAUSE (P)
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: ba3395b2f70a44242a2a6a04a720b92c, type: 2}
-  m_sharedMaterial: {fileID: 6031015125306091385, guid: ba3395b2f70a44242a2a6a04a720b92c, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2919,7 +2919,7 @@ MonoBehaviour:
   enemyWeights: 0100000002000000
   currentWeight: 0
   maxWeight: 4
-  canSpawn: 0
+  canSpawn: 1
   spawnTimer: 1
   timer: 0
   currentEnemies: []
