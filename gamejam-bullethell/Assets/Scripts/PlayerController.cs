@@ -39,6 +39,8 @@ public class PlayerController : MonoBehaviour
     public bool dashingInv = false;
     public double dashCooldown = 1;
     public double currentCooldown = 0;
+    bool introWalk = true;
+    double introTimer = 0;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
