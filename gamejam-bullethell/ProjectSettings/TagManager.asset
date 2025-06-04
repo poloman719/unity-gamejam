@@ -8,6 +8,8 @@ TagManager:
   - Projectile
   - PlayerProjectile
   - ContinueText
+  - UI
+  - Spawner
   layers:
   - Default
   - TransparentFX

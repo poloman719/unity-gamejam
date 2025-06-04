@@ -2613,7 +2613,7 @@ GameObject:
   - component: {fileID: 1402142081}
   m_Layer: 0
   m_Name: Enemy Spawner
-  m_TagString: Untagged
+  m_TagString: Spawner
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2706,11 +2706,14 @@ MonoBehaviour:
   enemyWeights: 0100000002000000
   currentWeight: 0
   maxWeight: 4
+  maxWeightLimit: 4
   canSpawn: 1
   spawnTimer: 1
   timer: 0
   currentEnemies: []
   temp: []
+  enemiesKilled: 0
+  timeAlive: 0
 --- !u!1 &1423346532
 GameObject:
   m_ObjectHideFlags: 0
