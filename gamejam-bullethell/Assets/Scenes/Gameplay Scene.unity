@@ -2269,7 +2269,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -2818,8 +2818,8 @@ MonoBehaviour:
   - {fileID: 3086895145429654878, guid: 37adb86a8eab7314db899cfa92d8ea53, type: 3}
   enemyWeights: 0100000002000000
   currentWeight: 0
-  maxWeight: 4
-  canSpawn: 1
+  maxWeight: 0
+  canSpawn: 0
   spawnTimer: 1
   timer: 0
   currentEnemies: []
