@@ -8,6 +8,7 @@ public class YellowBeamScript : MonoBehaviour
     public GameObject itself;
     public AudioSource beamStart;
     public AudioSource beamFire;
+    public BoxCollider2D bc;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -19,10 +20,14 @@ public class YellowBeamScript : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime;
+        if (timer > 1.8){
+            bc.enabled = true;
+        }
         if (timer > fireTime)
         {
             anim.SetTrigger("Ending");
-            beamFire.volume -= (float) 1 * Time.deltaTime;
+            beamFire.volume -= (float)1 * Time.deltaTime;
+            bc.enabled = false;
         }
         if (timer > (fireTime + 1.542))
         {
