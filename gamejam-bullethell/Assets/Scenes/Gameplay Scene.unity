@@ -1036,9 +1036,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8c5075a053fb2345919e2c7d1c21a7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  generationRate: 1
+  generationRate: 1e+24
   crate: {fileID: 5928212327497397302, guid: 312f7e1f78d332b499adb0aec571b29d, type: 3}
   stackedCrates: {fileID: 6081810226773722067, guid: 2127e642305d122438ede098b7927521, type: 3}
+  canSpawn: 1
 --- !u!4 &366314298
 Transform:
   m_ObjectHideFlags: 0
@@ -2818,8 +2819,8 @@ MonoBehaviour:
   - {fileID: 3086895145429654878, guid: 37adb86a8eab7314db899cfa92d8ea53, type: 3}
   enemyWeights: 0100000002000000
   currentWeight: 0
-  maxWeight: 0
-  canSpawn: 1
+  maxWeight: 4
+  canSpawn: 0
   spawnTimer: 1
   timer: 0
   currentEnemies: []

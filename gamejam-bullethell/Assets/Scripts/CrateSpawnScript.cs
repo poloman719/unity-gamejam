@@ -6,6 +6,8 @@ public class CrateSpawnScript : MonoBehaviour
     public float generationRate;
     public GameObject crate;
     public GameObject stackedCrates;
+    public bool canSpawn = true;
+
 
     double timer;
 
@@ -18,6 +20,7 @@ public class CrateSpawnScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(!canSpawn) return;
         int randCrate = Random.Range(0,2);
         float randPos = Random.Range(-9,-4);
         Vector3 pos = new Vector3(randPos,(float)6.4,1);
