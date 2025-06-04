@@ -17,6 +17,8 @@ public class WizardScript : MonoBehaviour
     public bool dying = false;
     public delegate void RemoveSelf();
     public RemoveSelf removeSelf;
+    public AudioSource deathSound;
+
 
     bool isAttacking = false;
     bool attackComplete = false;
@@ -153,6 +155,7 @@ public class WizardScript : MonoBehaviour
     public void OnDeath()
     {
         Debug.Log("I died");
+        deathSound.Play();
         animator.SetTrigger("Dead");
         dying = true;
     }

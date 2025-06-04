@@ -17,6 +17,8 @@ public class YellowWizardScript : MonoBehaviour
     public int moveDirection = 0; // 0 -> not moving, -1 -> left, 1 -> right
     public delegate void RemoveSelf();
     public RemoveSelf removeSelf;
+    public AudioSource deathSound;
+
 
 
     bool isAttacking = false;
@@ -136,6 +138,7 @@ public class YellowWizardScript : MonoBehaviour
     public void OnDeath()
     {
         Debug.Log("I died");
+        deathSound.Play();
         animator.SetTrigger("Dead");
         dying = true;
     }
