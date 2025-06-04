@@ -32,7 +32,11 @@ public class PlayerController : MonoBehaviour
     public AudioSource dashSound;
     public AudioSource deathSound;
     public GameObject GameOverScreen;
+    public CapsuleCollider2D hitbox;
 
+    public double dashIFrames = 0.5;
+    public double dashTimer;
+    public bool dashingInv = false;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -93,6 +97,7 @@ public class PlayerController : MonoBehaviour
         dashSound.Play();
         preDashVelocity = velocity;
         velocity = velocity.normalized * dashFactor;
+        dashingInv = true;
     }
 
     // void onShoot(InputAction.CallbackContext context)
@@ -176,6 +181,18 @@ public class PlayerController : MonoBehaviour
         else
         {
             velocity = new Vector3();
+        }
+
+        if (dashIFrames > dashTimer && dashingInv)
+        {
+            dashTimer += Time.deltaTime;
+            hitbox.enabled = false;
+        }
+        else
+        {
+            dashTimer = 0;
+            hitbox.enabled = true;
+            dashingInv = false;
         }
     }
 

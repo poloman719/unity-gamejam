@@ -41,7 +41,7 @@ public class crateSpriteGen : MonoBehaviour
     {
         Debug.Log("I died");
         sr.sprite = brokenCrate;
-        Destroy(boxCollider);
+        boxCollider.enabled = false;
         destroyedSound.Play();
     }
 }
