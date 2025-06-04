@@ -1,0 +1,1095 @@
+fileFormatVersion: 2
+guid: e22995e543878a84881b4f84b8570454
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7717798607814000480
+    second: archmagedeath (1)_0
+  - first:
+      213: -7895401143710384775
+    second: archmagedeath (1)_1
+  - first:
+      213: 5273539312965126579
+    second: archmagedeath (1)_2
+  - first:
+      213: -5183390006341156832
+    second: archmagedeath (1)_3
+  - first:
+      213: 5318099779505801497
+    second: archmagedeath (1)_4
+  - first:
+      213: -3627107374609798802
+    second: archmagedeath (1)_5
+  - first:
+      213: 110603457090992721
+    second: archmagedeath (1)_6
+  - first:
+      213: -5848585800415357304
+    second: archmagedeath (1)_7
+  - first:
+      213: -8946140947713662539
+    second: archmagedeath (1)_8
+  - first:
+      213: 5265581225770292568
+    second: archmagedeath (1)_9
+  - first:
+      213: -6163961464709018545
+    second: archmagedeath (1)_10
+  - first:
+      213: -927664601173338689
+    second: archmagedeath (1)_11
+  - first:
+      213: 873747657575619540
+    second: archmagedeath (1)_12
+  - first:
+      213: 1532564689745910277
+    second: archmagedeath (1)_13
+  - first:
+      213: 6028794719347864438
+    second: archmagedeath (1)_14
+  - first:
+      213: 7860372548915633951
+    second: archmagedeath (1)_15
+  - first:
+      213: -5719500416523724310
+    second: archmagedeath (1)_16
+  - first:
+      213: -408953455112882426
+    second: archmagedeath (1)_17
+  - first:
+      213: 2716433384395431451
+    second: archmagedeath (1)_18
+  - first:
+      213: -4856107558885351752
+    second: archmagedeath (1)_19
+  - first:
+      213: -1668486307588166083
+    second: archmagedeath (1)_20
+  - first:
+      213: 8771202526355726833
+    second: archmagedeath (1)_21
+  - first:
+      213: -7250115412928327956
+    second: archmagedeath (1)_22
+  - first:
+      213: -6533847450216493226
+    second: archmagedeath (1)_23
+  - first:
+      213: -8848632049852998899
+    second: archmagedeath (1)_24
+  - first:
+      213: 6817145301345050014
+    second: archmagedeath (1)_25
+  - first:
+      213: -3068396481819182993
+    second: archmagedeath (1)_26
+  - first:
+      213: 750110055362327875
+    second: archmagedeath (1)_27
+  - first:
+      213: -9114508530663150699
+    second: archmagedeath (1)_28
+  - first:
+      213: 3127904455798858869
+    second: archmagedeath (1)_29
+  - first:
+      213: 8537730726998100872
+    second: archmagedeath (1)_30
+  - first:
+      213: -2095694054439235195
+    second: archmagedeath (1)_31
+  - first:
+      213: -3714501595888988536
+    second: archmagedeath (1)_32
+  - first:
+      213: 4723484910786976720
+    second: archmagedeath (1)_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: archmagedeath (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca44039c55a75a4183aac2e9bc22856
+      internalID: 1491791509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1536
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c9238868587764ea18afd03ebd050b
+      internalID: -675763504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1536
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7d68c949a998248ab545d8ad4c9aea
+      internalID: -2001789036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1536
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f178467c04bc926438ff2dc19b97b97b
+      internalID: 1861253661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac5045832156c444b225ebe32583645
+      internalID: -216992843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1536
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d12bb1182a44c47b05db56cdfc4370
+      internalID: 246041701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364e007a544330645bb29ed8efefd0bb
+      internalID: -1088012067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261c1db5cbafebe44a0d0179fd68e3fa
+      internalID: 620658173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bdf2131fb1aa644bc1063a3b51033c
+      internalID: -350820862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08edc00a11fdbdd40b4b51f47712ee52
+      internalID: -530427522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bedb6ec8d7f654cb665594699470de
+      internalID: 784485400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1280
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12c4fa2c0bf85a469d67d54338c8bc4
+      internalID: 1022848439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0466bacc28f153d4fbc19bdfb2b6396e
+      internalID: -944543350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b482dc9cb0ab144bb83dc770008d5d
+      internalID: -264504562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8392ba45d137ce48b96cff54195d224
+      internalID: 1352082493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1024
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c1da52bfed81f42a0314f77b2e18ac
+      internalID: 1966088807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63392f24911f9d749ae330276e56cd6c
+      internalID: -1946724404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1024
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25fe02ad59875b4198a3ac90591bf46
+      internalID: -1828810340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a6db5b7058b4342baed5cfc8e93893
+      internalID: 205930801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d349fdad82b0346a13a616a893cc7a
+      internalID: 181696702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04bde2d65569a344bf093e82ea6f19c
+      internalID: 1461506809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d2ce15567e1514c981fdf136206179
+      internalID: 1390565161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868b4cb1e9bf14f47859abdc03c58ca0
+      internalID: 595781173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 768
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3623f0135915f4e8f773bf59105171
+      internalID: -511118378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c61c420a01339849872adabe53fb5ad
+      internalID: -1995806135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec4ea4271db0834588ae8c7794031df
+      internalID: 1203400368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4398fb5f9d4c9647a47418f011524a6
+      internalID: -1455656737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 512
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a997bbab34f59484bbbba0be6fc584c8
+      internalID: -768432680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bc1db573ca40346b55661d804ecf6f
+      internalID: -1112516834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 512
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5868f58f4692041a847f25d88d1c60
+      internalID: -1739119091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c6becc17c21d04e8a65fd437b7eeaa
+      internalID: -1745985934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413005f7c8dff3b4b95c8b2313e17bb8
+      internalID: -53860250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6363ce8ad6a7f3443965191ad11662f5
+      internalID: 1737670473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaf998a52dd0094c91faf23b9ee29d4
+      internalID: 952789164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505f8d182c0818444aa38d6800422bfd
+      internalID: -1948985689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 256
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4db72668142b51489569a87cc579ecd
+      internalID: -733343913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d60232398bdac443aef9f75722b240e
+      internalID: -1786929399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archmagedeath (1)_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef823d797acfe14c8c2f061165b65f3
+      internalID: -1851222186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 86750dcbaa1e3fb4ea3a66aa87bf7a01
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":7.0},"gridSpriteSize":{"x":320.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      archmagedeath (1)_0: 1491791509
+      archmagedeath (1)_1: -675763504
+      archmagedeath (1)_10: 784485400
+      archmagedeath (1)_11: 1022848439
+      archmagedeath (1)_12: -944543350
+      archmagedeath (1)_13: -264504562
+      archmagedeath (1)_14: 1352082493
+      archmagedeath (1)_15: 1966088807
+      archmagedeath (1)_16: -1946724404
+      archmagedeath (1)_17: -1828810340
+      archmagedeath (1)_18: 205930801
+      archmagedeath (1)_19: 181696702
+      archmagedeath (1)_2: -2001789036
+      archmagedeath (1)_20: 1461506809
+      archmagedeath (1)_21: 1390565161
+      archmagedeath (1)_22: 595781173
+      archmagedeath (1)_23: -511118378
+      archmagedeath (1)_24: -1995806135
+      archmagedeath (1)_25: 1203400368
+      archmagedeath (1)_26: -1455656737
+      archmagedeath (1)_27: -768432680
+      archmagedeath (1)_28: -1112516834
+      archmagedeath (1)_29: -1739119091
+      archmagedeath (1)_3: 1861253661
+      archmagedeath (1)_30: -1745985934
+      archmagedeath (1)_31: -53860250
+      archmagedeath (1)_32: 1737670473
+      archmagedeath (1)_33: 952789164
+      archmagedeath (1)_34: -1948985689
+      archmagedeath (1)_35: -733343913
+      archmagedeath (1)_36: -1786929399
+      archmagedeath (1)_37: -1851222186
+      archmagedeath (1)_4: -216992843
+      archmagedeath (1)_5: 246041701
+      archmagedeath (1)_6: -1088012067
+      archmagedeath (1)_7: 620658173
+      archmagedeath (1)_8: -350820862
+      archmagedeath (1)_9: -530427522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
