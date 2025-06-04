@@ -51,7 +51,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: YellowBeamStart
+  m_Name: beam start
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -65,7 +65,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 9f0240ac7ff167145ad4b6307c739601, type: 2}
+  m_Motion: {fileID: 7400000, guid: 3b3a57220a8fd17469d8654536ed9f01, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -153,7 +153,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: YellowBeamEnd
+  m_Name: beam end
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -167,7 +167,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 9fa5a61fe7364264a9f77874227b9fa2, type: 2}
+  m_Motion: {fileID: 7400000, guid: 9bf0773550eb2ad4a9aed0f6c0303c51, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -208,7 +208,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: YellowBeamShoot
+  m_Name: beam shoot
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -223,7 +223,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: d741d79ab9a8f7f44b1325d609a771b6, type: 2}
+  m_Motion: {fileID: 7400000, guid: ec5a7a4cb85857e42813d460a4aabc35, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 

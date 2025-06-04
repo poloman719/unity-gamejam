@@ -36,8 +36,8 @@ public class archmageScript : MonoBehaviour
 
     }
 
-    [ContextMenu("Spear Attack")]
-    public void spearAttack()
+    [ContextMenu("Screw Attack")]
+    public void screwAttack()
     {
 
     }
