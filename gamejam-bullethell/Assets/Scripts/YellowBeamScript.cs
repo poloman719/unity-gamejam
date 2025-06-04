@@ -22,7 +22,7 @@ public class YellowBeamScript : MonoBehaviour
         if (timer > fireTime)
         {
             anim.SetTrigger("Ending");
-            beamFire.volume -= (float) .5 * Time.deltaTime;
+            beamFire.volume -= (float) 1 * Time.deltaTime;
         }
         if (timer > (fireTime + 1.542))
         {
