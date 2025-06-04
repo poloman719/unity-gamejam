@@ -31,12 +31,13 @@ public class PlayerHealth : MonoBehaviour
     {
         if (currHearts > 0)
         {
-            damage.Play();
             currHearts -= amount;
         }
         else
         {
             Debug.Log("died");
+            PlayerController player = GameObject.FindWithTag("Player").GetComponent<PlayerController>();
+            player.OnDeath();
         }
         heartObjects[currHearts].GetComponent<Image>().sprite = HeartDeadSprite;
     }
