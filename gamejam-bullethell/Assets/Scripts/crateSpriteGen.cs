@@ -7,9 +7,10 @@ public class crateSpriteGen : MonoBehaviour
     public GameObject HealthBar;
     public float scrollRate;
     public GameObject itself;
-    public bool destroyed = false;
     public Sprite brokenCrate;
     public Collider2D boxCollider;
+    public AudioSource destroyedSound;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -40,7 +41,7 @@ public class crateSpriteGen : MonoBehaviour
     {
         Debug.Log("I died");
         sr.sprite = brokenCrate;
-        destroyed = true;
         Destroy(boxCollider);
+        destroyedSound.Play();
     }
 }
