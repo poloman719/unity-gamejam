@@ -6,6 +6,7 @@ public class PauseMenu : MonoBehaviour
 {
     public GameObject PauseOverlay;
     public GameObject QuitConfirmOverlay;
+    public GameObject lowPassCutoffFreq;
 
     InputAction pause;
 

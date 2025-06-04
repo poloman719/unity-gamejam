@@ -158,13 +158,11 @@ public class PlayerController : MonoBehaviour
         {
             velocity = new Vector3();
         }
-        Debug.Log("new velocity: " + velocity);
-
-
     }
 
     void OnTriggerEnter2D(Collider2D col)
     {
+        Debug.Log(col.name);
         if (takingDamage) return;
         if (col.name == "Projectile(Clone)")
         {
