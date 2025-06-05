@@ -104,7 +104,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 3611431818389295937, guid: 711c0f2a0ca9ee24992f8879b029e7a7, type: 3}
+  m_Sprite: {fileID: -4791597371837842037, guid: 711c0f2a0ca9ee24992f8879b029e7a7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -399,3 +399,4 @@ MonoBehaviour:
   itself: {fileID: 5976876106982282015}
   beamStart: {fileID: 6090142226157164083}
   beamFire: {fileID: 6786381344268941574}
+  bc: {fileID: 4821338407578864462}

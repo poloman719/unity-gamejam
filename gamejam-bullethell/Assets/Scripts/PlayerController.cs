@@ -106,6 +106,7 @@ public class PlayerController : MonoBehaviour
             dashingInv = true;
             animator.SetBool("Dashing", true);
             currentCooldown = dashCooldown;
+            dashTimer = 0;
         }
             
     }
@@ -134,6 +135,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         currentCooldown -= Time.fixedDeltaTime;
+        dashTimer += Time.fixedDeltaTime;
         if (dying)
         {
             deathTimer += Time.deltaTime;
@@ -196,18 +198,16 @@ public class PlayerController : MonoBehaviour
 
         if (dashIFrames > dashTimer && dashingInv)
         {
-            dashTimer += Time.deltaTime;
             hitbox.enabled = false;
-            if (dashTimer > 0.208)
-            {
-                animator.SetBool("Dashing", false);
-            }
         }
         else
         {
-            dashTimer = 0;
             hitbox.enabled = true;
             dashingInv = false;
+        }
+        if (dashTimer > 0.208)
+        {
+            animator.SetBool("Dashing", false);
         }
     }
 
@@ -215,7 +215,7 @@ public class PlayerController : MonoBehaviour
     {
         Debug.Log(col.name);
         if (takingDamage) return;
-        if (col.name == "Projectile(Clone)" || col.name == "Yellow Beam(Clone)" || col.name == "CratePrefab(Clone)" || col.name == "StackedCratesPrefab(Clone)")
+        if (col.name == "Projectile(Clone)" || col.name == "Yellow Beam(Clone)" || col.name == "CratePrefab(Clone)" || col.name == "StackedCratesPrefab(Clone)" || col.name == "Archmage Drill Debris(Clone)" || col.name == "ArchmageBallin(Clone)" || col.name == "ArchmageBallPellet(Clone)" || col.name == "ArchmageBeam(Clone)" || col.name == "ArchmageDrill(Clone)")
         {
             GameObject uiObject = GameObject.FindWithTag("UI");
             uiObject.GetComponent<PlayerHealth>().takeDamage(1);

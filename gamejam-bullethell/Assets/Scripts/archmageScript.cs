@@ -71,13 +71,13 @@ public class archmageScript : MonoBehaviour
             switch (direction)
             {
                 case 0: // Left
-                    Instantiate(beam, new Vector2(-3, UnityEngine.Random.Range(-4, (float)2.51)), Quaternion.Euler(new Vector3(0, 0, 90)));
+                    Instantiate(beam, new Vector2(-10, UnityEngine.Random.Range((float) -3.75, (float)3)), Quaternion.Euler(new Vector3(0, 0, 90)));
                     break;
                 case 1: // Right
-                    Instantiate(beam, new Vector2(-10, UnityEngine.Random.Range(-4, (float)2.51)), Quaternion.Euler(new Vector3(0, 0, -90)));
+                    Instantiate(beam, new Vector2(-3, UnityEngine.Random.Range((float) -3.75, (float)3)), Quaternion.Euler(new Vector3(0, 0, -90)));
                     break;
                 case 2: // Up
-                    Instantiate(beam, new Vector2(UnityEngine.Random.Range((float)-10, (float)-4), (float)-2.75), Quaternion.Euler(new Vector3(0, 0, 0)));
+                    Instantiate(beam, new Vector2(UnityEngine.Random.Range((float)-10, (float)-4), (float) 3.75), Quaternion.Euler(new Vector3(0, 0, 0)));
                     break;
                 default:
                     Debug.Log("Error");
