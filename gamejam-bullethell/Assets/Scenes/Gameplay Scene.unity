@@ -2712,7 +2712,7 @@ MonoBehaviour:
   enemyWeights: 0100000002000000
   currentWeight: 0
   maxWeight: 2
-  maxWeightLimit: 20
+  maxWeightLimit: 15
   canSpawn: 1
   spawnTimer: 1
   timer: 0

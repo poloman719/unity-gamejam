@@ -54,7 +54,7 @@ public class EnemySpawnScript : MonoBehaviour
             }
         }
 
-        if (maxWeight == maxWeightLimit && enemiesKilled == 50) bossSpawn = true;
+        if (maxWeight == maxWeightLimit && enemiesKilled == 30) bossSpawn = true;
     }
 
     [ContextMenu("Spawn Red Wizard")]
@@ -103,7 +103,7 @@ public class EnemySpawnScript : MonoBehaviour
     void killAnEnemy()
     {
         enemiesKilled += 1;
-        if (enemiesKilled % 2 == 0 && enemiesKilled <= maxWeightLimit * 2)
+        if (enemiesKilled % 2 == 0 && maxWeight + 1 <= maxWeightLimit)
         {
             maxWeight += 1;
         } 

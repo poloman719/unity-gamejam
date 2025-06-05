@@ -27,7 +27,7 @@ public class archmageBallin : MonoBehaviour
             sprayBullet();
             timer = 0;
         }
-        if (transform.position.y > 5 || transform.position.y < -5 || transform.position.x > -3 || transform.position.x < -10)
+        if (transform.position.y > 5 || transform.position.y < -4 || transform.position.x > -3 || transform.position.x < -10)
         {
             explodeBullet();
             Destroy(gameObject);
