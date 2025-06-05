@@ -25,6 +25,7 @@ public class archmageScript : MonoBehaviour
     // Movement
     public int moveDirection = -1;
     public int prevMove;
+    public double teleportCooldown = 0;
 
     // Attack Speed
     public double attackSpeed;
@@ -40,15 +41,17 @@ public class archmageScript : MonoBehaviour
     {
         timer += Time.deltaTime;
         moveTimer += Time.deltaTime / 3;
-        moveWave();
+        moveWaveModified();
 
         if (timer > attackSpeed && !attacked)
         {
             prevMove = moveDirection;
             moveDirection = 0;
             attacked = true;
+            archmageAnimator.SetTrigger("Attacking");
             switch (UnityEngine.Random.Range(1, 5))
             {
+
                 case 1:
                     stillBeamAttack();
                     break;
@@ -71,6 +74,7 @@ public class archmageScript : MonoBehaviour
             timer = 0;
             moveDirection = prevMove;
             attacked = false;
+            archmageAnimator.ResetTrigger("Attacking");
         }
     }
 
@@ -145,8 +149,8 @@ public class archmageScript : MonoBehaviour
             bullet.GetComponent<Rigidbody2D>().linearVelocity = new Vector2((float)Math.Sin((i * 11.25) * Math.PI / 180 + transform.rotation.z), (float)Math.Cos((i * 11.25) * Math.PI / 180 + transform.rotation.z));
         }
     }
-    
-    void moveWave()
+
+    void moveWaveModified()
     {
         if (rb.position.x > -4.5)
         {
@@ -157,5 +161,17 @@ public class archmageScript : MonoBehaviour
             moveDirection = 1;
         }
         rb.linearVelocity = new Vector2((float)(moveDirection), (float)(Math.Sin(moveTimer * 4)));
+        int teleportChance = UnityEngine.Random.Range(0, 100);
+        if (teleportChance == 0 && teleportCooldown <= 0)
+        {
+            archmageAnimator.ResetTrigger("Teleporting");
+            gameObject.transform.position = new Vector2((float)(-3.33 * UnityEngine.Random.Range(1, 4)), transform.position.y);
+            archmageAnimator.SetTrigger("Teleporting");
+            teleportCooldown = 5;
+        }
+        if (teleportCooldown > 0)
+        {
+            teleportCooldown -= Time.fixedDeltaTime;
+        }
     }
 }

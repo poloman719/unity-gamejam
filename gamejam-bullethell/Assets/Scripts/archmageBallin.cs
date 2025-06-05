@@ -40,7 +40,7 @@ public class archmageBallin : MonoBehaviour
         for (int i = 0; i < 8; i++)
         {
             GameObject bullet = Instantiate(pellet, transform.position, transform.rotation);
-            bullet.GetComponent<Rigidbody2D>().linearVelocity = new Vector2((float)Math.Sin((i * 45) * Math.PI / 180 + currentRotation), (float)Math.Cos((i * 45) * Math.PI / 180 + currentRotation));
+            bullet.GetComponent<Rigidbody2D>().linearVelocity = new Vector2((float)Math.Sin((i * 45) * Math.PI / 180 + currentRotation), (float)Math.Cos((i * 45) * Math.PI / 180 + currentRotation)) * 2;
         }
     }
     public void explodeBullet()
@@ -48,7 +48,7 @@ public class archmageBallin : MonoBehaviour
         for (int i = 0; i < 16; i++)
         {
             GameObject bullet = Instantiate(pellet, transform.position, transform.rotation);
-            bullet.GetComponent<Rigidbody2D>().linearVelocity = new Vector2((float)Math.Sin((i * 22.5) * Math.PI / 180 + currentRotation), (float)Math.Cos((i * 22.5) * Math.PI / 180 + currentRotation));
+            bullet.GetComponent<Rigidbody2D>().linearVelocity = new Vector2((float)Math.Sin((i * 22.5) * Math.PI / 180 + currentRotation), (float)Math.Cos((i * 22.5) * Math.PI / 180 + currentRotation)) * 2;
             Destroy(gameObject);
         }
     }

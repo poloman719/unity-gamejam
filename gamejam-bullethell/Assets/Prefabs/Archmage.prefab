@@ -138,6 +138,7 @@ MonoBehaviour:
   attackTimer: 0
   moveDirection: -1
   prevMove: 0
+  teleportCooldown: 5
   attackSpeed: 5
 --- !u!50 &2434412995533335123
 Rigidbody2D:
