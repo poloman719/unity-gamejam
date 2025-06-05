@@ -16,7 +16,7 @@ public class debrisScript : MonoBehaviour
     {
         
         rb.linearVelocity = new Vector2((float)Math.Cos((transform.eulerAngles.z + 180) * Math.PI / 180), (float)Math.Sin((transform.eulerAngles.z + 180) * Math.PI / 180)) * 5;
-         if (transform.position.y > 7 || transform.position.y < -7 || transform.position.x > 1 || transform.position.x < -14)
+        if (transform.position.y > 7 || transform.position.y < -7 || transform.position.x > 1 || transform.position.x < -14)
         {
             Destroy(gameObject);
         }
