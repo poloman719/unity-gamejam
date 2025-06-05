@@ -2709,7 +2709,7 @@ MonoBehaviour:
   - {fileID: 3086895145429654878, guid: 37adb86a8eab7314db899cfa92d8ea53, type: 3}
   enemyWeights: 0100000002000000
   currentWeight: 0
-  maxWeight: 1
+  maxWeight: 2
   maxWeightLimit: 20
   canSpawn: 1
   spawnTimer: 1

@@ -13,20 +13,21 @@ public class archmageBeamScript : MonoBehaviour
     void Start()
     {
         beamStart.Play();
-        beamFire.PlayDelayed((float) 2);
+        beamFire.PlayDelayed((float)2);
     }
 
     // Update is called once per frame
     void Update()
     {
         timer += Time.deltaTime;
-        if (timer > 2){
+        if (timer > 2)
+        {
             bc.enabled = true;
         }
         if (timer > fireTime)
         {
             anim.SetTrigger("Ending");
-            beamFire.volume -= (float) 1 * Time.deltaTime;
+            beamFire.volume -= (float)1 * Time.deltaTime;
             bc.enabled = false;
         }
         if (timer > (fireTime + 1.542))

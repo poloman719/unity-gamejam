@@ -22,8 +22,13 @@ public class archmageScript : MonoBehaviour
     public double moveTimer;
     public double attackTimer;
 
-    //Movement
+    // Movement
     public int moveDirection = -1;
+    public int prevMove;
+
+    // Attack Speed
+    public double attackSpeed;
+    bool attacked = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -36,6 +41,37 @@ public class archmageScript : MonoBehaviour
         timer += Time.deltaTime;
         moveTimer += Time.deltaTime / 2;
         moveWave();
+
+        if (timer > attackSpeed && !attacked)
+        {
+            prevMove = moveDirection;
+            moveDirection = 0;
+            attacked = true;
+            switch (UnityEngine.Random.Range(1, 5))
+            {
+                case 1:
+                    stillBeamAttack();
+                    break;
+                case 2:
+                    beamSweepAttack();
+                    break;
+                case 3:
+                    ballinAttack();
+                    break;
+                case 4:
+                    screwAttack();
+                    break;
+                default:
+                    Debug.Log("Archmage Move Select Error");
+                    break;
+            }
+        }
+        if (timer > attackSpeed + 2.5)
+        {
+            timer = 0;
+            moveDirection = prevMove;
+            attacked = false;
+        }
     }
 
     [ContextMenu("Static Beam Attack")]
@@ -67,24 +103,22 @@ public class archmageScript : MonoBehaviour
     {
         for (int i = 0; i < movingBeamCt; i++)
         {
-            int direction = UnityEngine.Random.Range(0, 3);
+            int direction = UnityEngine.Random.Range(0, 2);
             switch (direction)
             {
                 case 0: // Left
-                    Instantiate(beam, new Vector2(-10, UnityEngine.Random.Range((float) -3.75, (float)3)), Quaternion.Euler(new Vector3(0, 0, 90)));
+                    Instantiate(beam, new Vector2(-10, UnityEngine.Random.Range((float)-3.75, (float)3)), Quaternion.Euler(new Vector3(0, 0, 90)));
                     break;
                 case 1: // Right
-                    Instantiate(beam, new Vector2(-3, UnityEngine.Random.Range((float) -3.75, (float)3)), Quaternion.Euler(new Vector3(0, 0, -90)));
-                    break;
-                case 2: // Up
-                    Instantiate(beam, new Vector2(UnityEngine.Random.Range((float)-10, (float)-4), (float) 3.75), Quaternion.Euler(new Vector3(0, 0, 0)));
+                    Instantiate(beam, new Vector2(-3, UnityEngine.Random.Range((float)-3.75, (float)3)), Quaternion.Euler(new Vector3(0, 0, -90)));
                     break;
                 default:
                     Debug.Log("Error");
                     break;
             }
         }
-        
+        GameObject movingBeam = Instantiate(beam, new Vector2(-10, (float)3.75), transform.rotation);
+        movingBeam.AddComponent<MovingBeamScript>();
     }
 
     [ContextMenu("Ball Attack")]
