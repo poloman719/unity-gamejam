@@ -131,12 +131,13 @@ MonoBehaviour:
   archmageBallPellet: {fileID: 6858488606782543746, guid: b3ca5269b063e4c41a6b2e31b79c6991, type: 3}
   playerWagon: {fileID: 2263301741207489066, guid: 598768ecba161244687d4d23841f46ae, type: 3}
   rb: {fileID: 2434412995533335123}
-  staticBeamCt: 5
-  movingBeamCt: 3
+  staticBeamCt: 4
+  movingBeamCt: 2
   timer: 0
   moveTimer: 0
   attackTimer: 0
   moveDirection: -1
+  prevMove: 0
   attackSpeed: 5
 --- !u!50 &2434412995533335123
 Rigidbody2D:

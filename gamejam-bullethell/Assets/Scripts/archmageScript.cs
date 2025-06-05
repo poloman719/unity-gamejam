@@ -39,7 +39,7 @@ public class archmageScript : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime;
-        moveTimer += Time.deltaTime / 2;
+        moveTimer += Time.deltaTime / 3;
         moveWave();
 
         if (timer > attackSpeed && !attacked)
